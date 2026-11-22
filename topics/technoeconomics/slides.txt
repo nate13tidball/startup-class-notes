@@ -1,0 +1,1286 @@
+Technoeconomics
+Spreadsheet Model
+Why technoeconomics?
+
+Businesses are built on technoeconomics.
+SpaceX’s origins
+
+Elon flies to Russia with a suitcase full of cash to buy a
+rocket
+
+SpaceX’s origins
+
+Elon flies to Russia with a suitcase full of cash to buy a
+rocket
+
+
+
+Russians don’t want to sell Elon a rocket
+
+SpaceX’s origins
+
+Elon flies to Russia with a suitcase full of cash to buy a
+rocket
+
+
+
+Russians don’t want to sell Elon a rocket
+
+
+
+Everyone thought Elon would be sad
+
+SpaceX’s origins
+
+Elon wasn’t sad
+
+
+SpaceX’s origins
+
+Elon wasn’t sad
+
+
+
+Elon was working on a spreadsheet
+SpaceX’s origins
+
+Elon wasn’t sad
+
+
+
+Elon was working on a spreadsheet
+
+
+
+Elon found out the idiot index was 50 for a rocket
+There is always a way
+Why technoeconomics?
+
+Businesses are built on technoeconomics.
+
+
+
+
+SpaceX started with a spreadsheet about the cost of
+building a rocket.
+Why technoeconomics?
+
+Businesses are built on technoeconomics.
+
+
+
+
+SpaceX started with a spreadsheet about the cost of
+building a rocket.
+
+
+
+
+Solugen, Aalo, Antora, Molten, BillionToOne, Plasmidsaurus
+are all built on technoeconomics.
+Mr. Burns test
+
+Mr. Burns test
+
+Greedy capitalists buy things because:
+
+   They get better, faster, cheaper outcomes
+
+   They make more money if they buy
+
+
+
+
+
+
+TEAs prove you save AND/OR make them $
+Recombinant DNA in ‘70s
+Genentech
+Genentech
+
+Insulin made from pigs/cows:
+
+$1-6/vial
+
+
+
+Insulin made from E. coli:
+
+$0.1/vial
+
+Genentech
+Insulin: 181 bp
+
+
+Genentech
+Insulin: 181 bp
+
+
+
+
+
+
+PROBLEM:
+
+No one had synthesized something so long
+Genentech
+Insulin: 181 bp
+
+
+
+
+
+
+PROBLEM:
+
+No one had synthesized something so long
+
+No one had expressed an actual working thing
+Genentech
+Insulin: 181 bp
+
+
+
+
+
+
+PROBLEM:
+
+No one had synthesized something so long
+
+No one had shown DNA → working protein
+
+No one had had shown it could be done economically
+
+Genentech
+Insulin: 181 bp
+
+
+
+
+
+
+PROBLEM:
+
+No one had synthesized something so long
+
+No one had shown DNA → working protein
+
+No one had shown economical yield
+
+Genentech
+PLAN:
+
+
+
+Prove somatostatin: 47 bp 
+
+Insulin: 181 bp
+
+Genentech
+PLAN:
+
+
+
+Prove somatostatin: 47 bp 
+
+Insulin: 181 bp == 77 bp + 104 bp
+
+There is always a way!
+Genentech
+
+Scientist @ Genentech: we can’t get that kind of yield.
+
+  First principles
+reasoning turns the
+ impossible to the
+    improbable
+The Story of Genentech
+Speed buys survival
+The Story of Genentech
+The Story of Genentech
+Speed buys survival
+The Story of Genentech
+They needed to increase by 50x the yield.
+Genentech
+
+Scientist @ Genentech: we can’t get that kind of yield.
+That’s impossible.
+
+Genentech
+
+Scientist @ Genentech: we can’t get that kind of yield.
+That’s impossible.
+
+
+
+
+
+
+Swanson: I don’t want to hear that word, impossible. Tell
+me what you need to get it done.
+
+There is always a way
+The Story of Genentech
+Genentech
+
+hGH made from cadavers:
+
+$500-1500/vial (on the black market)
+
+
+
+hGH made from E. coli:
+
+$2-5/vial
+
+The Story of Genentech
+technoeconomics
+                  Critical Points
+                  How much $ and time to get to:
+
+                  Critical Points
+technoeconomics   How much $ and time to get to:
+
+                    Negative unit economics
+
+                  Critical Points
+technoeconomics   How much $ and time to get to:
+
+                    Negative unit economics
+
+                    Positive unit economics
+
+technoeconomics
+                  Critical Points
+
+                  How much $ and time to get to:
+
+
+                    Negative unit economics
+
+
+
+                    Positive unit economics
+
+
+
+                    Default alive
+
+technoeconomics
+                  Critical Points
+                  How much $ and time to get to:
+
+                    Negative unit economics
+
+                    Positive unit economics
+
+                    Default alive
+
+                    Profitable
+technoeconomics
+                  Critical Points
+                  How much $ and time to get to:
+
+                    Negative unit economics
+
+
+                    Positive unit economics
+
+
+                    Default alive
+
+
+                    Profitable
+
+
+                    World’s best profitability
+technoeconomics
+                  Critical Points
+                  How much $ and time to get to:
+
+                    Negative unit economics
+
+                    Positive unit economics
+
+                    Default alive
+
+                    Profitable
+
+                    World’s best profitability
+
+                    $1m, $10m, $100m, and $1b in revenue
+Spreadsheet Model
+ Assuming the tech
+works, how much $ do
+     we make?
+Simple TEA
+Unit costs!   What is your unit?
+
+
+
+                 The useful unit you create (1 car, 1 GB
+                 bandwidth, 1 token, 1 MWh)
+
+                 Ideally, it’s the unit your customer buys
+
+                    For Antora: not 1 kWh of storage, it’s 1 BTU
+
+                    For Astranis, it’s not 1 satellite but 1 GB
+                    bandwidth available
+What is       What goes into unit costs?
+
+
+
+included in   For processes:
+
+              OpEx (electricity, chemicals, consumables,
+unit costs?   feedstock, direct labor required, maintenance,
+              tokens)
+
+What is       What goes into unit costs?
+
+
+
+included in   For processes:
+
+unit costs?   OpEx (electricity, chemicals, consumables,
+              feedstock, direct labor required, maintenance,
+              tokens)
+
+              CapEx (equipment, construction, land, GPUs,
+              data centers, robots, other upfront costs)
+              What goes into unit costs?
+
+
+What is
+included in   For processes:
+
+
+              OpEx (electricity, chemicals, consumables,
+unit costs?   feedstock, direct labor required, maintenance,
+
+              tokens)
+
+
+              CapEx (equipment, construction, land, GPUs,
+
+              data centers, robots, other upfront costs)
+
+
+              For products:
+
+
+              Bill-of-Material costs + assembly/mfg + delivery
+
+              + installation
+
+
+What is       What goes into unit costs?
+
+
+
+included in   For processes:
+
+              OpEx (electricity, chemicals, consumables,
+unit costs?   feedstock, direct labor required, maintenance,
+              tokens)
+
+              CapEx (equipment, construction, land, GPUs,
+              data centers, robots, other upfront costs)
+
+              For products:
+
+              Bill-of-Material costs + assembly/mfg + delivery
+              + installation
+
+              Any non-recurring engineering costs
+
+
+What is       What goes into unit costs?
+
+
+
+included in   For processes:
+
+              OpEx (electricity, chemicals, consumables,
+unit costs?   feedstock, direct labor required, maintenance,
+              tokens)
+
+              CapEx (equipment, construction, land, GPUs,
+              data centers, robots, other upfront costs)
+
+              For products:
+
+              Bill-of-Material costs + assembly/mfg + delivery
+              + installation
+
+              Any non-recurring engineering costs
+
+              Any tooling/fixture costs
+
+K-I-S-S   Write up simple inputs/outputs for unit
+           costs
+K-I-S-S   Write up simple inputs/outputs for unit
+           costs
+
+           For unknowns:
+
+              SWAG + highlight
+
+              Time-box research
+
+Simple TEA
+K-I-S-S   Write up simple inputs/outputs for unit
+           costs
+
+           For unknowns:
+
+              SWAG + highlight
+
+              Time-box research
+
+           Refine as needed
+Simple TEA
+
+Amortization   How do you translate CapEx into unit costs?
+
+Amortization   How do you translate CapEx into unit costs?
+
+
+
+               Amortization (divide by units)
+
+Amortization   How do you translate CapEx into unit costs?
+
+
+
+               Amortization (divide by units)
+
+
+
+               Equipment: $1m
+
+               Capacity: makes 1,000,000/yr widgets
+
+Amortization   How do you translate CapEx into unit costs?
+
+
+
+               Amortization (divide by units)
+
+
+
+               Equipment: $1m
+
+               Capacity: makes 1,000,000/yr widgets
+
+
+
+               1 year amortization: $1/unit
+               How do you translate CapEx into unit costs?
+
+
+Amortization
+
+               Amortization (divide by units)
+
+
+
+
+
+
+               Equipment: $1m
+
+
+               Capacity: makes 1,000,000/yr widgets
+
+
+
+
+
+
+               1 year amortization: $1/unit
+
+
+               10 year amortization: $0.1/unit
+Amortization   Amortization assumptions are often very
+               important.
+Amortization   Amortization assumptions are often very
+               important.
+
+
+
+               Conservative assumptions:
+
+                 Realistic capacity with typical uptime
+                 (e.g. M-F, 1 x 8 hour shift) for usual
+                 lifetime
+
+Amortization   Amortization assumptions are often very
+               important.
+
+
+
+               Conservative assumptions:
+
+                 Realistic capacity with typical uptime
+                 (e.g. M-F, 1 x 8 hour shift) for usual
+                 lifetime
+
+
+
+               Optimistic assumptions:
+
+                 Physics-limited capacity, mfg lifetime
+               Different things have different characteristic
+Amortization
+               lifetimes:
+
+Amortization   Different things have different characteristic
+               lifetimes:
+
+
+
+               Airplanes --> depressure/pressure cycles
+
+Amortization   Different things have different characteristic
+               lifetimes:
+
+
+
+               Airplanes --> depressure/pressure cycles
+
+
+
+               Semiconductor equipment --> node life
+
+Amortization   Different things have different characteristic
+               lifetimes:
+
+
+
+               Airplanes --> depressure/pressure cycles
+
+
+
+               Semiconductor equipment --> node life
+
+
+
+               Batteries --> charge/discharge cycles
+
+Amortization   Different things have different characteristic
+               lifetimes:
+
+
+
+               Airplanes --> depressure/pressure cycles
+
+
+
+               Semiconductor equipment --> node life
+
+
+
+               Batteries --> charge/discharge cycles
+
+
+
+               GPUs --> ~2-3 years
+Why you win   Technoeconomics can also answer why
+              you’re better than your competitor(s)
+
+
+
+Why you win   Technoeconomics can also answer why
+              you’re better than your competitor(s)
+
+
+
+              What is the next best alternative’s costs? 
+
+
+
+
+
+              Technoeconomics can also answer why
+Why you win
+              you’re better than your competitor(s)
+
+
+
+
+
+
+              What is the next best alternative’s costs? 
+
+
+
+
+
+
+              VERY IMPORTANT: Your costs should be
+
+              lower than their costs.
+Why you win   Technoeconomics can also answer why
+              you’re better than your competitor(s)
+
+
+
+              What is the next best alternative’s costs? 
+
+
+
+              VERY IMPORTANT: Your costs should be
+              lower than their costs. 
+
+              Your price being lower than their price is
+              less important. 
+
+
+Why you win   Technoeconomics can also answer why
+              you’re better than your competitor(s)
+
+
+
+              What is the next best alternative’s costs? 
+
+
+
+              VERY IMPORTANT: Your costs should be
+              lower than their costs. 
+
+              Your price being lower than their price is
+              less important. 
+
+              Your costs being lower than their price is
+              not important.
+
+
+Price vs. cost
+Price of crude oil: $94/barrel
+
+Price vs. cost
+Price of crude oil: $94/barrel
+
+
+
+
+
+Cost to produce (in Saudi Arabia): $10/barrel
+Simple TEA
+Price   Technoeconomics are also about how much $ you
+        can make!
+
+
+
+        What’s your price?
+
+          What your customer pays right now
+
+
+
+
+
+        Not sure what price?
+
+          Willingness to pay
+
+          Savings * 15%
+Price   In the short term, price = market price.
+
+
+
+
+        Long term, pricing power is driven by:
+
+
+
+
+           Scale Economies
+
+           Network Economies
+
+           Counter Positioning
+
+           Switching Costs
+
+           Branding
+
+           Cornered resource
+
+           Process Power
+
+technoeconomics
+                  What do you model?
+                  Your proposed business + technology + product
+
+
+technoeconomics
+                  What do you model?
+                  Your proposed business + technology + product
+
+                  AND ALSO
+
+                  Everything else that needs to change in the world to make your
+                  business work
+
+                  What do you model?
+technoeconomics
+                  Your proposed business + technology + product
+
+                  AND ALSO
+
+                  Everything else that needs to change in the world to make your
+                  business work
+
+
+
+                     EVs needed to model electric charging in 2010s
+
+                     Cost of shipping to sell your product
+
+
+
+
+technoeconomics
+                  What do you model?
+
+
+                  Your proposed business + technology + product
+
+
+
+
+
+                  AND ALSO
+
+
+
+
+
+                  Everything else that needs to change in the world to make your
+
+
+
+                  business work
+
+
+
+
+
+
+                     EVs needed to model electric charging in 2010s
+
+
+
+
+                     Cost of shipping to sell your product
+
+
+
+
+                     Your customers’ upfront payments + profit
+
+
+
+
+
+
+technoeconomics
+                  What do you model?
+
+
+                  Your proposed business + technology + product
+
+
+
+
+
+                  AND ALSO
+
+
+
+
+
+                  Everything else that needs to change in the world to make your
+
+
+
+                  business work
+
+
+
+
+
+
+                     EVs needed to model electric charging in 2010s
+
+
+
+
+                     Cost of shipping to sell your product
+
+
+
+
+                     Your customers’ upfront payments + profit
+
+
+
+
+
+
+                  Modeling this extra step confirms you’re not fighting business gravity
+
+
+
+
+technoeconomics
+                  Make assumptions clear
+
+                  Assumptions, ideally, are:
+
+
+                     Clearly marked
+
+
+                     Conservative 
+
+
+                     List in common units
+
+
+                        for electricity is $/kWh or $/MWh, etc.
+The One Miracle Rule
+  You are allowed ONE MIRACLE in your TEA related to
+   where your startup is world class
+
+
+
+"If we can get yield above 80%, everything else is
+ already proven at industrial scale"
+technoeconomics
+                  Make assumptions clear
+
+                  Assumptions, ideally, are:
+
+
+                     Clearly marked
+
+
+                     Conservative (you’re allowed 1 miracle)
+
+
+                     List in common units
+
+
+                        for electricity is $/kWh or $/MWh, etc.
+Simple TEA
+                  Numbers to add
+technoeconomics   Summary numbers
+
+                    Revenue
+
+                    Gross margin
+
+                    Payback period
+
+                    Opex
+
+                    Capex 
+
+technoeconomics
+                  More numbers to add
+
+                  Figures of merit / comparative metrics
+
+
+                     In power generation: LCOE in $/MWh, $/kWh
+
+
+                     In tokens: $ per 1M tokens input+output
+technoeconomics
+                  How you win
+                  How do the economics improve with:
+
+
+                     Scale
+
+
+                     Technology
+
+
+                     Specific scenarios
+
+Simple TEA
+
+technoeconomics
+                   How to lay out TEA
+                  Each column is a scenario (e.g. lab, pilot, commercial)
+
+
+                   Each row is a new cost
+
+technoeconomics
+                   How to lay out TEA
+                  Each column is a scenario (e.g. lab, pilot, commercial)
+
+                   Each row is a new cost
+
+                   Lay it out for explainability (give things obvious names)
+technoeconomics
+                   How to lay out TEA
+                  Each column is a scenario (e.g. lab, pilot, commercial)
+
+                   Each row is a new cost
+
+                   Lay it out for explainability (give things obvious names)
+
+                   References where you get numbers (links, labels, explanation)
+technoeconomics
+                   How to lay out TEA
+                  Each column is a scenario (e.g. lab, pilot, commercial)
+
+                   Each row is a new cost
+
+                   Lay it out for explainability (give things obvious names)
+
+                   References where you get numbers (links, labels, explanation)
+
+                   Add dates (when you get to some scale/throughput)
+
+                   Different colors for INPUTS+ASSUMPTIONS / OUTPUTS, etc.
+technoeconomics
+                  How to lay out TEA
+                  Separate out:
+
+                    Assumptions (ideally all conservative)
+
+                    OpEx
+
+                    CapEx
+
+                    Unit costs
+
+                    Price
+
+Simple TEA
+
+                  Make it easy to understand
+technoeconomics   First page they open to
+
+                      Explain what you’re doing
+
+                      Key takeaway numbers
+technoeconomics
+                  What should your technoeconomics
+                  tell you?
+                  CapEx → How much $ do I need to raise and when? 
+
+
+technoeconomics
+                  What should your technoeconomics
+                  tell you?
+                  Unit costs → How do I derisk?
+
+technoeconomics
+                  What should your technoeconomics
+                  tell you?
+                  Assumptions → What do I have to believe about the
+                  world to be successful?
+
+
+
+technoeconomics
+                  What should your technoeconomics
+                  tell you?
+                  Cost to cost comparison → How do I win? 
+
+
+
+technoeconomics
+                  What should your technoeconomics
+                  tell you?
+
+                  Gross margin + revenue → How does my business get
+
+                  better?
+
+
+technoeconomics
+                   What should your technoeconomics
+                   tell you?
+                  CapEx → How much $ do I need to raise and when? 
+
+
+                  Unit costs → How do I derisk?
+
+
+                  Assumptions → What do I have to believe about the world to be successful?
+
+
+                  Cost to cost comparison → How do I win? 
+
+
+                  Gross margin + revenue → How does my business get better?
+
+
+technoeconomics
+                  TEA-in-the-loop
+technoeconomics
+                  TEA-in-the-loop
+                  Start the company based on the TEA
+
+
+
+technoeconomics
+                  TEA-in-the-loop
+
+                  Start the company based on the TEA
+
+
+
+                  Set milestones based on the TEA
+
+
+technoeconomics
+                  TEA-in-the-loop
+                  Start the company based on the TEA
+
+                  Set milestones based on the TEA
+
+                  Drive the company forward with the TEA
+
+
+                  TEA-in-the-loop
+technoeconomics
+                  Start the company based on the TEA
+
+                  Set milestones based on the TEA
+
+                  Drive the company forward with the TEA
+
+                  Get data to revise TEA
+
+
+technoeconomics
+                  TEA-in-the-loop
+                  Start the company based on the TEA
+
+                  Set milestones based on the TEA
+
+                  Drive the company forward with the TEA
+
+                  Get data to revise TEA
+
+                  Change the plan based on the updated TEA
+
+
+
+
+technoeconomics
+                  TEA-in-the-loop
+                  Start the company based on the TEA
+
+                  Set milestones based on the TEA
+
+                  Drive the company forward with the TEA
+
+                  Get data to revise TEA
+
+                  Change the plan based on the updated TEA
+
+
+
+                  Communicate using the TEA: we just proved X, dropping
+                  our unit costs to $3/kg, and increasing our gross margin
+                  from 35% to 70%
+
+
+technoeconomics
+                  Charts to (possibly) make
+                  Cost breakdown (pie chart)
+
+
+
+
+
+
+                  Sensitivity Analysis
+technoeconomics
+                  Input changes vs. 1 core metric
+technoeconomics
+                  Possibly include as you get more
+
+                  advanced
+
+                  Cost of borrowing/interest
+
+
+
+                   Process modeling (e.g. Aspen)
+
+
+
+                   Project financing models
+
+
+
+                   Internal Rate of Return (IRR)
+
+
+
+                   Cash forecasting
+
+
+
+                   Learning rates
+
+Learning Curves
+Solar PV: 24% cost decrease per doubling → $76/W
+ (1977) to $0.20/W (2024)
+
+ Lithium-ion batteries: 18% per doubling → $1,200/
+ kWh (1991) to ~$130/kWh (2024)
+
+ Genome sequencing: ~50% per doubling
+technoeconomics
+                  Storytelling with TEA
+                  VC takeaways:
+
+
+                  Business makes so much $ - high gross margins, low costs
+technoeconomics
+                  Storytelling with TEA
+                  VC takeaways:
+
+
+                  Business makes so much $ - high gross margins, low costs
+
+
+                  Business makes $ in all futures - tornado chart
+technoeconomics
+                  Storytelling with TEA
+                  VC takeaways:
+
+
+                  Business makes so much $ - high gross margins, low costs
+
+
+                  Business makes $ in all futures - tornado chart
+
+
+                  Not too crazy - reasonable assumptions except for maybe 1 miracle number
+technoeconomics
+                  Storytelling with TEA
+
+                  VC takeaways:
+
+
+
+                  Business makes so much $ - high gross margins, low costs
+
+
+
+                  Business makes $ in all futures - tornado chart
+
+
+
+                  Not too crazy - reasonable assumptions except for maybe 1 miracle number
+
+
+
+                  Technology is so awesome - likeliest competitor vs. you analysis
+technoeconomics
+                  Storytelling with TEA
+                  VC takeaways:
+
+                  Business makes so much $ - high gross margins, low costs
+
+                  Business makes $ in all futures - tornado chart
+
+                  Not too crazy - reasonable assumptions except for maybe 1 miracle number
+
+                  Technology is so awesome - likeliest competitor vs. you analysis
+
+                  Startup can scale - payback period is fast
+
+                  Storytelling with TEA
+technoeconomics
+                  VC takeaways:
+
+                  Business makes so much $ - high gross margins, low costs
+
+                  Business makes $ in all futures - tornado chart
+
+                  Not too crazy - reasonable assumptions except for maybe 1 miracle number
+
+                  Technology is so awesome - likeliest competitor vs. you analysis
+
+                  Startup can scale - payback period is fast
+
+                  Clear path to derisking - tech assumptions clear at each stage
+
+                  Storytelling with TEA
+technoeconomics
+                  We spend $3.1M to win a $100M/yr market.
+
+                     $100k to deliver world’s first human protein in E. coli
+
+                     $3m to deliver world’s first insulin in E.coli + signed partnership
+
+
+technoeconomics
+                  How to get started
+
+
+                  Build out a simple model:
+
+
+
+                    Start with high level inputs, outputs, capital expenditures
+
+
+
+
+                    SWAG liberally
+
+
+
+
+                    Get to a unit cost + price within 30 minutes
+
+
+
+
+                    Refine the model.
+technoeconomics
+                  Other models
+                  Pro forma financials (typically Series A or later)
+
+
+                   Cash runway/burn model
+
+
+                   Customer TEA
+technoeconomics
+                  Hacks
+                  Start with someone else’s technoeconomics (warning: they are usually too detailed!)
+
+                     Department of Energy’s technoeconomic reports
+
+                     Google: [process/thing] “technoeconomics”
+
+                  Price of equipment / chemicals
+
+                     Grainger (conservative) / McMaster (conservative) / Alibaba (optimistic)
+
+                     Suppliers (ask for a large quantity)
+
+                  Specs on equipment:
+
+                     McMaster / Grainger 
+
+                     Suppliers

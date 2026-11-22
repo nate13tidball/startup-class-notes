@@ -1,0 +1,312 @@
+[
+  {
+    "id": "5vV4sxj1798",
+    "type": "c9",
+    "url": "https://youtu.be/5vV4sxj1798?si=ZLor5EKQytzhVXfm",
+    "video_title": "Resilience | Hillary Allen | US 5050 C9",
+    "source": "YouTube English captions",
+    "sessions": [
+      "Resilience with Hillary Allen"
+    ],
+    "raw_path": "transcripts/c9/5vV4sxj1798.json",
+    "text_path": "transcripts/c9/5vV4sxj1798.md",
+    "status": "downloaded",
+    "segments": 1616
+  },
+  {
+    "id": "VkYkswtcA7Q",
+    "type": "reference",
+    "url": "https://www.youtube.com/watch?v=VkYkswtcA7Q&list=PLE7TkL-8RHFPiOm4LXNEivMVKh2MLGPB5&index=4&pp=gAQBiAQB",
+    "video_title": "Resilience | 5050 C6 | Hillary Allen",
+    "source": "YouTube English captions",
+    "sessions": [
+      "Resilience with Hillary Allen"
+    ],
+    "raw_path": "transcripts/reference/VkYkswtcA7Q.json",
+    "text_path": "transcripts/reference/VkYkswtcA7Q.md",
+    "status": "downloaded",
+    "segments": 1534
+  },
+  {
+    "id": "Ipa-ccyWoyk",
+    "type": "c9",
+    "url": "https://youtu.be/Ipa-ccyWoyk",
+    "video_title": "Raison D'etre | Josh Santos | US 5050 C9",
+    "source": "YouTube English captions",
+    "sessions": [
+      "Raison d’etre"
+    ],
+    "raw_path": "transcripts/c9/Ipa-ccyWoyk.json",
+    "text_path": "transcripts/c9/Ipa-ccyWoyk.md",
+    "status": "downloaded",
+    "segments": 2114
+  },
+  {
+    "id": "1jECS_mHJEQ",
+    "type": "reference",
+    "url": "https://youtu.be/1jECS_mHJEQ",
+    "video_title": "Why It Matters | 5050 C7 | Josh Santos @ Fifty Years",
+    "source": "YouTube English captions",
+    "sessions": [
+      "Raison d’etre"
+    ],
+    "raw_path": "transcripts/reference/1jECS_mHJEQ.json",
+    "text_path": "transcripts/reference/1jECS_mHJEQ.md",
+    "status": "downloaded",
+    "segments": 1082
+  },
+  {
+    "id": "iuoT4fKp3no",
+    "type": "c9",
+    "url": "https://youtu.be/iuoT4fKp3no",
+    "video_title": "Traits of Great Founders | Seth Bannon | US 5050 C9",
+    "source": "YouTube English captions",
+    "sessions": [
+      "Traits of great founders"
+    ],
+    "raw_path": "transcripts/c9/iuoT4fKp3no.json",
+    "text_path": "transcripts/c9/iuoT4fKp3no.md",
+    "status": "downloaded",
+    "segments": 2859
+  },
+  {
+    "id": "SoHZb7R4dIA",
+    "type": "reference",
+    "url": "https://youtu.be/SoHZb7R4dIA",
+    "video_title": "Traits of Great Founders | 5050 C7 | Seth Bannon @ Fifty Years",
+    "source": "YouTube English captions",
+    "sessions": [
+      "Traits of great founders"
+    ],
+    "raw_path": "transcripts/reference/SoHZb7R4dIA.json",
+    "text_path": "transcripts/reference/SoHZb7R4dIA.md",
+    "status": "downloaded",
+    "segments": 2664
+  },
+  {
+    "id": "KcqohhEr6UA",
+    "type": "c9",
+    "url": "https://youtu.be/KcqohhEr6UA",
+    "video_title": "What to Build  | Alex Teng | US 5050 C9",
+    "source": "YouTube English captions",
+    "sessions": [
+      "What to build"
+    ],
+    "raw_path": "transcripts/c9/KcqohhEr6UA.json",
+    "text_path": "transcripts/c9/KcqohhEr6UA.md",
+    "status": "downloaded",
+    "segments": 1988
+  },
+  {
+    "id": "eaczqjkgU1o",
+    "type": "reference",
+    "url": "https://youtu.be/eaczqjkgU1o",
+    "video_title": "What to Build | 5050 C7 | Scott Phoenix @ Fifty Years",
+    "source": "YouTube English captions",
+    "sessions": [
+      "What to build"
+    ],
+    "raw_path": "transcripts/reference/eaczqjkgU1o.json",
+    "text_path": "transcripts/reference/eaczqjkgU1o.md",
+    "status": "downloaded",
+    "segments": 1175
+  },
+  {
+    "id": "xzPMdJNEoY8",
+    "type": "reference",
+    "url": "https://www.youtube.com/watch?v=xzPMdJNEoY8&list=PLE7TkL-8RHFPiOm4LXNEivMVKh2MLGPB5&index=2",
+    "video_title": "How to Set Great Milestones | 5050 C6 | Alex Teng @ Fifty Years",
+    "source": "YouTube English captions",
+    "sessions": [
+      "Milestones"
+    ],
+    "raw_path": "transcripts/reference/xzPMdJNEoY8.json",
+    "text_path": "transcripts/reference/xzPMdJNEoY8.md",
+    "status": "downloaded",
+    "segments": 559
+  },
+  {
+    "id": "8oZ_alzJchg",
+    "type": "c9",
+    "url": "https://youtu.be/8oZ_alzJchg",
+    "video_title": "Sprinting the Idea Maze | Alex Teng | US 5050 C9",
+    "source": "YouTube English captions",
+    "sessions": [
+      "Sprinting the idea maze"
+    ],
+    "raw_path": "transcripts/c9/8oZ_alzJchg.json",
+    "text_path": "transcripts/c9/8oZ_alzJchg.md",
+    "status": "downloaded",
+    "segments": 2622
+  },
+  {
+    "id": "KqZFODTLpGg",
+    "type": "reference",
+    "url": "https://youtu.be/KqZFODTLpGg?si=wowz5sDQsFw14bc-",
+    "video_title": "The Idea Maze | 5050 UK2 | Fifty Years",
+    "source": "YouTube English captions",
+    "sessions": [
+      "Sprinting the idea maze"
+    ],
+    "raw_path": "transcripts/reference/KqZFODTLpGg.json",
+    "text_path": "transcripts/reference/KqZFODTLpGg.md",
+    "status": "downloaded",
+    "segments": 2017
+  },
+  {
+    "id": "8WSAaodaCJY",
+    "type": "c9",
+    "url": "https://youtu.be/8WSAaodaCJY",
+    "video_title": "Building An AI First Organization | Kia Fathi, Joe Fox and Zach Smith | US 5050 C9",
+    "source": "YouTube English captions",
+    "sessions": [
+      "Building an AI first organization"
+    ],
+    "raw_path": "transcripts/c9/8WSAaodaCJY.json",
+    "text_path": "transcripts/c9/8WSAaodaCJY.md",
+    "status": "downloaded",
+    "segments": 2406
+  },
+  {
+    "id": "EoMqS_XxR5M",
+    "type": "reference",
+    "url": "https://www.youtube.com/watch?v=EoMqS_XxR5M&list=PLE7TkL-8RHFM3HV3DXFTF_CU2P9gKLuy1&index=10&pp=gAQBiAQB",
+    "video_title": "Technoeconomics: How to Build a Company That Actually Works | 5050 UK2 | Fifty Years",
+    "source": "YouTube English captions",
+    "sessions": [
+      "Building an AI first organization",
+      "Selling"
+    ],
+    "raw_path": "transcripts/reference/EoMqS_XxR5M.json",
+    "text_path": "transcripts/reference/EoMqS_XxR5M.md",
+    "status": "downloaded",
+    "segments": 2319
+  },
+  {
+    "id": "ldk0vJBrydE",
+    "type": "c9",
+    "url": "https://youtu.be/ldk0vJBrydE",
+    "video_title": "Customer Discovery | Alex Teng | US 5050 C9",
+    "source": "YouTube English captions",
+    "sessions": [
+      "Customer discovery for deep tech (SF)"
+    ],
+    "raw_path": "transcripts/c9/ldk0vJBrydE.json",
+    "text_path": "transcripts/c9/ldk0vJBrydE.md",
+    "status": "downloaded",
+    "segments": 3152
+  },
+  {
+    "id": "s76-JT35beU",
+    "type": "reference",
+    "url": "https://youtu.be/s76-JT35beU?si=6Xg6KQ0ERPgZWqF9",
+    "video_title": "Customer Discovery for Deep Tech | 5050 C7 | Alex Teng @ Fifty Years",
+    "source": "YouTube English captions",
+    "sessions": [
+      "Customer discovery for deep tech (SF)"
+    ],
+    "raw_path": "transcripts/reference/s76-JT35beU.json",
+    "text_path": "transcripts/reference/s76-JT35beU.md",
+    "status": "downloaded",
+    "segments": 3167
+  },
+  {
+    "id": "-dwIVJokasc",
+    "type": "c9",
+    "url": "https://youtu.be/-dwIVJokasc",
+    "video_title": "Technoeconomics | Alex Teng | US 5050 C9",
+    "source": "local faster-whisper base.en transcription",
+    "sessions": [
+      "Technoeconomics"
+    ],
+    "raw_path": "transcripts/c9/-dwIVJokasc.json",
+    "text_path": "transcripts/c9/-dwIVJokasc.md",
+    "status": "downloaded",
+    "segments": 812
+  },
+  {
+    "id": "jyPYTfVQTUo",
+    "type": "c9",
+    "url": "https://youtu.be/jyPYTfVQTUo",
+    "video_title": "Selling | Alex Teng | US 5050 C9",
+    "source": "YouTube English captions",
+    "sessions": [
+      "Selling"
+    ],
+    "raw_path": "transcripts/c9/jyPYTfVQTUo.json",
+    "text_path": "transcripts/c9/jyPYTfVQTUo.md",
+    "status": "downloaded",
+    "segments": 2749
+  },
+  {
+    "id": "V7NWMdDtJ3k",
+    "type": "c9",
+    "url": "https://youtu.be/V7NWMdDtJ3k",
+    "video_title": "Storytelling | Alex Teng | US 5050 C9",
+    "source": "YouTube English captions",
+    "sessions": [
+      "Storytelling"
+    ],
+    "raw_path": "transcripts/c9/V7NWMdDtJ3k.json",
+    "text_path": "transcripts/c9/V7NWMdDtJ3k.md",
+    "status": "downloaded",
+    "segments": 1619
+  },
+  {
+    "id": "pGRQ5ToUP4U",
+    "type": "reference",
+    "url": "https://www.youtube.com/watch?v=pGRQ5ToUP4U",
+    "video_title": "Mechanics of a Great Fundraise | 5050 C7 | Alex Teng @ Fifty Years",
+    "source": "YouTube English captions",
+    "sessions": [
+      "Storytelling"
+    ],
+    "raw_path": "transcripts/reference/pGRQ5ToUP4U.json",
+    "text_path": "transcripts/reference/pGRQ5ToUP4U.md",
+    "status": "downloaded",
+    "segments": 2976
+  },
+  {
+    "id": "hfv0uZXhGZs",
+    "type": "reference",
+    "url": "https://youtu.be/hfv0uZXhGZs",
+    "video_title": "Building a World-Class Team | Alex Teng @ Fifty Years | 5050 C7",
+    "source": "YouTube English captions",
+    "sessions": [
+      "Fundraising mechanics (SF)"
+    ],
+    "raw_path": "transcripts/reference/hfv0uZXhGZs.json",
+    "text_path": "transcripts/reference/hfv0uZXhGZs.md",
+    "status": "downloaded",
+    "segments": 2647
+  },
+  {
+    "id": "4BvNl3U4os4",
+    "type": "reference",
+    "url": "https://www.youtube.com/watch?v=4BvNl3U4os4&list=PLE7TkL-8RHFPVil5vRtGpBShWwkiTG9X7",
+    "video_title": "How to Move Fast | 5050 C7 | Alex Teng @ Fifty Years",
+    "source": "YouTube English captions",
+    "sessions": [
+      "How to move fast"
+    ],
+    "raw_path": "transcripts/reference/4BvNl3U4os4.json",
+    "text_path": "transcripts/reference/4BvNl3U4os4.md",
+    "status": "downloaded",
+    "segments": 2845
+  },
+  {
+    "id": "27c34e129b4442eb892bd627e4aa3200",
+    "type": "c9",
+    "platform": "loom",
+    "url": "https://www.loom.com/share/27c34e129b4442eb892bd627e4aa3200",
+    "video_title": "Milestones",
+    "source": "Loom published transcript",
+    "sessions": [
+      "Milestones"
+    ],
+    "raw_path": "transcripts/c9/27c34e129b4442eb892bd627e4aa3200.json",
+    "text_path": "transcripts/c9/27c34e129b4442eb892bd627e4aa3200.md",
+    "status": "downloaded",
+    "segments": 29
+  }
+]

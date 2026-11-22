@@ -1,0 +1,629 @@
+ AI for 5050s
+
+
+
+
+How to use AI well
+Core concepts for the future and some advice for today
+section one
+                                             • Immersion
+
+→ Core concepts                              • Costs
+                                             • Awareness
+Things that will remain true in six months
+         I think                             • Where to use it
+01 · IMMERSION
+
+
+
+
+You need to use AI every day,
+both for building and in life.
+
+
+  If you aren't touching the limits of your subscriptions, something might
+  be wrong
+→ Managing Costs
+02 · COSTS
+
+
+
+A single model can easily have 25+ pricing dimensions
+02 · COSTS
+
+
+
+Tokens
+A token is not a token is not a token.
+
+Model A      We   are   hiring         a       photo    lith   ography        engineer   8 tokens
+
+Model B      We   are   hiring         a       photolithography        engineer   6 tokens
+
+Model C      We   are   hir      ing       a      pho     to      li    tho   graphy     engineer   11 tokens
+
+
+
+
+  Watch your usage every
+  turn. Develop your
+  intuition for costs.
+                                               “        The Register
+                                                                                                                July 2026
+03 · AWARENESS
+                                  From the labs
+Awareness = better value
+ 1   Arbitrary changes to quota
+     rules, offers and features
+
+
+ 2   Stay on top of social
+     media announcements =
+     better value
+
+ 3   Watch how your quota
+     gets used
+04 · Examples
+
+
+
+Great uses of AI
+Research                             Routine tasks                     Disposable software
+Bulk trawling for specialised        Spreadsheets, admin, news,        Dashboards, trackers,
+output                               meeting notes                     visualisations
+
+
+  Prompt                              Prompt                            Prompt
+
+  "Find me 10 synthetic biology       "Dedupe this 10,000-row sheet     "Build a shareable tracker for
+  labs on the West Coast. Don't       and remove dummy email            my milestones. Pull new
+  stop until you have 10. I need a    addresses. Fix all the obvious    actions from my Granola
+  csv with                            inaccuracies"                     meeting notes and Notion
+  name,website,PI,description"                                          'next actions' page daily
+                                                                        at 9am"
+04 · EXAMPLES
+
+
+
+What to keep for yourself
+   Tasks where you are
+
+   learning through doing
+
+   Things you want other
+
+   people to read
+
+   Your differentiating work
+
+
+
+ Most people can tell when a post, article or deck is AI-written, and they stop reading
+section two
+
+
+              • October 2026 toolkit
+→ Today       • Lessons learned this year
+AI toolkit - October 2026
+                                                                                                     Other
+Coding        Claude/ChatGPT apps · 90%                                                              10%
+
+
+Overall       mobile · 50%                                           desktop · 50%
+
+  Research at scale: Claude, ChatGPT, Parallel.ai
+  Bulk LLM processing: cheap frontier models or open-weights via 3rd party (e.g. GLM via wafer.ai)
+  Granola transcribes all meetings
+  Notion for planning and documentation
+  GitHub Actions for automated pipelines
+  Slack and Sentry for alerting
+  Slack for some agent communication via Claude Tag
+  Claude 'shared artifacts' for dashboards and trackers
+  Claude and ChatGPT scheduled tasks for automated news updates and alerts
+  Linear for task tracking
+→ Lessons
+Retired
+
+
+ Building an automated software factory
+    Generated lots of work and used lots of quota
+    Too complex to run for what it produced
+    Not solving an urgent problem
+ More effective
+
+
+Smaller scale
+List the non-priority tasks
+Run them near the end of the week
+Keep it simple and scalable
+Retired
+
+
+ Agents writing daily check-in notes
+ Agents writing weekly summaries
+ Agents generating idea graveyards
+ More effective
+
+
+
+Do your own thinking.
+Agents write my check-ins
+→ I write my own 5-minute summaries
+
+
+Agents write weekly summaries
+→ I review plans, wins and failures myself
+
+
+Agents generate idea lists
+→ Ideas and luxury queries, only on spare quota
+ Retired
+
+
+A bespoke team of AI
+code reviewers
+Trained to act as humans
+A custom setup that took constant upkeep
+
+ Heavy usage   Hard to manage   Went out of date
+ More effective
+
+
+Buy vs Build
+(Not a universal rule to always buy!)
+
+
+
+
+                                                       Bought solution
+
+
+
+
+                               This purchase doubled my output velocity
+Disposable software
+
+
+
+Recent demos
+
+                                            Disposable software
+
+                                            Presentation
+                                            Disposable software
+
+                                            rehearsal
+                                            The Oracle
+                                            coach...
+                                            A search tool I built
+                                            Open with playback
+                                            controls ↗
+
+
+
+
+Presentation rehearsal coach   The Oracle
+What to do next
+
+
+
+
+ 01      Are you immersed in AI?
+
+ 02      Are you getting value for time and money?
+
+ 03      Is your toolkit up to date?
+
+
+
+
+Everything you do should make you faster
+  → 5050 by Fifty Years
+
+
+
+
+AI for 5050s
+Your founder AI operating system
+
+Set it up for yourself first. Your company will end up running on it.
+
+Kia Fathi · 20–30 min + Q&A
+  → Welcome, 5050s
+
+
+
+Today's three talks
+I'll cover the AI system you set up for yourself. Then Zach and Joe go deeper.
+
+
+
+
+   Talk 1 · You are here                Talk 2                               Talk 3
+
+   Your founder AI                      Non-frontier                         How to use AI well
+   operating system                     Intelligence                         Joe
+   Kia                                  Zach
+
+
+
+5050 by Fifty Years
+→ Where you are today
+
+
+
+Right now, you are the company
+You're recruiting. You're finding a co-founder. You're finding
+first customers.
+
+
+
+
+   However you get that done is the first draft of how your company
+   will run.
+
+
+
+5050 by Fifty Years
+  → The framework
+
+
+
+An AI operating system has five layers
+  01                  02               03                   04                05
+
+  Context             Skills           Feedback             Rituals           Guardrails
+  What it can see     What it can do   How it gets better   When it runs on   What it must
+                                                            its own           never touch
+
+
+
+
+5050 by Fifty Years
+  → Choosing a model
+
+
+
+Pick one ecosystem and go deep in it
+
+   GPT                 Claude               Gemini                Open source
+   OpenAI              Anthropic            Google                Models you run yourself
+
+
+
+
+Your skills, connectors and habits pile up inside one ecosystem. Switching
+every month means starting over.
+
+5050 by Fifty Years
+  → Prompting with intent
+
+
+
+Magic words don't work anymore
+    Incantations                                    Intent
+
+       "You are a world-class recruiter."              The goal, and why it matters
+       "Take a deep breath."                           Who it's for
+       "Think step by step."                           What good looks like
+       "I'll tip you $200."                            What to avoid
+                                                       "Ask me questions before you start."
+
+
+
+
+Write it the way you'd brief a smart new hire on day one.
+
+5050 by Fifty Years
+  → Meta prompting
+
+
+
+Let the AI write the prompt
+  01                           02                          03                          04
+  Describe the job in          Ask it to interview you,    Run it, say what's wrong,   Save the prompt that
+  plain English.               then write the prompt.      and have it rewrite         works. That's a skill.
+                                                           the prompt.
+
+
+
+    Example
+
+    "I'm hiring our first robotics engineer and have 200 profiles from Juicebox. Good means they've shipped
+    hardware on a team under 50 people. Skip pure academics. Ask me what else you need, then write the prompt
+    you'd use to rank them."
+
+
+
+
+5050 by Fifty Years
+→ Layers 1 and 2 · Context and skills
+
+
+Scoring 200 candidates in an afternoon
+
+
+
+1 · Context                      2 · The ask                      3 · Skill                     4 · Output
+The Juicebox export: 200         Describing the role and asking   The skill file the AI wrote   Ranked list with a reason for
+candidates                       for a skill                                                    every row
+
+
+
+
+   I don't write skills. I describe what I want, and the AI builds the tool.
+
+
+
+Part 1 · Build your founder OS
+  → Layer 3 · Feedback
+
+
+
+What's inside the skill
+                                 The feedback loop
+   SKILL.md
+                                   1 Score the candidates
+       name
+       when                        2 Founder says "too many academics"
+       input
+       steps                       3 Ask the AI to update the skill with that feedback
+       output
+
+                                   4 Re-score. That pass is the one I sent.
+
+
+
+
+Part 1 · Build your founder OS
+  → Layer 4 · Rituals
+
+
+
+My day, automated
+   Morning                       Every workday       6pm
+
+   Daily focus planner           Team update email   Commitment tracker
+
+
+
+
+Tonight's commitment check becomes tomorrow morning's plan.
+
+Part 1 · Build your founder OS
+  → Layer 5 · Guardrails
+
+
+
+Your red, amber, green list
+         Green · Safe to use               Amber · Use with                    Red · Never input
+                                           caution
+   Public market data, anonymized                                          Customer data you're under NDA
+   customer notes, draft pitch decks   Investor decks, financial models,   for, cap table details, founder
+                                       customer transcripts, competitive   DMs, passwords, secrets
+                                       analysis. Approved enterprise
+                                       tools only.
+
+
+
+
+Part 1 · Build your founder OS
+  → Demo 3 · All five layers
+
+
+
+The 6pm commitment tracker
+Context
+Today's meeting notes, plus Calendar, Gmail, Linear and Notion
+
+Skills
+Finds what I promised and what others promised me
+
+Feedback
+I correct what it gets wrong, and the skill gets updated
+
+Rituals
+Runs at 6pm every workday and feeds tomorrow's plan
+
+Guardrails
+Suggests next steps and never sends anything for me
+                                                                 Tonight's check: what's open, what's done, what's next
+
+
+
+
+Part 1 · Build your founder OS
+  → Part 2 · Your company OS
+
+
+
+Your founder OS becomes your company OS
+   Layer                     Your founder OS                            Your company OS
+
+   Context                   Your email, calendar and notes             Shared connectors with clear access rules
+
+   Skills                    Skills you wrote for yourself              A shared skill library with owners, installed as a
+                                                                        plugin
+
+   Feedback                  Skills you update when they get it wrong   Every team skill takes corrections from the people
+                                                                        who use it
+
+   Rituals                   Your 6pm check and Friday review           The company's weekly operating rituals
+
+   Guardrails                Your red, amber, green list                The AI policy every hire reads on day one
+
+
+
+
+Part 2 · Turn it into your company OS
+  → Part 2 · Onboarding
+
+
+
+Your first ten hires inherit it
+                                              How 50Y does it · the /50y-style skill
+Screen co-founders and first hires for
+AI fluency.
+
+
+Onboarding means installing the
+OS: the connectors, the skill library,
+the guardrails.
+                                              1 · The guide                            2 · The skill
+
+Every recurring task gets a skill before it
+gets a hire.
+
+
+
+
+                                              3 · The plugin                           4 · In use
+
+
+Part 2 · Turn it into your company OS
+  → Part 2 · Agents
+
+
+
+Your agents inherit it too
+An agent is a hire that runs on the same five layers.
+
+
+   Layer                     For a person                    For an agent
+
+   Context                   Access to the tools they need   The connectors and files it's allowed to read
+
+   Skills                    The team's skill library        The same skill library, loaded when the job calls for it
+
+   Feedback                  Corrections from teammates      Evals and reviewer corrections that update its
+                                                             instructions
+
+   Rituals                   The weekly operating rituals    Schedules, triggers and events that start it
+
+   Guardrails                The AI policy on day one        Permissions, tool limits, and a human sign-off before it
+                                                             acts
+
+
+
+Part 2 · Turn it into your company OS
+  → Example · Agents
+
+
+
+A chief of staff agent with ChatGPT Dots
+  Every weekday, 9:00
+                                                      All day                                          When it matters
+  Briefs you on the day:
+                                                      Watches your inbox, calendar                     Drafts the follow-up and asks
+  meetings, what you owe,
+                                                      and Slack for loose ends                         before it sends
+  what changed
+
+
+
+Context                      Skills                        Feedback                   Rituals                     Guardrails
+Gmail, Calendar, Slack and Your instructions for briefs,   Saves what you correct     Schedules, app events, and Custom rules: always, ask,
+Drive, plus its own notes on follow-ups and updates        about your preferences and its own call on when to    or never, per action
+your work                                                  decisions                  check back
+
+
+
+
+ChatGPT Dots launched September 2026 · Part 2 · Turn it into your company OS
+→ The ask
+
+
+
+Set your founder DNA now
+How you work in your first 90 days becomes how your company works.
+
+
+
+                                        Today,
+Twelve months from now,
+AI-native is table stakes, not an advantage.
+
+The window to set your DNA is right now.
+
+
+Part 2 · Turn it into your company OS
+  → This week
+
+
+
+Where to start this week
+
+    If you're starting out                             If you're already running agents
+    1 Pick one model and use it every day for          1 Add the layers you're missing: feedback loops,
+       two weeks.                                        scheduled rituals, written guardrails.
+
+    2 Write your first three skills: one high-volume   2 Move your skills where your future team can
+       task, one multi-step task, one job you'd          find them, with an owner and an example
+       otherwise hire for.                               for each.
+
+
+
+
+Part 2 · Turn it into your company OS
+  → What to take home
+
+
+
+01    An AI operating system has five layers: context, skills, feedback, rituals, guardrails.
+
+02     Build it for yourself first. Describe what you want and let the AI build the tool.
+
+03     Your founder OS becomes your company OS. Write it down where your first hires can find it.
+
+04     Every recurring task gets a skill before it gets a hire.
+
+
+
+
+Now over to Zach. Then Joe. Then 30 minutes for your questions.
+
+5050 by Fifty Years
+→ Bonus
+
+
+
+Organizational practices
+What we do at 50Y so people keep using the system after week one.
+
+
+
+
+5050 by Fifty Years · For Q&A
+  → Bonus
+
+
+
+Four habits we use at 50Y
+   AI in Action                                                 Shared MCPs
+   Teammates demo what they built, live. [Cadence and format]   Connectors to our tools, set up once with clear access rules
+   Founder version: 15 minutes at your weekly team meeting.
+                                                                and shared with the whole team.
+                                                                Founder version: connect email, calendar and your CRM once,
+                                                                and give every hire the same setup.
+
+
+
+
+   Shared skills                                                Pairing
+   Prompts that keep working become skills, shipped to          One-on-one time to see how someone works and find the
+   everyone through our plugin marketplace.                     next skill to build.
+   Founder version: a skills folder in GitHub or Notion.        Founder version: ask every hire what they did twice this week.
+
+
+
+
+Bonus · Organizational practices
+  → 5050 by Fifty Years
+
+
+
+
+Thank you
+Kia Fathi · kia@50y.com
+
+AI for 5050s · Your founder AI operating system

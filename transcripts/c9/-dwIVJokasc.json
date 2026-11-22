@@ -1,0 +1,4062 @@
+[
+  {
+    "start": 0.37,
+    "duration": 9.0,
+    "text": "I will start. We're going to talk about techno economics and"
+  },
+  {
+    "start": 9.37,
+    "duration": 6.0,
+    "text": "one of my favorite topics because it's how we figure out how we make money."
+  },
+  {
+    "start": 15.37,
+    "duration": 4.000000000000002,
+    "text": "Making money obviously is the point of startups that have huge impact."
+  },
+  {
+    "start": 19.37,
+    "duration": 6.0,
+    "text": "And for many of you, you have not thought about this enough."
+  },
+  {
+    "start": 25.37,
+    "duration": 6.0,
+    "text": "It's actually pretty often that I'll talk to a scientist in a lab that thinks that they have something that could change the world."
+  },
+  {
+    "start": 31.37,
+    "duration": 5.9999999999999964,
+    "text": "And I ask how they make money in about techno economics, and they've never thought about it."
+  },
+  {
+    "start": 37.37,
+    "duration": 6.0,
+    "text": "And we do the rough math like five minutes of like, what does it cost to build the thing that you're building?"
+  },
+  {
+    "start": 43.37,
+    "duration": 2.0,
+    "text": "And how much would you sell it for?"
+  },
+  {
+    "start": 45.37,
+    "duration": 9.0,
+    "text": "You'd be surprised at how often the conclusion we come to after five minutes of thinking about it is that there is no world in which what they are building can ever make money."
+  },
+  {
+    "start": 54.37,
+    "duration": 14.000000000000007,
+    "text": "Because what they're using in academia or in their garage is some version of unobtainium, some massive, extremely expensive ingredient that makes some magical new thing happen."
+  },
+  {
+    "start": 68.37,
+    "duration": 3.0,
+    "text": "And can never be economically served."
+  },
+  {
+    "start": 71.37,
+    "duration": 6.0,
+    "text": "And today we're talking about techno economics because it is the Newtonian physics of your business."
+  },
+  {
+    "start": 78.37,
+    "duration": 8.0,
+    "text": "It allows you to calculate the sensitivities, the things that must be true about your technology, for you to actually make money."
+  },
+  {
+    "start": 86.37,
+    "duration": 9.0,
+    "text": "And so what are actually techno economics, they are a spreadsheet model of your business."
+  },
+  {
+    "start": 95.37,
+    "duration": 9.0,
+    "text": "And one way to think about this is how you make money exist in some high dimensional space that you have to find."
+  },
+  {
+    "start": 104.37,
+    "duration": 5.0,
+    "text": "And what are the important parameters that define that space?"
+  },
+  {
+    "start": 109.37,
+    "duration": 3.0,
+    "text": "How good does the technology need to be?"
+  },
+  {
+    "start": 112.37,
+    "duration": 2.0,
+    "text": "How many electrons do we need?"
+  },
+  {
+    "start": 114.37,
+    "duration": 2.0,
+    "text": "What is the input of the chemicals?"
+  },
+  {
+    "start": 116.37,
+    "duration": 2.0,
+    "text": "How cheap do the chemicals need to be?"
+  },
+  {
+    "start": 118.37,
+    "duration": 4.0,
+    "text": "Where in the world does the plant need to be cited?"
+  },
+  {
+    "start": 122.37,
+    "duration": 3.0,
+    "text": "Or what is the service we need to offer?"
+  },
+  {
+    "start": 125.37,
+    "duration": 4.0,
+    "text": "And obviously your job as a founder is to understand that high dimensional space."
+  },
+  {
+    "start": 129.37,
+    "duration": 3.0,
+    "text": "First locate it and then understand how big it is."
+  },
+  {
+    "start": 132.37,
+    "duration": 3.0,
+    "text": "And so that's what we're going to do today."
+  },
+  {
+    "start": 135.37,
+    "duration": 6.0,
+    "text": "One way to motivate this is also to say that businesses are built on techno economics."
+  },
+  {
+    "start": 141.37,
+    "duration": 7.0,
+    "text": "Our best companies in our portfolio are laser focused on costs."
+  },
+  {
+    "start": 148.37,
+    "duration": 4.0,
+    "text": "Delivering ever lower costs."
+  },
+  {
+    "start": 152.37,
+    "duration": 5.0,
+    "text": "And in fact, SpaceX has this amazing story of how they got started on techno economics."
+  },
+  {
+    "start": 158.37,
+    "duration": 4.0,
+    "text": "And so I don't know if you know the history of before SpaceX has actually started."
+  },
+  {
+    "start": 162.37,
+    "duration": 4.0,
+    "text": "But Elon has been obsessed with getting to Mars."
+  },
+  {
+    "start": 166.37,
+    "duration": 2.0,
+    "text": "He was rich from PayPal."
+  },
+  {
+    "start": 168.37,
+    "duration": 4.0,
+    "text": "And so he started figuring out why is it that no one is going to Mars."
+  },
+  {
+    "start": 172.37,
+    "duration": 2.0,
+    "text": "How do we get to Mars?"
+  },
+  {
+    "start": 174.37,
+    "duration": 3.0,
+    "text": "And he joined a bunch of societies talking about how to get to Mars."
+  },
+  {
+    "start": 177.37,
+    "duration": 3.0,
+    "text": "And he found like, oh man, no one is doing anything."
+  },
+  {
+    "start": 180.37,
+    "duration": 3.0,
+    "text": "He decides he's got to make a plan himself."
+  },
+  {
+    "start": 183.37,
+    "duration": 5.0,
+    "text": "And so his plan is to go buy a bunch of ICBM missiles from Russia."
+  },
+  {
+    "start": 188.37,
+    "duration": 4.0,
+    "text": "Flies the Russia with a suitcase full of cash."
+  },
+  {
+    "start": 192.37,
+    "duration": 11.0,
+    "text": "Millions and millions and millions and millions of dollars to go bring it to a meeting with Russian generals to actually buy ICBMs."
+  },
+  {
+    "start": 203.37,
+    "duration": 5.0,
+    "text": "And he flies with two of his friends, Jim Cantrell and Mike Griffin."
+  },
+  {
+    "start": 209.37,
+    "duration": 5.0,
+    "text": "And the Russians don't want to sell him a rocket."
+  },
+  {
+    "start": 214.37,
+    "duration": 7.0,
+    "text": "In fact, Elon's understanding of what was going on turns out was that the Russian generals are probably just fucking with Elon."
+  },
+  {
+    "start": 221.37,
+    "duration": 2.0,
+    "text": "Okay, they're like messing with him."
+  },
+  {
+    "start": 223.37,
+    "duration": 5.0,
+    "text": "And so everyone thought Elon would be extremely sad by this."
+  },
+  {
+    "start": 228.37,
+    "duration": 3.0,
+    "text": "Both because they thought he was crazy and super obsessed with buying a rocket."
+  },
+  {
+    "start": 231.37,
+    "duration": 6.0,
+    "text": "And he'd actually taken like millions of dollars cash suitcase with him to a foreign country."
+  },
+  {
+    "start": 238.37,
+    "duration": 4.0,
+    "text": "But on the plane back, Elon wasn't sad."
+  },
+  {
+    "start": 242.37,
+    "duration": 6.0,
+    "text": "And why wasn't he lance and friends looked over and saw that he was working on a spreadsheet."
+  },
+  {
+    "start": 248.37,
+    "duration": 2.0,
+    "text": "And what was that spreadsheet?"
+  },
+  {
+    "start": 250.37,
+    "duration": 10.279999999999973,
+    "text": "It was a cost calculation for how much it would actually take to make a rocket and it compared to the price of an actual rocket."
+  },
+  {
+    "start": 261.65,
+    "duration": 8.0,
+    "text": "And he found famously that the cost of making a rocket was something like the index of making that rocket was 50."
+  },
+  {
+    "start": 269.65,
+    "duration": 8.0,
+    "text": "And that is you compare the raw materials of what goes into a rocket to the actual price that people charge for making the rocket."
+  },
+  {
+    "start": 277.65,
+    "duration": 3.0,
+    "text": "And he found it was 50 X the raw materials."
+  },
+  {
+    "start": 280.65,
+    "duration": 6.0,
+    "text": "And just for comparison, something in automotive is like an idiot index of 1.2 or something, like stamping steel."
+  },
+  {
+    "start": 287.65,
+    "duration": 5.0,
+    "text": "And so he was like, oh my God, I think we can make a rocket for a lot cheaper."
+  },
+  {
+    "start": 292.65,
+    "duration": 9.0,
+    "text": "And so lesson one is there's always a way when the Russian generals don't sell you ICBMs, you can just make your own rockets."
+  },
+  {
+    "start": 301.65,
+    "duration": 5.0,
+    "text": "And so SpaceX was actually started on this spreadsheet on this math of like how much it actually takes to make a rocket."
+  },
+  {
+    "start": 306.65,
+    "duration": 5.0,
+    "text": "And Elon found it to be extremely cheap and relative to the cost of the incumbents making the rockets."
+  },
+  {
+    "start": 311.65,
+    "duration": 2.0,
+    "text": "This is how SpaceX got started."
+  },
+  {
+    "start": 314.65,
+    "duration": 9.0,
+    "text": "And so the idea of our portfolio of solid gen, all of molten, billion to one plasma source are all built on this understanding actually that it's a lot cheaper to do something."
+  },
+  {
+    "start": 323.65,
+    "duration": 5.0,
+    "text": "To do the exact same job that other companies do and they can do it for far cheaper and they're for the make."
+  },
+  {
+    "start": 328.65,
+    "duration": 3.0,
+    "text": "Beautiful, beautiful margin and skilled their businesses."
+  },
+  {
+    "start": 331.65,
+    "duration": 8.0,
+    "text": "And of course, techno economics is about actually passing what we call the Mr. Burns test, which is does a greedy capitalist buy your product."
+  },
+  {
+    "start": 339.65,
+    "duration": 8.0,
+    "text": "A greedy capitalist who doesn't care about the world, state of climate, the fact that people are dying of diseases, does a greedy capitalist buy your product."
+  },
+  {
+    "start": 347.65,
+    "duration": 5.25,
+    "text": "And if you can't convince a greedy capitalist to buy your product, you do not get to scale."
+  },
+  {
+    "start": 352.9,
+    "duration": 11.0,
+    "text": "And so techno economics is about answering this question, does Mr. Burns, who is the greedy capitalist from the Simpsons, if you don't know, who's an evil evil character, does he want to buy your product?"
+  },
+  {
+    "start": 363.9,
+    "duration": 5.0,
+    "text": "Because it's in his own self interest to own your product or service."
+  },
+  {
+    "start": 371.78,
+    "duration": 10.0,
+    "text": "And so greedy capitalist buy things at a very high level because they're buying something that is better, faster or cheaper."
+  },
+  {
+    "start": 381.78,
+    "duration": 4.0,
+    "text": "Or they make more money when they buy."
+  },
+  {
+    "start": 385.78,
+    "duration": 4.0,
+    "text": "That's another translation of better, faster, cheaper."
+  },
+  {
+    "start": 389.78,
+    "duration": 12.980000000000018,
+    "text": "And so the entire point of techno economics are to prove, first and foremost, that we can get greedy capitalists buy things and then to analyze how long it takes us to get there."
+  },
+  {
+    "start": 402.76,
+    "duration": 2.0,
+    "text": "What has to be true about our technology to get there."
+  },
+  {
+    "start": 404.76,
+    "duration": 2.0,
+    "text": "And perhaps what has to be true about the world."
+  },
+  {
+    "start": 406.76,
+    "duration": 8.0,
+    "text": "And so there's this great story about this existential technology that also caused an amazing business get started."
+  },
+  {
+    "start": 414.76,
+    "duration": 2.0,
+    "text": "And it's the story of Genentech."
+  },
+  {
+    "start": 416.76,
+    "duration": 11.0,
+    "text": "And we're taking you back to 1970s about this technology that just barely was becoming possible that everyone when they saw it thought that the world would end."
+  },
+  {
+    "start": 428.76,
+    "duration": 2.0,
+    "text": "And the technologies were common in DNA."
+  },
+  {
+    "start": 430.76,
+    "duration": 8.0,
+    "text": "This was literally a thing in a major newspaper, common in DNA is this idea that we can change DNA, put it into an organism."
+  },
+  {
+    "start": 438.76,
+    "duration": 7.0,
+    "text": "And get it to do something with this new information, which now for all the biologists and generally everyone in the world, this is like commonly done."
+  },
+  {
+    "start": 445.76,
+    "duration": 11.0,
+    "text": "But at the time, this is like some crazy sci fi thing where everyone thought, Oh my God, we're going to make super bacteria that's going to kill all of us or entirely new life forms that are going to kill all of us."
+  },
+  {
+    "start": 456.76,
+    "duration": 5.0,
+    "text": "And actually at the time when the technology was invented, they actually had a bunch of conferences,"
+  },
+  {
+    "start": 461.76,
+    "duration": 7.0,
+    "text": "importantly in a silomar conference talking about how dangerous this technology was and what safeguards need to put in place."
+  },
+  {
+    "start": 468.76,
+    "duration": 12.5,
+    "text": "And the world actually voluntarily paused their own research to discuss the safety implications of this technology."
+  },
+  {
+    "start": 482.26,
+    "duration": 11.0,
+    "text": "And one other thing you should know in 1975, literally zero people had built any businesses on common DNA because the technology is getting started."
+  },
+  {
+    "start": 493.26,
+    "duration": 5.0,
+    "text": "And therein enters the two characters that was part of Genentech story."
+  },
+  {
+    "start": 499.26,
+    "duration": 2.0,
+    "text": "The first is a guy named Bob Swanson."
+  },
+  {
+    "start": 501.26,
+    "duration": 2.0,
+    "text": "It's the guy in the right in this picture."
+  },
+  {
+    "start": 503.26,
+    "duration": 2.0,
+    "text": "It's the younger looking guy."
+  },
+  {
+    "start": 506.26,
+    "duration": 5.0,
+    "text": "He's a 20 year old who got fired from his BC job in less than a year."
+  },
+  {
+    "start": 511.26,
+    "duration": 6.0,
+    "text": "And he heard about recombinant DNA and became obsessed with it."
+  },
+  {
+    "start": 517.26,
+    "duration": 1.0,
+    "text": "I forgot fired."
+  },
+  {
+    "start": 518.26,
+    "duration": 6.0,
+    "text": "And so he thought, Oh my God, there's like a huge business that could be built on a common DNA."
+  },
+  {
+    "start": 524.26,
+    "duration": 3.0,
+    "text": "And he started reading every single paper about the technology."
+  },
+  {
+    "start": 527.26,
+    "duration": 1.0,
+    "text": "He's not a scientist at all."
+  },
+  {
+    "start": 528.26,
+    "duration": 1.0,
+    "text": "He's like a business guy."
+  },
+  {
+    "start": 530.26,
+    "duration": 7.0,
+    "text": "And he searched cold calling all the scientists from that major conference, the silomar conference discussed the safety implications."
+  },
+  {
+    "start": 537.26,
+    "duration": 2.0,
+    "text": "And everyone hangs up on him."
+  },
+  {
+    "start": 539.26,
+    "duration": 8.0,
+    "text": "They think he's a crank or a salesman or whatever until he meets Herbert Boyer, the guy in the left."
+  },
+  {
+    "start": 547.26,
+    "duration": 2.0,
+    "text": "What happens to be a UCSF professor."
+  },
+  {
+    "start": 549.26,
+    "duration": 6.830000000000041,
+    "text": "Bob Swanson calls him up, says, I really want to talk about recombinant DNA with you."
+  },
+  {
+    "start": 556.09,
+    "duration": 2.0,
+    "text": "I think there's something magical and special that can go on."
+  },
+  {
+    "start": 559.09,
+    "duration": 5.0,
+    "text": "Herbert's like, sure, let's meet at a bar and we'll chat for 10 minutes."
+  },
+  {
+    "start": 566.09,
+    "duration": 2.0,
+    "text": "So Bob and Herbert meet up."
+  },
+  {
+    "start": 568.09,
+    "duration": 2.0,
+    "text": "That 10 minutes turns in three hours."
+  },
+  {
+    "start": 571.09,
+    "duration": 5.0,
+    "text": "And by the end of the conversation, Bob had convinced Herbert to go start Genentech."
+  },
+  {
+    "start": 577.09,
+    "duration": 3.0,
+    "text": "They each took $500, put in the company, and incorporated."
+  },
+  {
+    "start": 581.09,
+    "duration": 6.0,
+    "text": "And the reason that they thought that they could start a company on recombinant DNA was that Bob had to go to the company."
+  },
+  {
+    "start": 587.09,
+    "duration": 6.0,
+    "text": "And what it was that Bob had basically worked out the techno economics of making something called insulin."
+  },
+  {
+    "start": 595.09,
+    "duration": 2.0,
+    "text": "At the time, insulin was made from a bunch of pigs and cows."
+  },
+  {
+    "start": 598.09,
+    "duration": 2.0,
+    "text": "And it's like $1 to $6 a file."
+  },
+  {
+    "start": 601.09,
+    "duration": 7.0,
+    "text": "Insulin also kind of sucks because when it's extracted from pigs and livers, pigs and cows, it actually causes immune reactions and people."
+  },
+  {
+    "start": 609.09,
+    "duration": 4.0,
+    "text": "Which often caused people to have adverse health events or die, literally."
+  },
+  {
+    "start": 614.09,
+    "duration": 7.0,
+    "text": "And what Bob said was, man, if you could make bacteria make insulin, it could be as cheap as 10 cents a file."
+  },
+  {
+    "start": 622.09,
+    "duration": 2.0,
+    "text": "So 10x to 60x cheaper."
+  },
+  {
+    "start": 625.09,
+    "duration": 5.0,
+    "text": "And it'd be better because it technically would be human insulin and people would stop dying."
+  },
+  {
+    "start": 633.07,
+    "duration": 3.0,
+    "text": "And when they talked about this plan, there was some clear issues."
+  },
+  {
+    "start": 638.07,
+    "duration": 5.0,
+    "text": "I'm not going to bore you with details, but insulin required 181 base pairs to synthesize as a gene."
+  },
+  {
+    "start": 644.07,
+    "duration": 7.0,
+    "text": "And this would be kind of true for a lot of you, which is problem one with this plan is that no one had ever synthesized something that long."
+  },
+  {
+    "start": 652.07,
+    "duration": 7.759999999999991,
+    "text": "Second issue was no one had ever actually expressed a working protein, a working thing using this technology."
+  },
+  {
+    "start": 660.83,
+    "duration": 4.0,
+    "text": "And third thing is no one had ever shown that you could do this economically."
+  },
+  {
+    "start": 665.83,
+    "duration": 2.0,
+    "text": "And so again, this is like many of you with your crazy plans."
+  },
+  {
+    "start": 668.83,
+    "duration": 4.0,
+    "text": "You're like, I'm going to do the world's best thing that no one has ever done and we're going to make a business on it."
+  },
+  {
+    "start": 673.83,
+    "duration": 3.0,
+    "text": "And so what do they do?"
+  },
+  {
+    "start": 677.83,
+    "duration": 1.0,
+    "text": "They come up with a plan."
+  },
+  {
+    "start": 679.83,
+    "duration": 6.0,
+    "text": "And the plan, like always, is to sort of match the milestones required and the commercial traction required."
+  },
+  {
+    "start": 686.83,
+    "duration": 7.0,
+    "text": "We're going to break the problem up into our first technical de-risking that earns us more money to get further."
+  },
+  {
+    "start": 694.83,
+    "duration": 1.0,
+    "text": "And so the plan was this."
+  },
+  {
+    "start": 696.83,
+    "duration": 4.0,
+    "text": "They're going to prove the technology worked out on something no one had ever heard of, which is called somestatin."
+  },
+  {
+    "start": 700.83,
+    "duration": 8.0,
+    "text": "It's like one of the shortest things that you could make that's actually a real protein somestatin."
+  },
+  {
+    "start": 709.83,
+    "duration": 8.0,
+    "text": "And then they said, okay, the 181, we're going to break it up into two things, which is 77 and 104 base pairs."
+  },
+  {
+    "start": 718.83,
+    "duration": 2.0,
+    "text": "We're going to like synthesize them separately and then connect them together."
+  },
+  {
+    "start": 721.83,
+    "duration": 4.0,
+    "text": "And then it's not impossible anymore."
+  },
+  {
+    "start": 726.83,
+    "duration": 2.0,
+    "text": "It's just very, very improbable."
+  },
+  {
+    "start": 728.83,
+    "duration": 5.0,
+    "text": "I think at the time the largest sequence is something like 110 base pairs, something like that."
+  },
+  {
+    "start": 733.83,
+    "duration": 10.0,
+    "text": "And so all of a sudden a plan that looked technically impossible, like you'd have to be the world's best, got broken down into, well, we're sort of slightly less than the world's best."
+  },
+  {
+    "start": 744.83,
+    "duration": 2.0,
+    "text": "Again, the point is there's always a way."
+  },
+  {
+    "start": 746.83,
+    "duration": 9.0,
+    "text": "And again, the thing that we tell you as you're navigating the idea maze is when you have an impossibly difficult plan that you want to put in place, let's break it down into concrete milestones."
+  },
+  {
+    "start": 755.83,
+    "duration": 1.0,
+    "text": "And that's what they did."
+  },
+  {
+    "start": 756.83,
+    "duration": 16.529999999999973,
+    "text": "And so what happened when they decided to do that, they raised a tiny bit of money from Bob Swanson's previous VC gig and they got started on somestatin."
+  },
+  {
+    "start": 774.36,
+    "duration": 14.0,
+    "text": "And the end result was they published a paper and were the first to prove that you could take the coli, give it a new gene, and then it could make it a new product."
+  },
+  {
+    "start": 789.36,
+    "duration": 1.0,
+    "text": "A protein."
+  },
+  {
+    "start": 791.36,
+    "duration": 7.0,
+    "text": "It's the amount of protein that they made was tiny, barely detectable, commercially useless."
+  },
+  {
+    "start": 799.36,
+    "duration": 8.379999999999995,
+    "text": "But they had proved a core de-risking and they were the first."
+  },
+  {
+    "start": 807.74,
+    "duration": 7.5,
+    "text": "And so off of the success of this, they raised 400k more dollars."
+  },
+  {
+    "start": 817.68,
+    "duration": 5.0,
+    "text": "And so their sights on, and what they raised the money to do was to make insulin."
+  },
+  {
+    "start": 824.68,
+    "duration": 4.0,
+    "text": "Part of the lesson here of why they got that money is that they were the first to do it."
+  },
+  {
+    "start": 828.68,
+    "duration": 2.0,
+    "text": "And so speed buys you survival."
+  },
+  {
+    "start": 831.68,
+    "duration": 1.0,
+    "text": "It's a lesson."
+  },
+  {
+    "start": 832.68,
+    "duration": 4.0,
+    "text": "One of the most important things in startups is that you go really, really, really fast."
+  },
+  {
+    "start": 837.68,
+    "duration": 3.0,
+    "text": "And sometimes your accomplishments won't seem like a big deal."
+  },
+  {
+    "start": 841.68,
+    "duration": 10.0,
+    "text": "Won't be newsworthy, but the fact that you are doing it faster than anyone thinks is possible will probably buy you a chance of survival will probably buy you more resources."
+  },
+  {
+    "start": 852.68,
+    "duration": 9.0,
+    "text": "At this time, by the way, everyone knew that getting to insulin would be the most economically important result of a common DNA."
+  },
+  {
+    "start": 862.68,
+    "duration": 8.0,
+    "text": "And so there were a bunch of labs running at this, including well-funded Harvard labs and pharma companies racing to get to insulin."
+  },
+  {
+    "start": 873.44,
+    "duration": 7.0,
+    "text": "And so Genentech has one advantage against these more well-funded startups, and that is just running as fast as possible with as much intensity."
+  },
+  {
+    "start": 881.44,
+    "duration": 5.0,
+    "text": "So there's a picture of them setting up a lab in an air freight warehouse in South San Francisco."
+  },
+  {
+    "start": 887.44,
+    "duration": 3.0,
+    "text": "Because setting up an entirely new academic lab would be to annoying."
+  },
+  {
+    "start": 890.44,
+    "duration": 3.0,
+    "text": "So they rented out a warehouse and just set it up there."
+  },
+  {
+    "start": 893.44,
+    "duration": 6.0,
+    "text": "They also got a team down in LA to also help with this."
+  },
+  {
+    "start": 899.44,
+    "duration": 2.0,
+    "text": "And they started running 24-7 experiments."
+  },
+  {
+    "start": 902.44,
+    "duration": 3.0,
+    "text": "No one allowed the lab lights to go out."
+  },
+  {
+    "start": 905.44,
+    "duration": 7.0,
+    "text": "They were just like, we do this the first, we are the first to make insulin, or we die."
+  },
+  {
+    "start": 913.44,
+    "duration": 6.0,
+    "text": "And it's true because the first person to synthesize insulin successfully would get to file the patent."
+  },
+  {
+    "start": 920.44,
+    "duration": 7.0,
+    "text": "And that meant that if you were second, you would have to, if you're going to commercialize insulin, license from the first person."
+  },
+  {
+    "start": 928.44,
+    "duration": 2.0,
+    "text": "And what are the odds that person is going to license to you?"
+  },
+  {
+    "start": 930.44,
+    "duration": 1.0,
+    "text": "Basically zero."
+  },
+  {
+    "start": 932.44,
+    "duration": 9.0,
+    "text": "And so this is a classic example of winners take all, and literally the race is defined by the first person to actually successfully do it."
+  },
+  {
+    "start": 947.28,
+    "duration": 3.0,
+    "text": "And so they run at this crazy speed and they make it."
+  },
+  {
+    "start": 951.28,
+    "duration": 3.0,
+    "text": "They are actually the first in the world to synthesize insulin."
+  },
+  {
+    "start": 955.28,
+    "duration": 2.0,
+    "text": "This is the actual paper that they published."
+  },
+  {
+    "start": 957.28,
+    "duration": 2.0,
+    "text": "It happened in 1978."
+  },
+  {
+    "start": 959.28,
+    "duration": 4.0,
+    "text": "And they beat the Harvard team by just weeks."
+  },
+  {
+    "start": 964.28,
+    "duration": 10.0,
+    "text": "And because they were the first, they actually immediately were able to sign with a pharma company for five to 10 million upfront plus royalties to actually make insulin."
+  },
+  {
+    "start": 975.28,
+    "duration": 4.0,
+    "text": "And that gave Genentech actually the capital to become a real company."
+  },
+  {
+    "start": 980.28,
+    "duration": 2.0,
+    "text": "And within two years, they actually have a successful IPO."
+  },
+  {
+    "start": 983.28,
+    "duration": 7.0,
+    "text": "And it's actually at the time, one of the most successful IPOs in Wall Street history, the stock opens $35 and within an hour hits $88."
+  },
+  {
+    "start": 990.28,
+    "duration": 3.0,
+    "text": "It's like a more than two X increase in one hour."
+  },
+  {
+    "start": 994.28,
+    "duration": 3.0,
+    "text": "They've added the company into half a billion dollars, which is a big deal back then."
+  },
+  {
+    "start": 999.94,
+    "duration": 2.0,
+    "text": "And so again, speed by survival."
+  },
+  {
+    "start": 1002.94,
+    "duration": 2.0,
+    "text": "If they weren't the first, they might as well be in the last."
+  },
+  {
+    "start": 1009.05,
+    "duration": 3.0,
+    "text": "And the story doesn't end there."
+  },
+  {
+    "start": 1012.05,
+    "duration": 9.0,
+    "text": "However, they signed with Eli Lilly because one of the issues is that when they made insulin, they needed to actually increase the yield by 50 X."
+  },
+  {
+    "start": 1021.05,
+    "duration": 2.0,
+    "text": "That's what the techno economics said."
+  },
+  {
+    "start": 1023.05,
+    "duration": 7.0,
+    "text": "If you're actually going to economically beat pigs and cows, then the insulin that you get from there, you need to increase the yield 50 X."
+  },
+  {
+    "start": 1031.05,
+    "duration": 5.0,
+    "text": "And by the way, no one had ever increased the yield of recombinant protein ever in the history of humanity."
+  },
+  {
+    "start": 1037.05,
+    "duration": 5.0,
+    "text": "Okay. And so the founders were just like, it's probably possible."
+  },
+  {
+    "start": 1044.05,
+    "duration": 6.0,
+    "text": "And in fact, the scientists on Genentech's team actually said, we can't get that kind of yield."
+  },
+  {
+    "start": 1051.05,
+    "duration": 1.0,
+    "text": "That's impossible."
+  },
+  {
+    "start": 1053.05,
+    "duration": 2.0,
+    "text": "And this by the way will happen to you as founders."
+  },
+  {
+    "start": 1055.05,
+    "duration": 3.0,
+    "text": "Your team will literally come up to you and say, this is impossible."
+  },
+  {
+    "start": 1060.05,
+    "duration": 9.0,
+    "text": "And the best of you will tell them something like what Bob said to his team, which is, I don't want to hear that word impossible."
+  },
+  {
+    "start": 1070.05,
+    "duration": 2.0,
+    "text": "Tell me what you need to get it done."
+  },
+  {
+    "start": 1072.05,
+    "duration": 6.5900000000001455,
+    "text": "This isn't by the way, some kind of blind optimism."
+  },
+  {
+    "start": 1079.64,
+    "duration": 4.0,
+    "text": "It is literally the idea that like it's not impossible."
+  },
+  {
+    "start": 1083.64,
+    "duration": 8.0,
+    "text": "And so you need to tell me the resources to either prove that it is actually impossible or we're going to find the way and we get to live as a company."
+  },
+  {
+    "start": 1096.39,
+    "duration": 2.0,
+    "text": "And again, like this is a successful strategy."
+  },
+  {
+    "start": 1098.39,
+    "duration": 4.0,
+    "text": "I've actually had founders like tell me that like they just like their team is just like to a person like this is impossible."
+  },
+  {
+    "start": 1102.39,
+    "duration": 2.0,
+    "text": "And they're just like, nope, we're going to find the way."
+  },
+  {
+    "start": 1104.39,
+    "duration": 5.0,
+    "text": "We are the team that's going to find the way and we're going to find the way and you're going to tell me exactly what you need to get it done."
+  },
+  {
+    "start": 1110.39,
+    "duration": 2.0,
+    "text": "It's got and there's always a way they managed to do it."
+  },
+  {
+    "start": 1114.39,
+    "duration": 7.0,
+    "text": "They did a bunch of crazy stuff that like no one had ever actually done at the time, including technically promoter engineering,"
+  },
+  {
+    "start": 1121.39,
+    "duration": 5.0,
+    "text": "fermentation, optimization, fermentation optimization, a dozen other incremental improvements."
+  },
+  {
+    "start": 1126.39,
+    "duration": 4.0,
+    "text": "They're sort of like, we're going to just throw this, get it the wall and figure this stuff out."
+  },
+  {
+    "start": 1131.39,
+    "duration": 4.0,
+    "text": "There was literally no manual and no one had any idea if they're going to succeed."
+  },
+  {
+    "start": 1135.39,
+    "duration": 2.0,
+    "text": "Turns out they did. This is the first product insulin."
+  },
+  {
+    "start": 1137.39,
+    "duration": 2.0,
+    "text": "And the story continues from there."
+  },
+  {
+    "start": 1139.39,
+    "duration": 8.0,
+    "text": "They actually had basically signed away as a good amount of value in signing that deal with the Lillie, which is the correct trade because they had no money."
+  },
+  {
+    "start": 1148.39,
+    "duration": 6.0,
+    "text": "And so the next thing they needed, if they're going to be a real company, it was an actual product that they get own form of value on."
+  },
+  {
+    "start": 1154.39,
+    "duration": 3.0,
+    "text": "And so they decided that was going to be human growth hormone."
+  },
+  {
+    "start": 1158.39,
+    "duration": 6.0,
+    "text": "For any of you folks interested in human growth hormone or taking it, that's what they decided to make."
+  },
+  {
+    "start": 1165.39,
+    "duration": 2.0,
+    "text": "Genentech is one of the first to bring it to market."
+  },
+  {
+    "start": 1167.39,
+    "duration": 9.0,
+    "text": "And the reason for doing this is that human growth hormone at the time had an actual special committee to give out the like say 2000 doses that were available every given year."
+  },
+  {
+    "start": 1177.39,
+    "duration": 4.0,
+    "text": "The only way you got human growth hormone was you took a dead body and extracted it."
+  },
+  {
+    "start": 1181.39,
+    "duration": 2.0,
+    "text": "A dead human body, not animals."
+  },
+  {
+    "start": 1184.39,
+    "duration": 3.0,
+    "text": "And so it existed on the black market."
+  },
+  {
+    "start": 1188.39,
+    "duration": 6.0,
+    "text": "Like it was slightly known that you could like athletes could take it, but again, like you actually find your own dead body."
+  },
+  {
+    "start": 1195.39,
+    "duration": 3.0,
+    "text": "It's made gross. And so the expense of doing that is quite expensive."
+  },
+  {
+    "start": 1198.39,
+    "duration": 5.0,
+    "text": "And they again could do the tectoral economics out and show as a wild slimes on case if they could make it."
+  },
+  {
+    "start": 1203.39,
+    "duration": 2.0,
+    "text": "The market would probably expand drastically."
+  },
+  {
+    "start": 1206.39,
+    "duration": 3.0,
+    "text": "And this is actually they were running out of money."
+  },
+  {
+    "start": 1211.39,
+    "duration": 4.0,
+    "text": "And so this is how the midnight rate happened. This is the gene that they stole out of UCSF."
+  },
+  {
+    "start": 1215.39,
+    "duration": 3.0,
+    "text": "And then of course it was success success."
+  },
+  {
+    "start": 1219.39,
+    "duration": 4.0,
+    "text": "And this repellage and end tech to the most massive successful IPO."
+  },
+  {
+    "start": 1224.39,
+    "duration": 2.0,
+    "text": "Time in Wall Street history."
+  },
+  {
+    "start": 1226.39,
+    "duration": 5.729999999999791,
+    "text": "So it's one of those crazy stories where like a bunch of founders did what everyone thought was impossible."
+  },
+  {
+    "start": 1233.12,
+    "duration": 9.0,
+    "text": "And the lessons they're in. And I tell this story because it's one of my favorites for why technor I'm a sir important and why they even thought that they could get started."
+  },
+  {
+    "start": 1243.12,
+    "duration": 4.0,
+    "text": "And so the critical points in any company that a techno economics plan tells you."
+  },
+  {
+    "start": 1248.12,
+    "duration": 6.0,
+    "text": "And what's important generally is you're probably going to start off not making any money after the things you make."
+  },
+  {
+    "start": 1255.12,
+    "duration": 6.0,
+    "text": "Eventually getting to some money that you make eventually to our company is all over all is going to make money to work."
+  },
+  {
+    "start": 1262.12,
+    "duration": 9.0,
+    "text": "We're making money to we are wildly making money and some of the time points along the way might be like when do we make a million dollars $10 million $100 million in a billion in revenue."
+  },
+  {
+    "start": 1272.12,
+    "duration": 3.0,
+    "text": "And so again we answer this question through the spreadsheet model."
+  },
+  {
+    "start": 1275.12,
+    "duration": 2.0,
+    "text": "Techno economics of the things that you build."
+  },
+  {
+    "start": 1278.12,
+    "duration": 3.0,
+    "text": "And the question we're trying to answer is assuming that technology works."
+  },
+  {
+    "start": 1281.12,
+    "duration": 1.0,
+    "text": "How much money do we make."
+  },
+  {
+    "start": 1283.12,
+    "duration": 4.0,
+    "text": "And so here is a simple spreadsheet of a simple process."
+  },
+  {
+    "start": 1288.12,
+    "duration": 4.0,
+    "text": "Again like the main thing we think about are what are the costs to make a product."
+  },
+  {
+    "start": 1292.12,
+    "duration": 2.0,
+    "text": "Okay and so here we have a bunch of costs."
+  },
+  {
+    "start": 1294.12,
+    "duration": 3.0,
+    "text": "We have raw material costs. We have equipment costs."
+  },
+  {
+    "start": 1297.12,
+    "duration": 3.0,
+    "text": "And that sums together for the overall cost."
+  },
+  {
+    "start": 1300.12,
+    "duration": 3.0,
+    "text": "And then we can sell it. A product for a price."
+  },
+  {
+    "start": 1303.12,
+    "duration": 2.0,
+    "text": "And we can subtract those two things."
+  },
+  {
+    "start": 1305.12,
+    "duration": 2.0,
+    "text": "We get a profit."
+  },
+  {
+    "start": 1307.12,
+    "duration": 6.0,
+    "text": "And then we can calculate a gross margin from that which is what percentage of the price is actually profit."
+  },
+  {
+    "start": 1314.12,
+    "duration": 1.0,
+    "text": "Okay."
+  },
+  {
+    "start": 1315.12,
+    "duration": 4.0,
+    "text": "So that's pretty simple. Okay. And we're just making a random techno economics."
+  },
+  {
+    "start": 1319.12,
+    "duration": 4.0,
+    "text": "And so some important points about this. We need a unit to calculate."
+  },
+  {
+    "start": 1323.12,
+    "duration": 5.0,
+    "text": "So if you see over here our unit is some kilogram of a product."
+  },
+  {
+    "start": 1328.12,
+    "duration": 8.0,
+    "text": "And so your unit is whatever your customer buys one car, one gigabyte of bandwidth, one token, one megawatt hour, whatever it is."
+  },
+  {
+    "start": 1336.12,
+    "duration": 6.0,
+    "text": "And often you want your unit to be what your customer buys because then it's easier to calculate everything."
+  },
+  {
+    "start": 1342.12,
+    "duration": 5.0,
+    "text": "One question would be what is included in unit costs. And so for processes, this is opx."
+  },
+  {
+    "start": 1347.12,
+    "duration": 2.0,
+    "text": "This is the operational expenditures."
+  },
+  {
+    "start": 1349.12,
+    "duration": 6.0,
+    "text": "So whatever you need in a recurring fashion to make your products, electricity, chemicals, consumables, blah, blah, blah."
+  },
+  {
+    "start": 1355.12,
+    "duration": 4.0,
+    "text": "There's something called CAPX, which is capital expenditures. These are upfront costs."
+  },
+  {
+    "start": 1359.12,
+    "duration": 6.0,
+    "text": "The equipment, the construction, the land, the GPUs, the data centers, robots, whatever it is, the things that you pay for upfront."
+  },
+  {
+    "start": 1365.12,
+    "duration": 1.0,
+    "text": "Okay."
+  },
+  {
+    "start": 1367.12,
+    "duration": 6.0,
+    "text": "And for products, this is actually called a bill of materials. That's like what goes into every product."
+  },
+  {
+    "start": 1373.12,
+    "duration": 5.0,
+    "text": "And any the upfront costs are often called non recurring engineering costs."
+  },
+  {
+    "start": 1378.12,
+    "duration": 6.0,
+    "text": "That you amortize over the life of the product or tooling costs us go into this."
+  },
+  {
+    "start": 1384.12,
+    "duration": 4.0,
+    "text": "Or fix your costs. Okay."
+  },
+  {
+    "start": 1388.12,
+    "duration": 4.0,
+    "text": "And so this is the basis of calculating the techno economics."
+  },
+  {
+    "start": 1392.12,
+    "duration": 4.0,
+    "text": "And my first tip for you is kiss. Keep it simple, stupid."
+  },
+  {
+    "start": 1396.12,
+    "duration": 4.0,
+    "text": "Right up simple inputs and outputs for your unit costs."
+  },
+  {
+    "start": 1400.12,
+    "duration": 5.0,
+    "text": "And for unknowns, which there will be many in your techno economics when you first do this."
+  },
+  {
+    "start": 1405.12,
+    "duration": 4.0,
+    "text": "You should do something called swag and highlight."
+  },
+  {
+    "start": 1409.12,
+    "duration": 5.560000000000173,
+    "text": "Does anyone know what swag stands for?"
+  },
+  {
+    "start": 1414.68,
+    "duration": 2.0,
+    "text": "Scientific wild ass guess."
+  },
+  {
+    "start": 1416.68,
+    "duration": 5.569999999999936,
+    "text": "In my previous startup and most engineers might be familiar with this term."
+  },
+  {
+    "start": 1423.25,
+    "duration": 8.0,
+    "text": "You're often asked a question about like a specific amount of number or something and you're like, I don't know, I haven't calculated and they're like just swag it for me."
+  },
+  {
+    "start": 1431.25,
+    "duration": 6.0,
+    "text": "Like tell me roughly what it is. And so that's what you should do when you're making your techno economics."
+  },
+  {
+    "start": 1437.25,
+    "duration": 9.0,
+    "text": "And then if it's an important number, you should time box your research into turning it from a scientific wild ass guess into an actual like narrow down number."
+  },
+  {
+    "start": 1447.25,
+    "duration": 3.0,
+    "text": "And then in this example, like I'm writing up these techno economics."
+  },
+  {
+    "start": 1450.25,
+    "duration": 8.0,
+    "text": "I can probably figure out pretty quickly the chemical costs and then it comes to the actual reactor costs and I have like no clue what a reactor even looks like."
+  },
+  {
+    "start": 1458.25,
+    "duration": 7.0,
+    "text": "This kind of thing or how much it costs. And so I might just guess. I'm just like, I'm going to ballpark a number, whatever comes in mind, I'm going to highlight it yellow."
+  },
+  {
+    "start": 1465.25,
+    "duration": 1.0,
+    "text": "Okay."
+  },
+  {
+    "start": 1466.25,
+    "duration": 5.0,
+    "text": "And the reason we do this is we want to get to a full working model as quickly as possible."
+  },
+  {
+    "start": 1471.25,
+    "duration": 7.0,
+    "text": "And ideally within like 15 minutes of sitting down to calculate techno economics, we get to a full working model with a bunch of holes in it."
+  },
+  {
+    "start": 1478.25,
+    "duration": 5.0,
+    "text": "We can look at it and see where the holes are and how we spend our time to chase down those holes."
+  },
+  {
+    "start": 1483.25,
+    "duration": 9.0,
+    "text": "And then we're fine as needed. Okay. So when we do again, like the first five minutes with somebody like that I'm talking to you about like let's calculate second one economics."
+  },
+  {
+    "start": 1492.25,
+    "duration": 4.0,
+    "text": "There's a bunch of stuff we're swagging and we're just trying to see what jumps out at us."
+  },
+  {
+    "start": 1496.25,
+    "duration": 6.0,
+    "text": "So often for instance, like you'll just calculate these numbers and some of these numbers you will know and you're like, oh my God."
+  },
+  {
+    "start": 1502.25,
+    "duration": 6.0,
+    "text": "We have to lower the cost of that one thing by 100 x for this even to matter."
+  },
+  {
+    "start": 1508.25,
+    "duration": 4.0,
+    "text": "You have no idea how to do that. No possibility of doing it. And so you're like, okay, great."
+  },
+  {
+    "start": 1512.25,
+    "duration": 2.0,
+    "text": "This makes zero money forever."
+  },
+  {
+    "start": 1514.25,
+    "duration": 2.9500000000000455,
+    "text": "Okay."
+  },
+  {
+    "start": 1517.2,
+    "duration": 5.0,
+    "text": "And so then you can go refine the number again as you need it."
+  },
+  {
+    "start": 1523.2,
+    "duration": 6.0,
+    "text": "And one of the things you'll notice about here is reactor costs are typically paid up front like pay for the reactor first."
+  },
+  {
+    "start": 1529.2,
+    "duration": 7.0,
+    "text": "And this is somehow expressed in the cost per unit of our of our products for kilogram in this case."
+  },
+  {
+    "start": 1536.2,
+    "duration": 4.0,
+    "text": "And so how do we get there that's called something called amortization."
+  },
+  {
+    "start": 1540.2,
+    "duration": 3.0,
+    "text": "So how do you translate capital expenditure costs and unit costs."
+  },
+  {
+    "start": 1543.2,
+    "duration": 1.0,
+    "text": "Pretty simple."
+  },
+  {
+    "start": 1544.2,
+    "duration": 4.0,
+    "text": "You basically divide by the total number of units."
+  },
+  {
+    "start": 1549.2,
+    "duration": 4.0,
+    "text": "So the reactor makes 100,000 kilograms divided by 100,000 kilograms."
+  },
+  {
+    "start": 1553.2,
+    "duration": 1.0,
+    "text": "Yeah."
+  },
+  {
+    "start": 1554.2,
+    "duration": 1.0,
+    "text": "It's pretty straightforward."
+  },
+  {
+    "start": 1555.2,
+    "duration": 10.0,
+    "text": "A million dollars of equipment divided by a million widgets made a year means that it is one dollar unit."
+  },
+  {
+    "start": 1565.2,
+    "duration": 4.0,
+    "text": "Assuming that it the equipment last one year."
+  },
+  {
+    "start": 1569.2,
+    "duration": 7.470000000000027,
+    "text": "Ten year amortization like the equipment last for 10 years means that it actually is 10 cents a unit."
+  },
+  {
+    "start": 1577.67,
+    "duration": 5.0,
+    "text": "And so the what you can already see is the assumption over the lifetime of the equipment matters a lot."
+  },
+  {
+    "start": 1582.67,
+    "duration": 5.0,
+    "text": "And that's what I just said amortization assumptions often matter a lot."
+  },
+  {
+    "start": 1587.67,
+    "duration": 3.0,
+    "text": "And so sometimes you can have conservative assumptions."
+  },
+  {
+    "start": 1590.67,
+    "duration": 1.0,
+    "text": "That's typically what you want."
+  },
+  {
+    "start": 1591.67,
+    "duration": 4.0,
+    "text": "And so that's like, oh, we operate this thing Monday through Friday with the usual shift."
+  },
+  {
+    "start": 1595.67,
+    "duration": 7.0,
+    "text": "A more optimistic assumption would be like, oh man, we just wore out everything physically as much as possible."
+  },
+  {
+    "start": 1603.67,
+    "duration": 2.0,
+    "text": "And we get to two different amortization costs."
+  },
+  {
+    "start": 1605.67,
+    "duration": 1.0,
+    "text": "Okay."
+  },
+  {
+    "start": 1606.67,
+    "duration": 2.0,
+    "text": "Different things of different characteristics lifetimes."
+  },
+  {
+    "start": 1608.67,
+    "duration": 7.0,
+    "text": "I always thought this is kind of interesting airplanes actually their characteristics lifetime is given by pressure,"
+  },
+  {
+    "start": 1615.67,
+    "duration": 1.0,
+    "text": "depression cycles."
+  },
+  {
+    "start": 1616.67,
+    "duration": 7.0,
+    "text": "So playing that flies from San Francisco to LA actually is shorter lifetime than a plane that flies from San Francisco to London."
+  },
+  {
+    "start": 1623.67,
+    "duration": 5.0,
+    "text": "Kind of weird, but it's like fatigue cycling that sets a lot of the lifetime of stuff."
+  },
+  {
+    "start": 1629.67,
+    "duration": 3.0,
+    "text": "Some of the conduct requirement is no life batteries are discharged."
+  },
+  {
+    "start": 1632.67,
+    "duration": 3.0,
+    "text": "The charge cycles GPUs are typically over two or three years."
+  },
+  {
+    "start": 1635.67,
+    "duration": 3.0,
+    "text": "And in fact, actually now the amortization cycle of GPUs is probably longer."
+  },
+  {
+    "start": 1638.67,
+    "duration": 2.0,
+    "text": "This is written one couple of years ago."
+  },
+  {
+    "start": 1640.67,
+    "duration": 2.0,
+    "text": "It turns out like everyone just wants as much compute as possible."
+  },
+  {
+    "start": 1642.67,
+    "duration": 2.0,
+    "text": "It's an assumption that changes over time."
+  },
+  {
+    "start": 1646.67,
+    "duration": 3.0,
+    "text": "Techno economics also can answer why you're better than someone else."
+  },
+  {
+    "start": 1649.67,
+    "duration": 1.0,
+    "text": "Okay."
+  },
+  {
+    "start": 1650.67,
+    "duration": 1.0,
+    "text": "It's why you win."
+  },
+  {
+    "start": 1651.67,
+    "duration": 6.0,
+    "text": "Okay. And so one of the things that you might calculate are what are the all best all next best alternatives costs."
+  },
+  {
+    "start": 1658.67,
+    "duration": 6.0,
+    "text": "Okay. So like typically there's a job to be done and you're replacing the current process with your better process."
+  },
+  {
+    "start": 1664.67,
+    "duration": 2.0,
+    "text": "Do you want to know how much better are your process?"
+  },
+  {
+    "start": 1667.67,
+    "duration": 9.0,
+    "text": "And generally what causes you to win if it's a cost like a price based comparison is that your cost should be lower than their costs."
+  },
+  {
+    "start": 1676.67,
+    "duration": 5.0,
+    "text": "Okay. Sometimes founders actually compare price to cost."
+  },
+  {
+    "start": 1681.67,
+    "duration": 1.0,
+    "text": "And that's entirely wrong."
+  },
+  {
+    "start": 1682.67,
+    "duration": 4.0,
+    "text": "The reason that the company can lower their price."
+  },
+  {
+    "start": 1687.67,
+    "duration": 3.0,
+    "text": "Roughly to their costs they needed to if they wanted to."
+  },
+  {
+    "start": 1691.67,
+    "duration": 10.0,
+    "text": "And your cost being lower than their price is like your price being lower than their price is kind of important but like doesn't reveal sustainable advantage."
+  },
+  {
+    "start": 1701.67,
+    "duration": 4.0,
+    "text": "And your cost being lower than their price also doesn't reveal sustainable advantage."
+  },
+  {
+    "start": 1706.67,
+    "duration": 15.0,
+    "text": "This actually was like a big deal in clean tech 1.0 actually worked at a company that or a lab that spun out a company that wanted to make microbial replacements for gasoline."
+  },
+  {
+    "start": 1721.67,
+    "duration": 5.0,
+    "text": "Okay. This is the idea that we're going to like have a that of microbes that makes gasoline."
+  },
+  {
+    "start": 1727.67,
+    "duration": 2.0,
+    "text": "Or whatever oil products."
+  },
+  {
+    "start": 1730.67,
+    "duration": 4.0,
+    "text": "And at the time the price of a barrel of oil was extremely high."
+  },
+  {
+    "start": 1734.67,
+    "duration": 2.0,
+    "text": "It's like $94 barrel or something."
+  },
+  {
+    "start": 1736.67,
+    "duration": 4.0,
+    "text": "And so they were like, oh man, our technologies could replace."
+  },
+  {
+    "start": 1741.67,
+    "duration": 10.0,
+    "text": "A lot of those barrels of oil because our technology like in our economic if we spent $100 million on a plan or something to get down to like $80 a barrel or something."
+  },
+  {
+    "start": 1752.67,
+    "duration": 7.0,
+    "text": "And what many people fail to realize in that is that a high price of oil now is that a high price of oil in the future."
+  },
+  {
+    "start": 1759.67,
+    "duration": 5.0,
+    "text": "And what actually drives a lot of oil prices is beyond supply and demand is actually the cost."
+  },
+  {
+    "start": 1764.67,
+    "duration": 10.0,
+    "text": "And so what matters perhaps into this thinking is how deep is the production capacity of really cheap costing oil."
+  },
+  {
+    "start": 1775.67,
+    "duration": 12.0,
+    "text": "And so one thing that always stuck in my brain is that the cost of Saudi Arabia to make a barrel of oil is something like $10 a barrel."
+  },
+  {
+    "start": 1787.67,
+    "duration": 7.470000000000027,
+    "text": "And Saudi Arabia and other countries like Saudi Arabia actually have a lot of oil."
+  },
+  {
+    "start": 1795.14,
+    "duration": 9.240000000000009,
+    "text": "And so for you to win market against these people, really you want to know are your costs cheaper than their costs."
+  },
+  {
+    "start": 1804.38,
+    "duration": 3.0,
+    "text": "You're going to win the entire market."
+  },
+  {
+    "start": 1808.38,
+    "duration": 5.0,
+    "text": "By the way, $10 a barrel of oil, 50 like a barrel of oil is 55 gallons."
+  },
+  {
+    "start": 1813.38,
+    "duration": 7.0,
+    "text": "And so actually like it's cheaper to get oil out of Saudi Arabia and ground than it is to make like a like a gallon of milk."
+  },
+  {
+    "start": 1820.38,
+    "duration": 7.0,
+    "text": "It's kind of wild. Also gallon. It's like it's super super cheap. $10 a barrel of oil is super super super super super cheap."
+  },
+  {
+    "start": 1827.38,
+    "duration": 4.0,
+    "text": "There are actually some estimates of place it below $5 a barrel of oil."
+  },
+  {
+    "start": 1831.38,
+    "duration": 3.0,
+    "text": "Like you really just like it just wells out of the ground."
+  },
+  {
+    "start": 1835.38,
+    "duration": 6.0,
+    "text": "And so in your technology economics, you can compare your economics to whatever you were placing."
+  },
+  {
+    "start": 1842.38,
+    "duration": 7.0,
+    "text": "And so here we've calculated it and we're swagging what their stuff works with their process looks like."
+  },
+  {
+    "start": 1849.38,
+    "duration": 7.0,
+    "text": "And again, like the main thing that matters when you're thinking about your business is well, how do our costs stack up in their costs?"
+  },
+  {
+    "start": 1856.38,
+    "duration": 5.0,
+    "text": "And it looks like our costs are way better. $850 versus $16. That's awesome. That's something you'd want to see."
+  },
+  {
+    "start": 1861.38,
+    "duration": 7.0,
+    "text": "That's great. And so we can see how this company might be great."
+  },
+  {
+    "start": 1868.38,
+    "duration": 4.0,
+    "text": "Sometimes you don't know a price for which things sell."
+  },
+  {
+    "start": 1872.38,
+    "duration": 4.0,
+    "text": "And so often the best price is what your customers pay right now."
+  },
+  {
+    "start": 1876.38,
+    "duration": 4.0,
+    "text": "There are other ways to anchor price is willingness to pay."
+  },
+  {
+    "start": 1880.38,
+    "duration": 3.0,
+    "text": "So you could ask your customers to customer discovery how much would you pay?"
+  },
+  {
+    "start": 1883.38,
+    "duration": 5.0,
+    "text": "I assume like assuming there's no actual like current product that you're directly replacing."
+  },
+  {
+    "start": 1889.38,
+    "duration": 7.0,
+    "text": "Another rule of thumb you could use to anchor your price is the savings that your customer has times 15%."
+  },
+  {
+    "start": 1896.38,
+    "duration": 2.0,
+    "text": "That's like a rough rule of thumb."
+  },
+  {
+    "start": 1898.38,
+    "duration": 6.0,
+    "text": "And the reason is you want your customer to be incentivized with Dr. product and you want to capture some of the savings."
+  },
+  {
+    "start": 1904.38,
+    "duration": 10.0,
+    "text": "Okay. And again, over the long term, your pricing power is driven by the flexibility of your business."
+  },
+  {
+    "start": 1914.38,
+    "duration": 3.0,
+    "text": "And so we talked about seven powers. And so you can read about the seven powers."
+  },
+  {
+    "start": 1917.38,
+    "duration": 3.0,
+    "text": "And this is how you actually maintain high pricing power of time."
+  },
+  {
+    "start": 1920.38,
+    "duration": 3.0,
+    "text": "In the short term, your prices use a step at the market price."
+  },
+  {
+    "start": 1923.38,
+    "duration": 4.0,
+    "text": "One question, what do you model in your technology economics?"
+  },
+  {
+    "start": 1927.38,
+    "duration": 4.0,
+    "text": "And so your proposed business, personal technology, plus the product."
+  },
+  {
+    "start": 1931.38,
+    "duration": 5.0,
+    "text": "And anything else that needs to change about the world to make your business work."
+  },
+  {
+    "start": 1936.38,
+    "duration": 4.0,
+    "text": "An example of this is if you're making electric vehicles for the first time,"
+  },
+  {
+    "start": 1941.38,
+    "duration": 6.0,
+    "text": "you not only need your electric vehicles as a product to work, make sense, but you also need charging infrastructure."
+  },
+  {
+    "start": 1947.38,
+    "duration": 5.0,
+    "text": "Sometimes this also means you need to calculate in the cost of shipping your product to your customers."
+  },
+  {
+    "start": 1952.38,
+    "duration": 4.0,
+    "text": "So you make it at your factory door, but your customer buys it at their door."
+  },
+  {
+    "start": 1956.38,
+    "duration": 5.0,
+    "text": "And so sometimes you got to calculate out the shipping that they would have to pay for if you're not covering it."
+  },
+  {
+    "start": 1961.38,
+    "duration": 4.0,
+    "text": "And then then you can understand whether or not they actually buy it."
+  },
+  {
+    "start": 1965.38,
+    "duration": 3.0,
+    "text": "Again, these are cases where perhaps that mattered."
+  },
+  {
+    "start": 1968.38,
+    "duration": 4.0,
+    "text": "And one thing that also might matter is if your customer has to pay upfront,"
+  },
+  {
+    "start": 1972.38,
+    "duration": 6.0,
+    "text": "in order to adopt your product or service, you also need to calculate their upfront payments"
+  },
+  {
+    "start": 1978.38,
+    "duration": 8.299999999999955,
+    "text": "and their profit from doing so to know that it actually all works out."
+  },
+  {
+    "start": 1986.68,
+    "duration": 4.0,
+    "text": "And so modeling this extra step confirms that you're not fighting business gravity."
+  },
+  {
+    "start": 1990.68,
+    "duration": 6.0,
+    "text": "For instance, if your customers upfront payments are massive and their profit for adopting this technology is very little."
+  },
+  {
+    "start": 1996.68,
+    "duration": 7.0,
+    "text": "It is not going to go well with your customers unless there's some other deep need, like the better outcome is really, really far better."
+  },
+  {
+    "start": 2003.68,
+    "duration": 2.0,
+    "text": "Or whatever it is."
+  },
+  {
+    "start": 2005.68,
+    "duration": 2.0,
+    "text": "You're going to make a bunch of assumptions in your model."
+  },
+  {
+    "start": 2007.68,
+    "duration": 5.0,
+    "text": "You should clearly mark these. They should be conservative ideally, not wildly optimistic."
+  },
+  {
+    "start": 2012.68,
+    "duration": 4.0,
+    "text": "And you should list the common units list in common units."
+  },
+  {
+    "start": 2016.68,
+    "duration": 6.0,
+    "text": "So if you have electricity, you want to do dollar per kilowatt hour, dollar per megadower, whatever is like the common lingo and your entry."
+  },
+  {
+    "start": 2023.68,
+    "duration": 5.0,
+    "text": "Also, one thing about the world. Oh, yeah. But yes."
+  },
+  {
+    "start": 2028.68,
+    "duration": 6.0,
+    "text": "Thanks Alex. So how exactly did not know this technical economics work out for Tesla?"
+  },
+  {
+    "start": 2034.68,
+    "duration": 5.0,
+    "text": "And you bring up the EV example. I mean, back then, there was an infrastructure."
+  },
+  {
+    "start": 2039.68,
+    "duration": 5.0,
+    "text": "It was really expensive to charge a car and to all and so on."
+  },
+  {
+    "start": 2044.68,
+    "duration": 6.999999999999773,
+    "text": "So how did this check out? If you would write the solar spreadsheet, how would this company ever make sense to for somebody to listen to?"
+  },
+  {
+    "start": 2052.68,
+    "duration": 5.0,
+    "text": "Yeah. So you could actually just model out like how soon the battery costs would would go down and like that."
+  },
+  {
+    "start": 2057.68,
+    "duration": 11.0,
+    "text": "So basically like one of the things that like Tesla worked out as a technical economics is like roughly at what scale is it cost comparable to have an EV versus a gasoline vehicle."
+  },
+  {
+    "start": 2068.68,
+    "duration": 6.0,
+    "text": "Right. And so like you could actually model that out based on battery prices with the mind battery prices going down."
+  },
+  {
+    "start": 2075.68,
+    "duration": 10.0,
+    "text": "And then the subtraction of whatever the vehicle costs that you don't need in an EV plus the addition of whatever EV things you need to add in that includes the battery plus like the motors and blah, blah, blah."
+  },
+  {
+    "start": 2085.68,
+    "duration": 7.0,
+    "text": "And you can say like, when are they cost comparable? Like to like just roughly on manufacturing costs and you'd say like, Oh, okay."
+  },
+  {
+    "start": 2092.68,
+    "duration": 6.0,
+    "text": "So like something like the model three, the current plan will get you to roughly cost comparable is what they said, right."
+  },
+  {
+    "start": 2098.68,
+    "duration": 6.0,
+    "text": "And so they planned out basically like three vehicles roughly. Let's say at high level before they got there."
+  },
+  {
+    "start": 2104.68,
+    "duration": 9.0,
+    "text": "And so that was first the roadster that was way more expensive than it was something like the model S turns out they did S and X and then it was the model three."
+  },
+  {
+    "start": 2113.68,
+    "duration": 2.0,
+    "text": "That was like roughly their math."
+  },
+  {
+    "start": 2115.68,
+    "duration": 6.0,
+    "text": "They were wrong, by the way. Everyone was wrong about that, by the way. So like, I don't give any shade to Elon."
+  },
+  {
+    "start": 2121.68,
+    "duration": 4.0,
+    "text": "Like all in the entire automotive industry has just been very wrong about this cost modeling."
+  },
+  {
+    "start": 2126.68,
+    "duration": 8.0,
+    "text": "But that's what they showed and the second I showed in the very beginning, the roadster could be made, then fuck it up, which they did originally which might need to step in."
+  },
+  {
+    "start": 2134.68,
+    "duration": 6.0,
+    "text": "They mess it up. They could sell a car properly for something like 100 whatever the early road surprise was under 20,000."
+  },
+  {
+    "start": 2140.68,
+    "duration": 10.0,
+    "text": "That's also the techno economics. And then the charging would be actually relatively simple. You'd have to, I think it was like, I don't know, a couple thousand bucks to like do a home charger."
+  },
+  {
+    "start": 2150.68,
+    "duration": 3.0,
+    "text": "Right, it would be tacked on like your customer have to pay for that too."
+  },
+  {
+    "start": 2154.68,
+    "duration": 3.0,
+    "text": "Or they could charge slowly and that would kind of suck for them."
+  },
+  {
+    "start": 2157.68,
+    "duration": 9.0,
+    "text": "And that makes a lot of sense for the cars and then the charging at home. But they in the end to make it viable. You also have to build like all this infrastructure super chargers."
+  },
+  {
+    "start": 2166.68,
+    "duration": 11.0,
+    "text": "So how did they how did they implement this into into the into the spreadsheet that they also have to build not only the cars, but also the convenience of being able to charge in car on the road trip."
+  },
+  {
+    "start": 2178.68,
+    "duration": 12.0,
+    "text": "So, if you I don't think they took it on initially, but they or maybe they did I can't actually remember the history of this, but they built out their super charging network, basically where all their customers were."
+  },
+  {
+    "start": 2190.68,
+    "duration": 5.0,
+    "text": "And they just basically said like we want to enable trips between certain places so LA to San Francisco."
+  },
+  {
+    "start": 2195.68,
+    "duration": 8.0,
+    "text": "And so like actually like the charging infrastructure is actually not that expensive because you're like, okay, we're going to build this many chargers along this place and like we have this many customers and so like it's going to be this expensive."
+  },
+  {
+    "start": 2204.68,
+    "duration": 10.0,
+    "text": "And you don't have to build charges everywhere. It's just to build charges there. And so yeah, I mean, most people who bought were rich people who own houses. So like you couldn't buy a road surf. You like probably lived in an apartment building, a beer than knowing."
+  },
+  {
+    "start": 2214.68,
+    "duration": 9.820000000000164,
+    "text": "Yeah, so it's not crazy. Yeah. Cool. In your tech and economics, you're allowed exactly one miracle. Okay."
+  },
+  {
+    "start": 2224.5,
+    "duration": 5.0,
+    "text": "And ideally this miracle should be related to what your startup is world class at."
+  },
+  {
+    "start": 2230.5,
+    "duration": 9.0,
+    "text": "And so like if we can get the yield above 80%, everything else is already proven in industrial scale or like uses really conservative assumptions on labor on electricity."
+  },
+  {
+    "start": 2239.5,
+    "duration": 15.0,
+    "text": "The worst kind of startups assume multiple miracles. And in fact, don't even know they have multiple miracles. And so again, to use electricity prices as an example, I've seen many, many, many startups that assume something like their business will be able to get $4."
+  },
+  {
+    "start": 2254.5,
+    "duration": 5.0,
+    "text": "Excuse me, $4 a kilowatt of electricity. Kill on our electricity."
+  },
+  {
+    "start": 2259.5,
+    "duration": 10.0,
+    "text": "That pricing just does not exist anywhere except when you like 24 seven doesn't exist from for any grid that I'm aware of in the United States."
+  },
+  {
+    "start": 2269.5,
+    "duration": 5.0,
+    "text": "Now the way that founders got there was that they assume electricity prices would go down in the future."
+  },
+  {
+    "start": 2274.5,
+    "duration": 8.0,
+    "text": "Historically, they I think roughly had in the last like three or four years, I believe electricity prices have just gone straight up."
+  },
+  {
+    "start": 2282.5,
+    "duration": 6.0,
+    "text": "And so if you build a business under the assumption that electricity prices would go down and then you'd have access to that."
+  },
+  {
+    "start": 2288.5,
+    "duration": 4.0,
+    "text": "Guess what? You assumed a miracle. The miracle didn't happen."
+  },
+  {
+    "start": 2292.5,
+    "duration": 4.380000000000109,
+    "text": "And now your business doesn't make any sense."
+  },
+  {
+    "start": 2296.88,
+    "duration": 8.0,
+    "text": "And this is a this is a thing, by the way, that most startups are not really great at getting, which is like cheap electricity prices because they don't have a lot of control over it."
+  },
+  {
+    "start": 2304.88,
+    "duration": 2.0,
+    "text": "The technology doesn't actually enable it."
+  },
+  {
+    "start": 2306.88,
+    "duration": 8.0,
+    "text": "And so the reverse thing that you would assume is that their process can actually lower the amount of electricity in order to make it economical."
+  },
+  {
+    "start": 2314.88,
+    "duration": 4.0,
+    "text": "And for many processes, that was actually physically like broke the limits of physics or whatever."
+  },
+  {
+    "start": 2318.88,
+    "duration": 3.0,
+    "text": "And so like they assume multiple miracles and that's not great."
+  },
+  {
+    "start": 2321.88,
+    "duration": 5.0,
+    "text": "And so your miracle should ideally be the thing your technology that you're going to be really, really great at."
+  },
+  {
+    "start": 2326.88,
+    "duration": 4.0,
+    "text": "And so for example, solugene, they make enzymes and heterogeneous malachaunable."
+  },
+  {
+    "start": 2330.88,
+    "duration": 7.0,
+    "text": "And so the catalyst they assumed their enzyme costs would be like one of the world's best, or if not the world's best."
+  },
+  {
+    "start": 2337.88,
+    "duration": 8.389999999999873,
+    "text": "And that's fine. They're really good enzymes. And so like you can assume stuff like that."
+  },
+  {
+    "start": 2346.27,
+    "duration": 4.0,
+    "text": "You should make your assumptions clear. And again, okay, yeah, we went back to this. Yeah."
+  },
+  {
+    "start": 2350.27,
+    "duration": 4.0,
+    "text": "And so here are a bunch of assumptions that you make at the bottom of the spreadsheet."
+  },
+  {
+    "start": 2354.27,
+    "duration": 7.0,
+    "text": "They're marked as inputs. Again, reasonable prices for electricity, natural gas prices, technical labor, etc."
+  },
+  {
+    "start": 2361.27,
+    "duration": 9.340000000000146,
+    "text": "Numbers you want to add once you've gotten to the stage, you want to measure revenue, gross margin, payback period. This is super important."
+  },
+  {
+    "start": 2370.61,
+    "duration": 10.0,
+    "text": "So when you have capital expenditures or payments upfront, one big determinant of whether or not your startup will succeed is the payback period for your upfront costs."
+  },
+  {
+    "start": 2380.61,
+    "duration": 6.0,
+    "text": "The ideal startup has payback periods of something like less than nine months."
+  },
+  {
+    "start": 2386.61,
+    "duration": 5.0,
+    "text": "And basically when you get below nine months, everyone's going to fund you like greedy capitalist fund you."
+  },
+  {
+    "start": 2391.61,
+    "duration": 8.0,
+    "text": "This is something like a pretty high IRR. If you're doing that calculation, it looks like kind of ridiculous when you're this great."
+  },
+  {
+    "start": 2399.61,
+    "duration": 7.0,
+    "text": "And so capital just tends to flow you to you. In different markets, there are different typical payback periods."
+  },
+  {
+    "start": 2406.61,
+    "duration": 7.0,
+    "text": "So if you are Chevron or Exxon, a business case is made on something like a four year payback period."
+  },
+  {
+    "start": 2413.61,
+    "duration": 7.0,
+    "text": "When we spend $10 billion, we want to get it paid back through profits in four years."
+  },
+  {
+    "start": 2420.61,
+    "duration": 5.0,
+    "text": "And that's like a pretty good business case for us to make, if you're Exxon or Chevron or whatever, some large company."
+  },
+  {
+    "start": 2425.61,
+    "duration": 8.170000000000073,
+    "text": "You want to calculate your total op-ex and your total cap-ex. These are useful numbers to know."
+  },
+  {
+    "start": 2433.78,
+    "duration": 5.0,
+    "text": "Other numbers to add, you might want to add some figure of merit numbers or comparative metrics."
+  },
+  {
+    "start": 2438.78,
+    "duration": 3.0,
+    "text": "So in certain industries, there's like certain numbers that you compare against."
+  },
+  {
+    "start": 2442.78,
+    "duration": 4.0,
+    "text": "And so like in tokens, it might be dollar per million dollar tokens of input or output."
+  },
+  {
+    "start": 2446.78,
+    "duration": 5.0,
+    "text": "It's like a number that everyone knows about. And so like if you're talking making tokens, that's what you calculate."
+  },
+  {
+    "start": 2451.78,
+    "duration": 6.0,
+    "text": "Empower generation, it's a levelized cost of energy. It's dollars per megawatt hour, dollars per kilowatt hour of that levelized cost of energy."
+  },
+  {
+    "start": 2457.78,
+    "duration": 6.0,
+    "text": "It's like a just a figure that everyone just sort of knows and roughly has the same assumptions."
+  },
+  {
+    "start": 2463.78,
+    "duration": 3.0,
+    "text": "And so people like comparing to it. And so it's useful for you to know that."
+  },
+  {
+    "start": 2466.78,
+    "duration": 2.0,
+    "text": "So you can talk to other people coherently and good."
+  },
+  {
+    "start": 2469.78,
+    "duration": 4.0,
+    "text": "And understand whether your technology stacks up where it stacks up against others."
+  },
+  {
+    "start": 2473.78,
+    "duration": 9.0,
+    "text": "And you also want to calculate out multiple scenarios. So how do the economics improve with scale? Like we just sell way more."
+  },
+  {
+    "start": 2482.78,
+    "duration": 5.0,
+    "text": "Technology, like we make actual improvements to technology or specific scenarios."
+  },
+  {
+    "start": 2487.78,
+    "duration": 8.0,
+    "text": "Like we cite a plant in Alaska or we cite a plant in Texas or in a world where this regulation passes."
+  },
+  {
+    "start": 2495.78,
+    "duration": 2.0,
+    "text": "This is how much money we make."
+  },
+  {
+    "start": 2498.78,
+    "duration": 2.0,
+    "text": "And we want to understand."
+  },
+  {
+    "start": 2500.78,
+    "duration": 4.0,
+    "text": "Of course, when we make money and how much we make money in all those cases."
+  },
+  {
+    "start": 2504.78,
+    "duration": 4.0,
+    "text": "And so here again, you can take that same scenario and now we have."
+  },
+  {
+    "start": 2508.78,
+    "duration": 9.0,
+    "text": "A in the starting from the upper left, we have a now scenario like what we do now in the lab and then we have a later prime point."
+  },
+  {
+    "start": 2518.78,
+    "duration": 7.0,
+    "text": "For 25 in the past turns out and then Q 326 and we have the scale in which we're operating right below that."
+  },
+  {
+    "start": 2525.78,
+    "duration": 5.0,
+    "text": "One 1000 100,000 right to indicate what scenario we're talking about."
+  },
+  {
+    "start": 2530.78,
+    "duration": 7.0,
+    "text": "And then we can see the economics go from massively negative to a little bit negative to mostly positive."
+  },
+  {
+    "start": 2537.78,
+    "duration": 9.0,
+    "text": "And so in this scenario layout, you would say, Oh, yeah, the 100,000 scale, the like right most column."
+  },
+  {
+    "start": 2546.78,
+    "duration": 1.0,
+    "text": "That's commercial scale."
+  },
+  {
+    "start": 2547.78,
+    "duration": 2.0,
+    "text": "That's when we get to making money."
+  },
+  {
+    "start": 2549.78,
+    "duration": 2.0,
+    "text": "And before then we don't."
+  },
+  {
+    "start": 2551.78,
+    "duration": 6.0,
+    "text": "And we're proving out the technology over time so you can see the costs decrease as you go to the right."
+  },
+  {
+    "start": 2557.78,
+    "duration": 4.0,
+    "text": "And you look at which ones you need to work on the most when you're modeling."
+  },
+  {
+    "start": 2561.78,
+    "duration": 5.0,
+    "text": "And so this roughly lays out for your team to know what to work on."
+  },
+  {
+    "start": 2566.78,
+    "duration": 7.0,
+    "text": "Right. So when you share it with your team, they know they need to hit these costs targets or you die."
+  },
+  {
+    "start": 2574.78,
+    "duration": 6.0,
+    "text": "And if they don't hit say like usually you're like assigning one or more persons to work on like the carbon dioxide cost."
+  },
+  {
+    "start": 2580.78,
+    "duration": 5.0,
+    "text": "And if they don't hit a dollar, a kilogram of carbon dioxide cost boy, are you screwed."
+  },
+  {
+    "start": 2585.78,
+    "duration": 1.0,
+    "text": "Right."
+  },
+  {
+    "start": 2586.78,
+    "duration": 10.0,
+    "text": "And if they don't make it, they need to make like the rest of the team, the catalyst team and the water team needs to make up the cost savings or the cost increase from the carbon dioxide team."
+  },
+  {
+    "start": 2596.78,
+    "duration": 1.0,
+    "text": "Right."
+  },
+  {
+    "start": 2597.78,
+    "duration": 5.0,
+    "text": "Because no matter what you need the cost to go down so much so that you actually have a viable business."
+  },
+  {
+    "start": 2603.78,
+    "duration": 8.0,
+    "text": "How to lay out a techno economics, you should lay it out. Typically, I recommend each column is a scenario lab pilot commercial each row is a new cost."
+  },
+  {
+    "start": 2611.78,
+    "duration": 5.0,
+    "text": "And then you lay it out for explainability. Don't do crazy weird acronyms that you don't know."
+  },
+  {
+    "start": 2616.78,
+    "duration": 8.0,
+    "text": "Okay, make it easy, make it simple. You will not be the only person using your truck economics probably your team will also need it."
+  },
+  {
+    "start": 2624.78,
+    "duration": 2.0,
+    "text": "Investors might want it."
+  },
+  {
+    "start": 2627.78,
+    "duration": 10.0,
+    "text": "Reference where you get numbers so links labels explanation where you got it. So everyone knows if assumptions change therefore they can like go find the new data."
+  },
+  {
+    "start": 2637.78,
+    "duration": 8.0,
+    "text": "And you might add dates when you get to some scale or throughput and then you can add different colors or different kinds of inputs from kinds of cells."
+  },
+  {
+    "start": 2645.78,
+    "duration": 8.0,
+    "text": "You might have inputs that are certain color assumptions and another color outputs and another color flow through calculations and third color whatever like make careful."
+  },
+  {
+    "start": 2654.78,
+    "duration": 4.0,
+    "text": "And then separate out the assumptions, opx, cat, x, unit cost price."
+  },
+  {
+    "start": 2658.78,
+    "duration": 5.0,
+    "text": "And so here we're doing all of that. It's like sort of simple now."
+  },
+  {
+    "start": 2663.78,
+    "duration": 4.0,
+    "text": "And we have like laid out a bunch of stuff."
+  },
+  {
+    "start": 2667.78,
+    "duration": 5.0,
+    "text": "And we've calculated like total catbacks for the plants at every stage."
+  },
+  {
+    "start": 2673.78,
+    "duration": 9.0,
+    "text": "The whole opx top and scale and the time point and we have the assumption bottom and we're still highlighting the swag numbers."
+  },
+  {
+    "start": 2682.78,
+    "duration": 12.379999999999654,
+    "text": "And so that's like a somewhat easy to read techno economics and one tip is to make a front page that explains what it is that you're modeling."
+  },
+  {
+    "start": 2696.16,
+    "duration": 6.0,
+    "text": "And have key takeaway numbers so that people understand how profitable it is and when it gets profitability."
+  },
+  {
+    "start": 2702.16,
+    "duration": 4.0,
+    "text": "And you're checking on actually tell you a bunch of different things."
+  },
+  {
+    "start": 2706.16,
+    "duration": 5.0,
+    "text": "They inform perhaps how much you need to raise and when because often if the cap X is important."
+  },
+  {
+    "start": 2711.16,
+    "duration": 3.0,
+    "text": "It will be a substantial portion of your raise and that's useful and no."
+  },
+  {
+    "start": 2714.16,
+    "duration": 7.0,
+    "text": "And so when you typically something like you multiply the cap X by two or three X and that's roughly how much you need to raise one is millions of dollars."
+  },
+  {
+    "start": 2722.16,
+    "duration": 6.0,
+    "text": "And so here again like the first raise for $50,000 you're probably raising something like a million bucks or two million bucks or something."
+  },
+  {
+    "start": 2728.16,
+    "duration": 6.0,
+    "text": "And so that's not really relevant. But the next pilot where it's two million cap X you're probably raising something like four or five."
+  },
+  {
+    "start": 2734.16,
+    "duration": 5.0,
+    "text": "But the commercial plant that's 10 million and probably raising something like 20 or 30 million."
+  },
+  {
+    "start": 2739.16,
+    "duration": 8.0,
+    "text": "Okay, and the unit costs tell you how you de risk. And so when you look at this again you have to hit these cost numbers and that's how you do risk the business."
+  },
+  {
+    "start": 2748.16,
+    "duration": 5.0,
+    "text": "What assumptions you have to determine what you have to believe about the world to be successful."
+  },
+  {
+    "start": 2753.16,
+    "duration": 6.0,
+    "text": "And so we have for this model we need to believe that we can exist in a world of 12 cents kilowatt hour of electricity."
+  },
+  {
+    "start": 2759.16,
+    "duration": 10.0,
+    "text": "The natural gas is roughly $18 of whatever that unit is I think I forget MCF I think is mega cubic feet."
+  },
+  {
+    "start": 2769.16,
+    "duration": 4.0,
+    "text": "Natural cubic feet standard cubic feet anyway doesn't matter."
+  },
+  {
+    "start": 2773.16,
+    "duration": 4.0,
+    "text": "And then technician labor we can get $42 an hour."
+  },
+  {
+    "start": 2777.16,
+    "duration": 2.0,
+    "text": "Right."
+  },
+  {
+    "start": 2779.16,
+    "duration": 6.0,
+    "text": "And then cost cost comparison explains how you win and so again this is this side of the spreadsheet."
+  },
+  {
+    "start": 2785.16,
+    "duration": 6.0,
+    "text": "And then gross margin and revenue how are the economics of the business are they great are they terrible."
+  },
+  {
+    "start": 2791.16,
+    "duration": 4.0,
+    "text": "And how does my business get better again we can see it improve over time."
+  },
+  {
+    "start": 2795.16,
+    "duration": 8.0,
+    "text": "And then that's all the things that it can tell you."
+  },
+  {
+    "start": 2803.16,
+    "duration": 9.0,
+    "text": "And one thing that you might do is use the techno economics actually to run your business when economics are important so you might start the company based on the economics like you're an entity did."
+  },
+  {
+    "start": 2812.16,
+    "duration": 4.0,
+    "text": "You might set milestones based on the economics."
+  },
+  {
+    "start": 2816.16,
+    "duration": 8.0,
+    "text": "You might drive the company forward with economics like you might actually evaluate how well your business is doing anytime there's update to the techno economics."
+  },
+  {
+    "start": 2824.16,
+    "duration": 6.0,
+    "text": "You get data to revise the tech economics is actually happening my previous startup we made the techno economics in the beginning."
+  },
+  {
+    "start": 2830.16,
+    "duration": 9.0,
+    "text": "We weren't so good at revising it in one time when we had all the costs finally for our full system we're like oh crap we're 10x more expensive than we thought we were going to be."
+  },
+  {
+    "start": 2839.16,
+    "duration": 7.0,
+    "text": "And so it turns out all the businesses that we thought we could make all the commercial partners that we thought we could have they evaporated."
+  },
+  {
+    "start": 2846.16,
+    "duration": 5.0,
+    "text": "The literal moment that we updated the techno economics and we realized how expensive our cost were."
+  },
+  {
+    "start": 2851.16,
+    "duration": 4.0,
+    "text": "And then we had to entirely shift the business into something new."
+  },
+  {
+    "start": 2855.16,
+    "duration": 3.0,
+    "text": "It's a longer story we ended up selling it to million dollar car to billionaires."
+  },
+  {
+    "start": 2858.16,
+    "duration": 5.0,
+    "text": "It's not with the business we wanted to end up and so we had to change the plan based on the techno economics."
+  },
+  {
+    "start": 2863.16,
+    "duration": 13.0,
+    "text": "And so you can even communicate updates about the business in the form of tech economics, i.e. we just proved x dropping our unit costs to $3 a kilogram and increasing our gross margins from 35% to 70%."
+  },
+  {
+    "start": 2876.16,
+    "duration": 2.0,
+    "text": "That's a great update."
+  },
+  {
+    "start": 2878.16,
+    "duration": 6.0,
+    "text": "Some charts you might make the total cost breakdown of cow facts or something or just general costs."
+  },
+  {
+    "start": 2884.16,
+    "duration": 5.0,
+    "text": "This is from a nuclear power plant kind of interesting that interest costs are so expensive and a nuclear power plant."
+  },
+  {
+    "start": 2890.16,
+    "duration": 11.0,
+    "text": "There's another tornado chart that you can make which is like you vary input changes versus one core metric and you can stack rank them. This is kind of like a sensitivity analysis."
+  },
+  {
+    "start": 2901.16,
+    "duration": 8.0,
+    "text": "And one of the things that you might ask if you have like electricity prices or natural gas prices or whatever inputs is like historically."
+  },
+  {
+    "start": 2909.16,
+    "duration": 7.0,
+    "text": "With the last say 20 years do we make money in all scenarios and so sensitive analysis might like this might model."
+  },
+  {
+    "start": 2916.16,
+    "duration": 11.590000000000146,
+    "text": "And so you might have to have a lot of those commodities in the last 20 years and you might see that oh yeah our profits still are this good."
+  },
+  {
+    "start": 2927.75,
+    "duration": 8.0,
+    "text": "Things that you might include in your economics if you get really advanced the cost of borrowing or interest process modeling actual physics or chemistry into it."
+  },
+  {
+    "start": 2935.75,
+    "duration": 11.0,
+    "text": "Project financing internal radio turn cash forecasting learning rates learning rates are these things where like you make more of something and it gets cheaper just as a rule of thumb."
+  },
+  {
+    "start": 2946.75,
+    "duration": 4.0,
+    "text": "So you have a 24% cost decrease for doubling."
+  },
+  {
+    "start": 2950.75,
+    "duration": 1.0,
+    "text": "Okay."
+  },
+  {
+    "start": 2951.75,
+    "duration": 5.0,
+    "text": "And that's just like every time you double the total amount you make you drop the cost by 24%."
+  },
+  {
+    "start": 2956.75,
+    "duration": 15.0,
+    "text": "Mostly engineers doing this it's not some magic magical like thing that's real but generally like each industry each technology has a trend and you could assume your industry is learning rate as a kind of assumption about how your costs get down."
+  },
+  {
+    "start": 2971.75,
+    "duration": 6.0,
+    "text": "So you can already tell with the technical economics so business makes so much money relates to high gross margin and low costs."
+  },
+  {
+    "start": 2977.75,
+    "duration": 14.0,
+    "text": "The tornado chart the sensitivity now tells you about the business makes money in all futures not too crazy a business means relatable assumptions technology so awesome that's how you relate to the competitor analysis."
+  },
+  {
+    "start": 2992.75,
+    "duration": 8.0,
+    "text": "The payback period is fast clear path to your risking the tech assumptions are clear at each stage and they capture the main things you have to do to make money."
+  },
+  {
+    "start": 3000.75,
+    "duration": 7.0,
+    "text": "And so if you're to look at your net tax they spent something like three and a half the three point one million dollars to get win a hundred million dollar your market."
+  },
+  {
+    "start": 3007.75,
+    "duration": 8.559999999999945,
+    "text": "They spent like a hundred K to deliver the world's first human protein and E. coli and three million dollars to deliver insulin."
+  },
+  {
+    "start": 3016.31,
+    "duration": 6.0,
+    "text": "When a sign partnership and how to get started again we like build out a simple model with high level inputs."
+  },
+  {
+    "start": 3022.31,
+    "duration": 10.0,
+    "text": "We swag as much as we need to so we get to ideally a full working model and something like 15 minutes to 30 minutes this is a lot easier in the world of cash or cloth."
+  },
+  {
+    "start": 3032.31,
+    "duration": 5.0,
+    "text": "They can actually just build you technical economics and then you refine the model as you need to."
+  },
+  {
+    "start": 3037.31,
+    "duration": 7.0,
+    "text": "And other models by the way so like the technical economics only really answer this question if our technology works how do we make money."
+  },
+  {
+    "start": 3044.31,
+    "duration": 4.0,
+    "text": "They don't actually answer how much cash do we need overall as a business."
+  },
+  {
+    "start": 3049.31,
+    "duration": 2.0,
+    "text": "How much money do we start making at each time point."
+  },
+  {
+    "start": 3051.31,
+    "duration": 4.0,
+    "text": "And so there are other models that you would care about as a startup."
+  },
+  {
+    "start": 3055.31,
+    "duration": 4.0,
+    "text": "One of the main ones is something called a pro forma financial."
+  },
+  {
+    "start": 3059.31,
+    "duration": 8.0,
+    "text": "This is a projection into the future of how much money you spend and how much money you make and the profitability of your business and the cash flows."
+  },
+  {
+    "start": 3067.31,
+    "duration": 5.0,
+    "text": "It usually includes some like bottoms up analysis of how much head count you need at every single stage."
+  },
+  {
+    "start": 3073.31,
+    "duration": 6.0,
+    "text": "You typically only need this in a series a before then you're just like yellowing it more or less."
+  },
+  {
+    "start": 3079.31,
+    "duration": 8.0,
+    "text": "And often there's no revenue that you're assuming or very little and so you just kind of don't really care when the revenue happens."
+  },
+  {
+    "start": 3087.31,
+    "duration": 5.0,
+    "text": "But typically around a series a investors are like okay you're going to start making real money."
+  },
+  {
+    "start": 3092.31,
+    "duration": 3.0,
+    "text": "And that actually starts to frame the expenses of the business."
+  },
+  {
+    "start": 3095.31,
+    "duration": 2.0,
+    "text": "And so we actually want to see you model this out."
+  },
+  {
+    "start": 3098.31,
+    "duration": 7.0,
+    "text": "So that we understand like how conservative it is what you're raising or how like craziest like anyway just like that."
+  },
+  {
+    "start": 3105.31,
+    "duration": 1.0,
+    "text": "I understand the business."
+  },
+  {
+    "start": 3106.31,
+    "duration": 2.0,
+    "text": "There's a cash runway or burn model."
+  },
+  {
+    "start": 3108.31,
+    "duration": 3.0,
+    "text": "This is we have X million dollars or whatever amount in the bank."
+  },
+  {
+    "start": 3111.31,
+    "duration": 2.0,
+    "text": "When do we run out of money."
+  },
+  {
+    "start": 3113.31,
+    "duration": 4.0,
+    "text": "And so this will be something that again like in the beginning you sort of eyeball your bank account balance."
+  },
+  {
+    "start": 3117.31,
+    "duration": 4.0,
+    "text": "And like and you just see like how close you are getting to zero."
+  },
+  {
+    "start": 3122.31,
+    "duration": 7.0,
+    "text": "But as you go you might actually want to start calculating in like the actual big expenses that you're going to have in the future."
+  },
+  {
+    "start": 3129.31,
+    "duration": 13.0,
+    "text": "And actually calculating out like oh we have like actually we hit cash out in eight months and therefore we wind down in like seven months because sometimes you're going to wind down before you actually what when you sell money and your bank account."
+  },
+  {
+    "start": 3142.31,
+    "duration": 5.0,
+    "text": "And again you might need to calculate your customers economic to make sure you're not finding business gravity."
+  },
+  {
+    "start": 3148.31,
+    "duration": 2.0,
+    "text": "Yes question."
+  },
+  {
+    "start": 3150.31,
+    "duration": 1.0,
+    "text": "Thank you Alex."
+  },
+  {
+    "start": 3151.31,
+    "duration": 4.0,
+    "text": "Maybe less relevant for today but you mentioned before the competitors."
+  },
+  {
+    "start": 3155.31,
+    "duration": 8.0,
+    "text": "And within the landscape of competitors to also include other startup companies that have also still a lot of the risk to do."
+  },
+  {
+    "start": 3163.31,
+    "duration": 8.0,
+    "text": "Or are you only including established big companies that are competing that already have a buy of a product and in the pipeline."
+  },
+  {
+    "start": 3172.31,
+    "duration": 13.0,
+    "text": "Yeah, that's what kind of question you're answering right so like the question where you now analyze and incumbent like some company that actually is making a product already is really a question about like how do I win customer business right."
+  },
+  {
+    "start": 3185.31,
+    "duration": 10.0,
+    "text": "So like my current customer that I might sell to does X and I want to know that I can beat them beat whatever they do for acts on price so that I win the business right."
+  },
+  {
+    "start": 3196.31,
+    "duration": 2.0,
+    "text": "So that's that analysis."
+  },
+  {
+    "start": 3198.31,
+    "duration": 6.0,
+    "text": "Another question you might ask is like well how sure am I that I can beat all my competitors including startups."
+  },
+  {
+    "start": 3204.31,
+    "duration": 9.0,
+    "text": "And so there again you might have a bunch of other technologies and go like okay now I actually understand the field and understand that I'm better than all of them."
+  },
+  {
+    "start": 3213.31,
+    "duration": 1.0,
+    "text": "Right."
+  },
+  {
+    "start": 3214.31,
+    "duration": 7.0,
+    "text": "And so that answers the question in a future world where all the startups some of them are successful like who actually am I most worried about."
+  },
+  {
+    "start": 3222.31,
+    "duration": 11.0,
+    "text": "But again it's like sort of changes like like what you're trying to answer when you raise money obviously investors care a lot about are you going to be the winner when you can present to a customer."
+  },
+  {
+    "start": 3233.31,
+    "duration": 7.0,
+    "text": "They might also care about this but mostly they're just like well I'm like they might not have heard of the other startups and so it actually might not be a relevant question for them."
+  },
+  {
+    "start": 3240.31,
+    "duration": 10.0,
+    "text": "And so like you actually just want to know can I can I win you know a customer's business right and so like you use your technology to have to answer the relevant question you want and there are many questions you could ask."
+  },
+  {
+    "start": 3251.31,
+    "duration": 3.0,
+    "text": "And therefore like you can actually change them as as you need."
+  },
+  {
+    "start": 3254.31,
+    "duration": 9.0,
+    "text": "But like many of the startups I know to understand the landscape of other competitive technologies do actually work with tech different."
+  },
+  {
+    "start": 3263.31,
+    "duration": 2.0,
+    "text": "Roughly for like the different."
+  },
+  {
+    "start": 3265.31,
+    "duration": 2.0,
+    "text": "Sometimes you call it modalities or something."
+  },
+  {
+    "start": 3267.31,
+    "duration": 11.0,
+    "text": "And they can just sort of tell you like they would be able to tell me something like those technologies would need to get to some point to be like close competitive with our technology."
+  },
+  {
+    "start": 3278.31,
+    "duration": 8.0,
+    "text": "And so it's like you can imagine like a useful thing for you to know like what miracle do they need to hit in order for me to be worried."
+  },
+  {
+    "start": 3286.31,
+    "duration": 6.050000000000182,
+    "text": "And so yeah, this is yeah."
+  },
+  {
+    "start": 3292.36,
+    "duration": 1.0,
+    "text": "Other question."
+  },
+  {
+    "start": 3293.36,
+    "duration": 15.0,
+    "text": "How do you evaluate those and those miracles are likely or less likely because you don't know what's happening behind the scenes you don't know what kind of discoveries they might have made that they haven't published so how can you from an external perspective now that they are likely to hit those miracle versus"
+  },
+  {
+    "start": 3309.36,
+    "duration": 3.0,
+    "text": "Yeah, the answer here is first principles analysis."
+  },
+  {
+    "start": 3312.36,
+    "duration": 1.0,
+    "text": "Right."
+  },
+  {
+    "start": 3313.36,
+    "duration": 11.0,
+    "text": "I mean like there's like you at no one knows the future but like what does it take to get somewhere right and like you can look at historical improvement in technology to see like is there real advances happening right now."
+  },
+  {
+    "start": 3324.36,
+    "duration": 13.0,
+    "text": "And are they likely to occur and like one analysis that I do again I don't know if founders necessarily need to do this but like one analysis I do is like I think about the rate of increase in technologies and like the next three years and wonder if there's something that causes the"
+  },
+  {
+    "start": 3337.36,
+    "duration": 4.0,
+    "text": "or if there's something that comes close to someone I'm analyzing."
+  },
+  {
+    "start": 3341.36,
+    "duration": 11.0,
+    "text": "And so one example would be like to get specific like I've looked at recycling technologies like chemical recycling versus enzymatic recycling versus like mechanical recycling."
+  },
+  {
+    "start": 3352.36,
+    "duration": 7.0,
+    "text": "And like you can just sort of evaluate the bleeding edge technologies these are things usually in labs."
+  },
+  {
+    "start": 3360.36,
+    "duration": 7.0,
+    "text": "In any given area and ask the question like where's the technology at and like if you were to look at proteins and enzymes."
+  },
+  {
+    "start": 3367.36,
+    "duration": 7.0,
+    "text": "You would say oh man like the design computationally of enzymes is super hard."
+  },
+  {
+    "start": 3374.36,
+    "duration": 5.0,
+    "text": "The fields has never really matched wild type enzymes like they're getting close now."
+  },
+  {
+    "start": 3379.36,
+    "duration": 4.0,
+    "text": "And like I've talked to some of the researchers and I just sort of know they're getting close."
+  },
+  {
+    "start": 3384.36,
+    "duration": 9.0,
+    "text": "And so they're like bad wild type enzymes but not actually like the best enzyme in the world at doing something and so you're like oh man like how fast is this technology needed to proceed in order for them to get there."
+  },
+  {
+    "start": 3393.36,
+    "duration": 10.0,
+    "text": "And you're something like in order or two orders of magnitude off in activity and you can break it down to technical problems that they have to solve, which is the enzymes actually move around."
+  },
+  {
+    "start": 3403.36,
+    "duration": 9.0,
+    "text": "Most binding proteins that people are talking about the design in silico are like just these static things sort of like stick on enzymes do this like weird dancing thing."
+  },
+  {
+    "start": 3412.36,
+    "duration": 3.0,
+    "text": "And then kick it thing off. It's actually super complicated."
+  },
+  {
+    "start": 3415.36,
+    "duration": 4.0,
+    "text": "And if you ask like computationally do we even have the data about how they move around you're like oh we don't."
+  },
+  {
+    "start": 3419.36,
+    "duration": 3.0,
+    "text": "And it's super hard to simulate and like the bigger the enzyme the harder it is."
+  },
+  {
+    "start": 3422.36,
+    "duration": 3.0,
+    "text": "And sometimes the enzymes are like four different things that come together."
+  },
+  {
+    "start": 3425.36,
+    "duration": 1.0,
+    "text": "We don't even know the shape of them."
+  },
+  {
+    "start": 3426.36,
+    "duration": 3.0,
+    "text": "And so you're like oh shit like this is super super hard."
+  },
+  {
+    "start": 3429.36,
+    "duration": 6.0,
+    "text": "And like if you assume you're like an awful full level of investment like maybe maybe we get there a couple years something you're like okay."
+  },
+  {
+    "start": 3435.36,
+    "duration": 2.0,
+    "text": "They have really is a safe thing."
+  },
+  {
+    "start": 3437.36,
+    "duration": 6.039999999999964,
+    "text": "But anyway you do first principle analysis is this long short of it."
+  },
+  {
+    "start": 3443.4,
+    "duration": 7.0,
+    "text": "And like frankly you might just not know like I don't know like sometimes you just don't know like this is like the thing about startups."
+  },
+  {
+    "start": 3450.4,
+    "duration": 2.0,
+    "text": "You just never know."
+  },
+  {
+    "start": 3452.4,
+    "duration": 7.0,
+    "text": "It's actually like one of the biggest things about being a founder I'll just tell all of you it's like you like can never make a decision with full information."
+  },
+  {
+    "start": 3459.4,
+    "duration": 8.0,
+    "text": "It's not like a chessboard where you can see everyone's position and analyze mostly you operate under like what."
+  },
+  {
+    "start": 3468.4,
+    "duration": 12.5,
+    "text": "And so like you're making decisions with like very limited knowledge and that's actually one of the hardest things for engineers and scientists is like oh we're just kind of make decisions based on what we believe about the world."
+  },
+  {
+    "start": 3480.9,
+    "duration": 5.0,
+    "text": "And what we know and it's not a lot and we wish we could spend more time finding data."
+  },
+  {
+    "start": 3485.9,
+    "duration": 5.0,
+    "text": "And typically like you generally don't want to spend time getting data."
+  },
+  {
+    "start": 3490.9,
+    "duration": 6.0,
+    "text": "Because it can be exhaustive and so there's this analysis that you do which is type one decisions versus type two decisions."
+  },
+  {
+    "start": 3496.9,
+    "duration": 7.0,
+    "text": "And so like a decision that's a type two door is a door where you walk through the door and then you can really walk back out if you don't like what you see."
+  },
+  {
+    "start": 3503.9,
+    "duration": 5.0,
+    "text": "And type one decision as you walk through the door and you it's very difficult or nearly impossible to walk back out."
+  },
+  {
+    "start": 3508.9,
+    "duration": 6.0,
+    "text": "And so for type two decisions which are like it turns out most decisions and startups."
+  },
+  {
+    "start": 3514.9,
+    "duration": 3.0,
+    "text": "It's better to just make decisions quickly."
+  },
+  {
+    "start": 3517.9,
+    "duration": 8.0,
+    "text": "And that's the learning and you should be really fast at walking through doors and then walking back if you want to walk through the door."
+  },
+  {
+    "start": 3525.9,
+    "duration": 5.0,
+    "text": "And then walking back if you don't need to and this is why speed is actually also important."
+  },
+  {
+    "start": 3530.9,
+    "duration": 6.0,
+    "text": "And type one decisions you want to slow down and actually spend time getting the data because it might be an irreversible and important decision."
+  },
+  {
+    "start": 3536.9,
+    "duration": 4.0,
+    "text": "Obviously type one decision that's not important you don't need to spend time on."
+  },
+  {
+    "start": 3540.9,
+    "duration": 2.0,
+    "text": "So it doesn't really matter."
+  },
+  {
+    "start": 3542.9,
+    "duration": 4.0,
+    "text": "I have a hard time thinking of what that is so I don't even know."
+  },
+  {
+    "start": 3546.9,
+    "duration": 3.0,
+    "text": "Because they just don't matter so that I don't think about them."
+  },
+  {
+    "start": 3549.9,
+    "duration": 1.0,
+    "text": "Yeah."
+  },
+  {
+    "start": 3550.9,
+    "duration": 10.579999999999927,
+    "text": "Other questions."
+  },
+  {
+    "start": 3561.48,
+    "duration": 2.0,
+    "text": "I'm going to end screen sharing."
+  },
+  {
+    "start": 3563.48,
+    "duration": 1.0,
+    "text": "Sorry, one question."
+  },
+  {
+    "start": 3564.48,
+    "duration": 1.0,
+    "text": "I go."
+  },
+  {
+    "start": 3565.48,
+    "duration": 7.0,
+    "text": "So like, how do you build a TA without too much customer data at the moment?"
+  },
+  {
+    "start": 3572.48,
+    "duration": 5.0,
+    "text": "Like, because obviously your costs and price model will be determined on what they're willing to pay for it."
+  },
+  {
+    "start": 3577.48,
+    "duration": 7.0,
+    "text": "So do you just kind of take the best case scenario and like choose your own or what's depending on that."
+  },
+  {
+    "start": 3585.48,
+    "duration": 9.0,
+    "text": "By customer you mean like we do we sell product X they the customers are going to buy a similar product and we don't know the price at which they buy that product."
+  },
+  {
+    "start": 3594.48,
+    "duration": 1.0,
+    "text": "Yeah."
+  },
+  {
+    "start": 3595.48,
+    "duration": 15.0,
+    "text": "So like the software I'm doing I can choose between like a polling model versus I take it to share the commodities like buy a royalties on both of those will determine, you know, your TA on whether or not it's like the cop X or op X reduction, which is really the most valuable to them."
+  },
+  {
+    "start": 3610.48,
+    "duration": 13.0,
+    "text": "At this point, do you just ask them like the best scenario for yourself before like, or was your build the TA or typically I would just do both scenarios out and understand what like right like so in your business like both business models exist."
+  },
+  {
+    "start": 3623.48,
+    "duration": 1.0,
+    "text": "Right."
+  },
+  {
+    "start": 3624.48,
+    "duration": 7.0,
+    "text": "Both are common in the industry and it's useful for you to know one that both there are two business models exist and how do they impact me."
+  },
+  {
+    "start": 3632.48,
+    "duration": 2.0,
+    "text": "So I'm in business model business too."
+  },
+  {
+    "start": 3634.48,
+    "duration": 6.0,
+    "text": "And so because both are available to you, you might push your first customer down one path of the other path."
+  },
+  {
+    "start": 3640.48,
+    "duration": 8.0,
+    "text": "And it's useful also analyze which path do our customers prefer and so for your customer techno economics, you might also analyze both businesses."
+  },
+  {
+    "start": 3648.48,
+    "duration": 12.0,
+    "text": "And again, they might have a preference for like not spending capital expenditures for a reason or vice versa might be true. They're totally willing to spend capital expenditures and they care way less about operational savings right like I don't know what what they care about."
+  },
+  {
+    "start": 3660.48,
+    "duration": 13.0,
+    "text": "But again, like understanding both business model, both the impact of both business models on the technical economics for you and your customer allows you to understand what choices you have if you have that like if you get to actually influence that decision."
+  },
+  {
+    "start": 3673.48,
+    "duration": 1.0,
+    "text": "Right."
+  },
+  {
+    "start": 3674.48,
+    "duration": 5.0,
+    "text": "Okay. So yeah, just mom like a pretend and then like decide whenever you're like in the clear conversation so that's best for everyone."
+  },
+  {
+    "start": 3679.48,
+    "duration": 1.0,
+    "text": "Yeah."
+  },
+  {
+    "start": 3680.48,
+    "duration": 4.0,
+    "text": "And sometimes your customers have no idea what's best for them right and this is why we do this."
+  },
+  {
+    "start": 3685.48,
+    "duration": 7.0,
+    "text": "And like you walk it, walk through with them because they like have, you know, they typically like do like one business model."
+  },
+  {
+    "start": 3692.48,
+    "duration": 3.0,
+    "text": "And then actually because of your technology."
+  },
+  {
+    "start": 3695.48,
+    "duration": 4.0,
+    "text": "Their technology change in a way that they're actually familiar with."
+  },
+  {
+    "start": 3699.48,
+    "duration": 4.0,
+    "text": "And so you do actually want to present them the other business model because they make more money and you make more money."
+  },
+  {
+    "start": 3703.48,
+    "duration": 3.0,
+    "text": "Right. Yeah, yeah, for sure."
+  },
+  {
+    "start": 3706.48,
+    "duration": 12.0,
+    "text": "That's actually happened before for for founders I know and so they actually have to walk through them walk their customers through what they've they've analyzed. And so yeah, in the case that you're talking about I would analyze all four things."
+  },
+  {
+    "start": 3718.48,
+    "duration": 1.0,
+    "text": "Yeah."
+  },
+  {
+    "start": 3719.48,
+    "duration": 1.0,
+    "text": "Okay."
+  },
+  {
+    "start": 3720.48,
+    "duration": 1.0,
+    "text": "Cool."
+  },
+  {
+    "start": 3721.48,
+    "duration": 1.0,
+    "text": "Thank you."
+  },
+  {
+    "start": 3722.48,
+    "duration": 9.0,
+    "text": "Oh, I forgot to talk about hacks. Sometimes other people have made tech economics already for you. And so you can get them like department energy makes much tech economics."
+  },
+  {
+    "start": 3732.48,
+    "duration": 7.0,
+    "text": "You can process the Google stuff like whatever you're looking for plus tech economics typically these are too hard and too complicated for you to crack initially."
+  },
+  {
+    "start": 3739.48,
+    "duration": 6.0,
+    "text": "So I don't necessarily say you should start there but anyway like you compare once you've got a simple one to theirs just see what you've left out."
+  },
+  {
+    "start": 3745.48,
+    "duration": 10.0,
+    "text": "Price of equipment or chemicals you can look up on McMaster Granger or call up a supplier and ask for pricing. And you're also get spec sometimes McMaster Granger which is pretty awesome."
+  },
+  {
+    "start": 3755.48,
+    "duration": 5.0,
+    "text": "Yeah, that's well, I got for you for a techno economics other questions."
+  },
+  {
+    "start": 3760.48,
+    "duration": 5.0,
+    "text": "But those of you who make drugs this lecture is less relevant to you."
+  },
+  {
+    "start": 3765.48,
+    "duration": 5.0,
+    "text": "The technical items of drugs are actually like they do do them out."
+  },
+  {
+    "start": 3770.48,
+    "duration": 4.0,
+    "text": "So like the cost of making a small molecule versus the price that you can sell."
+  },
+  {
+    "start": 3774.48,
+    "duration": 5.0,
+    "text": "That is obviously something that people care about generally though the price."
+  },
+  {
+    "start": 3779.48,
+    "duration": 4.0,
+    "text": "That you can sell a drug is related to."
+  },
+  {
+    "start": 3783.48,
+    "duration": 4.0,
+    "text": "How much health care systems can reimburse and so there's a specific math for that."
+  },
+  {
+    "start": 3788.48,
+    "duration": 3.0,
+    "text": "And then the cost is generally small relatives of the price."
+  },
+  {
+    "start": 3791.48,
+    "duration": 5.0,
+    "text": "And so the actual analysis that most people care about drugs is how much money does it cost to actually get the drug to market."
+  },
+  {
+    "start": 3796.48,
+    "duration": 4.0,
+    "text": "That's like the clinical trial costs and all the other associated costs."
+  },
+  {
+    "start": 3800.48,
+    "duration": 4.0,
+    "text": "Relative to how much do we make overall for how many years."
+  },
+  {
+    "start": 3804.48,
+    "duration": 2.0,
+    "text": "Right. And so like you want some ratio there."
+  },
+  {
+    "start": 3806.48,
+    "duration": 10.0,
+    "text": "And then rarely is the actual cost of making the drug important relative to the amount of profit like the price because they're usually like it's like less than 10%."
+  },
+  {
+    "start": 3816.48,
+    "duration": 1.0,
+    "text": "Or something."
+  },
+  {
+    "start": 3817.48,
+    "duration": 4.0,
+    "text": "And even distribution costs for small molecules and stuff is just like not that important."
+  },
+  {
+    "start": 3821.48,
+    "duration": 6.0,
+    "text": "That's why drugs generally care more like the business of drug making is mostly related to like the regulatory barriers in the time."
+  },
+  {
+    "start": 3827.48,
+    "duration": 3.0,
+    "text": "It takes and then estimating market sizes."
+  },
+  {
+    "start": 3830.48,
+    "duration": 6.2800000000002,
+    "text": "There's like some rare exceptions like self therapies or something where like the cost of making the drug actually matters but."
+  },
+  {
+    "start": 3836.76,
+    "duration": 2.0,
+    "text": "Those are rare exceptions."
+  },
+  {
+    "start": 3838.76,
+    "duration": 4.0,
+    "text": "So yeah, for those of you who make drugs again, I was not making that's a driven company."
+  },
+  {
+    "start": 3842.76,
+    "duration": 2.0,
+    "text": "Otherwise you're gonna get fired."
+  },
+  {
+    "start": 3845.76,
+    "duration": 3.0,
+    "text": "Just my casual public services and when I was with there."
+  },
+  {
+    "start": 3848.76,
+    "duration": 4.0,
+    "text": "But generally like you don't do those kinds of technical economics."
+  },
+  {
+    "start": 3852.76,
+    "duration": 3.0,
+    "text": "It's just like less important."
+  },
+  {
+    "start": 3855.76,
+    "duration": 7.0,
+    "text": "The thing that you would calculate again is like the costs of the getting the drug to market relative to how much revenue you can make after the patent."
+  },
+  {
+    "start": 3862.76,
+    "duration": 2.0,
+    "text": "Before the pen."
+  },
+  {
+    "start": 3864.76,
+    "duration": 5.0,
+    "text": "I guess on a related note, Alex, if you're thinking about like."
+  },
+  {
+    "start": 3870.76,
+    "duration": 6.0,
+    "text": "Building a platform company that partners with big pharma to do something like gene delivery or something."
+  },
+  {
+    "start": 3876.76,
+    "duration": 9.0,
+    "text": "Or is it is the proper thinking more on the frames of like just thinking about things getting to market and not caring about the model or should you try to do some model where like."
+  },
+  {
+    "start": 3885.76,
+    "duration": 7.0,
+    "text": "Your unit is the number of candidates, you know, like a candidate that you can pass off like is that the way you try to do that or should you just not."
+  },
+  {
+    "start": 3892.76,
+    "duration": 1.0,
+    "text": "Yeah, yeah, yeah."
+  },
+  {
+    "start": 3894.76,
+    "duration": 4.0,
+    "text": "Typically like when you sign a code development partnership, there's something called a work plan that you have to make."
+  },
+  {
+    "start": 3898.76,
+    "duration": 5.0,
+    "text": "So like in the process of negotiating like a thing with pharma, they're like, okay, let's make a work plan."
+  },
+  {
+    "start": 3903.76,
+    "duration": 2.0,
+    "text": "It's what you do and what I do."
+  },
+  {
+    "start": 3905.76,
+    "duration": 5.0,
+    "text": "And then what you do as a company like you charge money for it to the pharma company."
+  },
+  {
+    "start": 3910.76,
+    "duration": 5.0,
+    "text": "Okay, they're going to be willing to pay for that work plan with like some sort of like numbers."
+  },
+  {
+    "start": 3915.76,
+    "duration": 2.0,
+    "text": "You can sort of negotiate this, but generally they're like."
+  },
+  {
+    "start": 3917.76,
+    "duration": 5.0,
+    "text": "We're only going to pay costs like whatever, like our general prices are in mind."
+  },
+  {
+    "start": 3922.76,
+    "duration": 7.0,
+    "text": "Generally, what you care about in that scenario is that the things that they pay for is more than the things that it costs you."
+  },
+  {
+    "start": 3929.76,
+    "duration": 1.0,
+    "text": "Right."
+  },
+  {
+    "start": 3930.76,
+    "duration": 7.0,
+    "text": "And so actually in the work plan, you're going to calculate what it costs to make the work plan and you can compare the prices that they're paying you for the work plan."
+  },
+  {
+    "start": 3937.76,
+    "duration": 4.0,
+    "text": "And generally, because it's pharma and they're bloated, they actually pay way more than it costs you."
+  },
+  {
+    "start": 3941.76,
+    "duration": 2.0,
+    "text": "And so you're actually going to make a profit."
+  },
+  {
+    "start": 3943.76,
+    "duration": 2.0,
+    "text": "And that's relatively important for you to know."
+  },
+  {
+    "start": 3945.76,
+    "duration": 3.0,
+    "text": "Because that determines how much money you can spend on other stuff, right?"
+  },
+  {
+    "start": 3948.76,
+    "duration": 7.0,
+    "text": "And so that's what that's what founders typically do in code development partnerships and even paid pilots. This is like a numbers or math that you might do."
+  },
+  {
+    "start": 3955.76,
+    "duration": 4.0,
+    "text": "Just to see how much profit you're making, if any. And so."
+  },
+  {
+    "start": 3959.76,
+    "duration": 3.0,
+    "text": "And then the other thing you might calculate."
+  },
+  {
+    "start": 3962.76,
+    "duration": 8.0,
+    "text": "Is okay, so they sign this code development partnership. That's like the there's like some up from cost and some like R&D cost that they cover."
+  },
+  {
+    "start": 3970.76,
+    "duration": 5.0,
+    "text": "And then there's an upfront payment and that's just generally just profit straight to you."
+  },
+  {
+    "start": 3975.76,
+    "duration": 6.0,
+    "text": "And then there's milestone based payments, which is like we pass phase one pass phase two pass phase three would give you like X amount of money."
+  },
+  {
+    "start": 3982.76,
+    "duration": 5.0,
+    "text": "And the way to think about that is expected value. That is the probability of hitting that goal."
+  },
+  {
+    "start": 3988.76,
+    "duration": 4.0,
+    "text": "Times the amount of money that you get. And so that's like an EV calculation."
+  },
+  {
+    "start": 3992.76,
+    "duration": 4.0,
+    "text": "And so that's generally how you think about forecasting the future of your revenues."
+  },
+  {
+    "start": 3996.76,
+    "duration": 7.0,
+    "text": "As you take however many of these you sign times the amount that you make at each time point times the percentage probability that you actually get there."
+  },
+  {
+    "start": 4004.76,
+    "duration": 9.0,
+    "text": "And then you can actually stack up what you're expected meaning estimate for how much money you make over time is. And so that also, as you can imagine, might matter to you as a startup."
+  },
+  {
+    "start": 4013.76,
+    "duration": 3.0,
+    "text": "You signed 10 code of them in partnerships."
+  },
+  {
+    "start": 4016.76,
+    "duration": 6.0,
+    "text": "There's some time where they are developing the drugs and like they're going to succeed to some level. And so then you want to know like how much money is that to us?"
+  },
+  {
+    "start": 4022.76,
+    "duration": 8.0,
+    "text": "Is that an important amount of money usually is because these numbers can get quite large. And so that's another analysis you might want to do."
+  },
+  {
+    "start": 4030.76,
+    "duration": 4.239999999999782,
+    "text": "Awesome. Thanks."
+  },
+  {
+    "start": 4035.0,
+    "duration": 12.86999999999989,
+    "text": "So, the perhaps most interesting kinds of things are where your probability estimates for approval or like getting through these stages is far higher because of your technology."
+  },
+  {
+    "start": 4047.87,
+    "duration": 3.0,
+    "text": "That often leads to like freaking wild numbers."
+  },
+  {
+    "start": 4050.87,
+    "duration": 7.0,
+    "text": "And so what does that mean? Like what am I talking about here? So there are businesses that are like bio similar."
+  },
+  {
+    "start": 4057.87,
+    "duration": 10.0,
+    "text": "So sometimes there's like a drug that's already approved. And your drug is like the drug that is approved, but it's like a different kind of thing with like far less likely that it fails because it like."
+  },
+  {
+    "start": 4067.87,
+    "duration": 14.0,
+    "text": "Basically does the same thing as the approved drug and basically will have the same off targets like you can't prove it to finite levels like to infinite levels of certainty, but like probably it's true based on attacking a lot of first principles analysis."
+  },
+  {
+    "start": 4081.87,
+    "duration": 12.0,
+    "text": "And therefore you would actually assume your odds of actually approval are way higher because you just like them, which is different slightly enough that like you have to go through the clinical process again."
+  },
+  {
+    "start": 4093.87,
+    "duration": 13.0,
+    "text": "And so there sometimes those places is like super weird because like surprisingly profitable because you signed these co-developed partnerships and the expected probability of getting through is instead like 10% overall for like something that like has like gotten to face one."
+  },
+  {
+    "start": 4106.87,
+    "duration": 8.63000000000011,
+    "text": "And instead it's like 50 or 80% or something higher and then like, you know, these bio bucks deals actually turn into real money."
+  },
+  {
+    "start": 4115.5,
+    "duration": 4.630000000000109,
+    "text": "Random thought for all of you."
+  },
+  {
+    "start": 4120.13,
+    "duration": 4.0,
+    "text": "Other questions about technical economics."
+  },
+  {
+    "start": 4124.13,
+    "duration": 1.0,
+    "text": "Or counting."
+  },
+  {
+    "start": 4125.13,
+    "duration": 15.88000000000011,
+    "text": "I mean, give it 30 seconds and then we're going to end this call."
+  },
+  {
+    "start": 4141.01,
+    "duration": 7.309999999999491,
+    "text": "Feel free to shout out."
+  },
+  {
+    "start": 4148.32,
+    "duration": 2.0,
+    "text": "Question."
+  },
+  {
+    "start": 4150.32,
+    "duration": 7.0,
+    "text": "Well, maybe one more question about like other examples like we talked last time was about companies like open eye on topic."
+  },
+  {
+    "start": 4157.32,
+    "duration": 10.0,
+    "text": "Like very research and they started mainly research heavy and saying eventually they make the bet that AI is going to change the world."
+  },
+  {
+    "start": 4168.32,
+    "duration": 5.0,
+    "text": "How about the technical economics for company."
+  },
+  {
+    "start": 4173.32,
+    "duration": 6.0,
+    "text": "If you kind of like ride onto an exe sheet 2007 years before you have a product."
+  },
+  {
+    "start": 4179.32,
+    "duration": 5.0,
+    "text": "You've been mentioning last time Microsoft has saved them multiple time."
+  },
+  {
+    "start": 4184.32,
+    "duration": 10.0,
+    "text": "So what do you generally recommend against a company like this or how does this record to the model."
+  },
+  {
+    "start": 4194.32,
+    "duration": 13.0,
+    "text": "I think it's got on record saying like what they did it open AI is not good startup playbook at all, which is like we're just going to do research and we have no idea how we're going to make money which is now it's going to be incredibly valuable and figured out along the way."
+  },
+  {
+    "start": 4207.32,
+    "duration": 7.0,
+    "text": "And so like the model like the technical economics typically don't answer the question how much R and D."
+  },
+  {
+    "start": 4214.32,
+    "duration": 9.0,
+    "text": "Until the technology works. And so that's actually more given by your like starter fundraising plan you're like, it'll take us this much money to get to like this technology level."
+  },
+  {
+    "start": 4223.32,
+    "duration": 7.0,
+    "text": "And so I'm mostly about answering the question if technology works how much money would we make or like if it worked like this how much money would we make."
+  },
+  {
+    "start": 4230.32,
+    "duration": 10.0,
+    "text": "And so, typically I don't recommend startup just say like we're just going to do what opening I did or what Scott did which is like I don't know we're going to get to a G.I."
+  },
+  {
+    "start": 4240.32,
+    "duration": 2.0,
+    "text": "And we'll figure it out along the way."
+  },
+  {
+    "start": 4242.32,
+    "duration": 7.0,
+    "text": "Because generally sometimes it's super super super hard to figure out what it is along the way and in fact opening eyes a classic case we're like they thought."
+  },
+  {
+    "start": 4249.32,
+    "duration": 11.0,
+    "text": "So in 2020 that they would make money off of the API right or maybe even earlier that's that's that's what sort of they were doing and so you could you could get access to like GPT to through the API if I recall."
+  },
+  {
+    "start": 4260.32,
+    "duration": 2.0,
+    "text": "And it wasn't actually making a lot of money."
+  },
+  {
+    "start": 4262.32,
+    "duration": 12.0,
+    "text": "And so they like like sort of were just like I think that researchers were having fun playing with the chat and so they just launched the chat chat should be tea."
+  },
+  {
+    "start": 4274.32,
+    "duration": 10.0,
+    "text": "And then like overnight it grew like wildfire to the point where it was going to like bankrupt the company or something they were losing so much money on like inference cost that they were just like we got to throw up a payment page."
+  },
+  {
+    "start": 4284.32,
+    "duration": 7.0,
+    "text": "If we do not throw a payment page we're just going to literally like have like either a server is going to like shut down or we're going to run a money."
+  },
+  {
+    "start": 4291.32,
+    "duration": 5.0,
+    "text": "And so like then they just like stumbled into an actual business right."
+  },
+  {
+    "start": 4296.32,
+    "duration": 4.0,
+    "text": "And the economics of chat should be tea therefore are like if you pay a certain subscription."
+  },
+  {
+    "start": 4300.32,
+    "duration": 13.0,
+    "text": "Like how much is the cost to provide for that user and like it's highly variable and so you go on averages or whatever there's like a whole thing that you might buy to as an analysis and how long does user lasts and and etc and so forth and how much money do we make up"
+  },
+  {
+    "start": 4313.32,
+    "duration": 1.0,
+    "text": "or all."
+  },
+  {
+    "start": 4314.32,
+    "duration": 9.0,
+    "text": "And so like that's actually like you do the techno economics of like every sort of individual business that they have going now and so enterprise is like an entirely different set of techno economics."
+  },
+  {
+    "start": 4324.32,
+    "duration": 6.0,
+    "text": "Or economics really because like of the difference in usage etc and so forth right and so like yeah."
+  },
+  {
+    "start": 4330.32,
+    "duration": 3.0,
+    "text": "And generally don't recommend."
+  },
+  {
+    "start": 4333.32,
+    "duration": 10.0,
+    "text": "Companies start with absolutely no idea of how they're going to commercialize generally recommend like let's have some discrete points in time that we help out hypothesize will make money and let's confirm that the customer discovery."
+  },
+  {
+    "start": 4343.32,
+    "duration": 2.0,
+    "text": "And that's like a way better plan."
+  },
+  {
+    "start": 4345.32,
+    "duration": 4.0,
+    "text": "Part of the reason why it's better to do it that way is Sam Altman."
+  },
+  {
+    "start": 4350.32,
+    "duration": 4.0,
+    "text": "I don't know if any of you know this but he has a legendary status in Silicon Valley."
+  },
+  {
+    "start": 4354.32,
+    "duration": 1.0,
+    "text": "Right."
+  },
+  {
+    "start": 4355.32,
+    "duration": 8.0,
+    "text": "Just like phenomenal. And so like literally there are like VC firms with rules like where like if Sam Altman is starting the company you just back it."
+  },
+  {
+    "start": 4363.32,
+    "duration": 1.0,
+    "text": "Okay."
+  },
+  {
+    "start": 4364.32,
+    "duration": 6.0,
+    "text": "None of you are like that and so like you can't get access to whatever crazy amount of money that will like opening a gap in the first round."
+  },
+  {
+    "start": 4370.32,
+    "duration": 1.0,
+    "text": "Right."
+  },
+  {
+    "start": 4371.32,
+    "duration": 4.0,
+    "text": "Like you just can't do that and so you can't run the same kind of thing probably that they they ran."
+  },
+  {
+    "start": 4376.32,
+    "duration": 4.0,
+    "text": "So he had those legendary status already back more than 10, 15 years ago."
+  },
+  {
+    "start": 4380.32,
+    "duration": 6.0,
+    "text": "Did not know that he started in 2017 so not 15 years ago but like yeah, 2010 years ago."
+  },
+  {
+    "start": 4386.32,
+    "duration": 3.0,
+    "text": "And I think they raised in 2019."
+  },
+  {
+    "start": 4389.32,
+    "duration": 8.0,
+    "text": "Yeah, I mean Sam was like like like Paul Graham was calling Sam like someone who's going to run the world and like 2020 or 2012 or something."
+  },
+  {
+    "start": 4397.32,
+    "duration": 1.0,
+    "text": "He had run YC."
+  },
+  {
+    "start": 4398.32,
+    "duration": 5.0,
+    "text": "He was like the president YC he'd done a bunch of cool things and yeah he's just known to be like this really."
+  },
+  {
+    "start": 4404.32,
+    "duration": 7.0,
+    "text": "So you only recommend it was like something like this research heavy because of the BC I am asking because the BC I feel it's very similar."
+  },
+  {
+    "start": 4411.32,
+    "duration": 8.0,
+    "text": "There's so much research we don't know about the brains though but you have to figure out first which is going to be very research heavy."
+  },
+  {
+    "start": 4419.32,
+    "duration": 5.0,
+    "text": "But you would generally recommend against an approach like this."
+  },
+  {
+    "start": 4424.32,
+    "duration": 4.0,
+    "text": "I think that it means to research before having a product."
+  },
+  {
+    "start": 4428.32,
+    "duration": 6.0,
+    "text": "No, you so BC is this case where like you can imagine a lot of products and actually they're all technically driven."
+  },
+  {
+    "start": 4434.32,
+    "duration": 6.0,
+    "text": "Right so like there's a bunch of businesses starting BC I not invasive and invasive that have like very clear business cases that I have."
+  },
+  {
+    "start": 4440.32,
+    "duration": 5.0,
+    "text": "I apologize will be possible as soon as they hit certain functional outputs."
+  },
+  {
+    "start": 4445.32,
+    "duration": 5.0,
+    "text": "Like the one that I think of is like oh you put a cap on you move a mouse around."
+  },
+  {
+    "start": 4450.32,
+    "duration": 11.0,
+    "text": "Like this is like a like a very simple business to like understand because like it changes computer use interface and so you're just like oh we can like look at all the ways people want to use a computer and like thinking to control the mouse would be awesome."
+  },
+  {
+    "start": 4461.32,
+    "duration": 4.0,
+    "text": "If it moved fast enough if it were high fidelity enough right."
+  },
+  {
+    "start": 4465.32,
+    "duration": 8.0,
+    "text": "It's like whisper I don't know if you guys use whisper flow like to talk into a computer and like it's awesome it changes like a lot of the way people use computers and that's highly valuable."
+  },
+  {
+    "start": 4473.32,
+    "duration": 13.0,
+    "text": "Similarly like for invasive BC I it's often like we're gonna cure epilepsy or something and that's like a it's own business case and you can like make financials about it and you just like it's like a BC is actually this world where like you can hypothesize a billion different markets."
+  },
+  {
+    "start": 4486.32,
+    "duration": 10.0,
+    "text": "AI at the time of now is like harder to imagine because you didn't know exactly what form or what structure it would take I mean if the transformer architecture worked it probably text based but they're like."
+  },
+  {
+    "start": 4497.32,
+    "duration": 6.0,
+    "text": "And so like I don't know like they probably did hypothesize about some version of it but it really mattered on this like weird."
+  },
+  {
+    "start": 4503.32,
+    "duration": 5.0,
+    "text": "It was hard to relate like token prediction directly to like it's usefulness."
+  },
+  {
+    "start": 4508.32,
+    "duration": 14.0,
+    "text": "Like I don't know if you get like in like actually in fact like most of the time like token prediction turn into like chat chats that were like extremely racist or like keep loving Hitler right and so it's like oh it's like not good."
+  },
+  {
+    "start": 4523.32,
+    "duration": 7.0,
+    "text": "And so anyway like this case actually where I'm like oh you can usually predict a product right like either there's a bunch that I just have seen all the time."
+  },
+  {
+    "start": 4530.32,
+    "duration": 11.900000000000546,
+    "text": "And they actually relate directly to the technical specifications with that's my opinion maybe I'm I'm a village idiot so like maybe I'm wrong with that."
+  },
+  {
+    "start": 4542.22,
+    "duration": 3.0,
+    "text": "I see them all then does all stuff at BC I company yes it's called merge."
+  },
+  {
+    "start": 4545.22,
+    "duration": 2.0,
+    "text": "Yeah."
+  },
+  {
+    "start": 4547.22,
+    "duration": 2.0,
+    "text": "The one that Sam doesn't have yet is a rocket company."
+  },
+  {
+    "start": 4549.22,
+    "duration": 3.2799999999997453,
+    "text": "So maybe one day."
+  },
+  {
+    "start": 4553.5,
+    "duration": 7.0,
+    "text": "There's a joke that Sam and he on our competing for the same kinds of companies that's why I say that I don't know if you guys know that thing."
+  },
+  {
+    "start": 4560.5,
+    "duration": 16.020000000000437,
+    "text": "Well, like a very good example because you're cutting out that kind of model that also made I had so much."
+  },
+  {
+    "start": 4577.52,
+    "duration": 2.0,
+    "text": "I'm not starting out so we'll go on."
+  },
+  {
+    "start": 4579.52,
+    "duration": 5.0,
+    "text": "We'll go on to someone else who else wants any other questions from anyone."
+  },
+  {
+    "start": 4584.52,
+    "duration": 17.25,
+    "text": "Okay, this is great I'm just a ground if anyone has questions still but it was great trying to you guys have a wonderful night."
+  },
+  {
+    "start": 4601.77,
+    "duration": 3.0,
+    "text": "See you guys later."
+  }
+]

@@ -1,0 +1,5877 @@
+[
+  {
+    "text": "So everybody music",
+    "start": 0.64,
+    "duration": 4.6
+  },
+  {
+    "text": "uh okay so uh some of you saw the taster",
+    "start": 5.359,
+    "duration": 6.801
+  },
+  {
+    "text": "version of this presentation uh the talk",
+    "start": 9.84,
+    "duration": 4.959
+  },
+  {
+    "text": "I previously gave uh this is the",
+    "start": 12.16,
+    "duration": 5.119
+  },
+  {
+    "text": "in-depth version of what to build. So uh",
+    "start": 14.799,
+    "duration": 4.32
+  },
+  {
+    "text": "most startups fail before the first line",
+    "start": 17.279,
+    "duration": 3.84
+  },
+  {
+    "text": "of code is written uh because the",
+    "start": 19.119,
+    "duration": 3.601
+  },
+  {
+    "text": "founders choose to build the wrong",
+    "start": 21.119,
+    "duration": 3.761
+  },
+  {
+    "text": "thing. And what I see over and over",
+    "start": 22.72,
+    "duration": 4.879
+  },
+  {
+    "text": "again is deeply technical people like us",
+    "start": 24.88,
+    "duration": 5.44
+  },
+  {
+    "text": "spend a fraction of our brain power",
+    "start": 27.599,
+    "duration": 4.881
+  },
+  {
+    "text": "thinking through the question of what's",
+    "start": 30.32,
+    "duration": 4.239
+  },
+  {
+    "text": "the right thing to build for the right",
+    "start": 32.48,
+    "duration": 4.0
+  },
+  {
+    "text": "customer in the right market that we",
+    "start": 34.559,
+    "duration": 3.84
+  },
+  {
+    "text": "spend thinking about how to build it",
+    "start": 36.48,
+    "duration": 3.44
+  },
+  {
+    "text": "with all of our you know detailed",
+    "start": 38.399,
+    "duration": 3.921
+  },
+  {
+    "text": "systems and 15 years of experience and",
+    "start": 39.92,
+    "duration": 5.52
+  },
+  {
+    "text": "some deeply technical debate. So the",
+    "start": 42.32,
+    "duration": 5.28
+  },
+  {
+    "text": "goal of this presentation is to give you",
+    "start": 45.44,
+    "duration": 3.52
+  },
+  {
+    "text": "some frameworks and lenses for",
+    "start": 47.6,
+    "duration": 3.52
+  },
+  {
+    "text": "evaluating what you should build that",
+    "start": 48.96,
+    "duration": 4.64
+  },
+  {
+    "text": "you can then apply to the potential idea",
+    "start": 51.12,
+    "duration": 4.56
+  },
+  {
+    "text": "space so that when you choose what",
+    "start": 53.6,
+    "duration": 3.76
+  },
+  {
+    "text": "you're building, you don't spend the",
+    "start": 55.68,
+    "duration": 4.16
+  },
+  {
+    "text": "next 5 years wasting your time solving",
+    "start": 57.36,
+    "duration": 4.56
+  },
+  {
+    "text": "very hard problems that don't need to be",
+    "start": 59.84,
+    "duration": 4.719
+  },
+  {
+    "text": "solved. Um",
+    "start": 61.92,
+    "duration": 4.16
+  },
+  {
+    "text": "so uh the first thing you need to start",
+    "start": 64.559,
+    "duration": 4.24
+  },
+  {
+    "text": "with is a vision of a green future. Um",
+    "start": 66.08,
+    "duration": 5.44
+  },
+  {
+    "text": "this is uh something you'll see over and",
+    "start": 68.799,
+    "duration": 4.081
+  },
+  {
+    "text": "over again in all the companies that",
+    "start": 71.52,
+    "duration": 3.2
+  },
+  {
+    "text": "come to change the world. Uh the",
+    "start": 72.88,
+    "duration": 4.559
+  },
+  {
+    "text": "companies that do change our future",
+    "start": 74.72,
+    "duration": 6.0
+  },
+  {
+    "text": "never start with a you know like a a",
+    "start": 77.439,
+    "duration": 4.961
+  },
+  {
+    "text": "boring vision. They start with something",
+    "start": 80.72,
+    "duration": 4.079
+  },
+  {
+    "text": "that's exceedingly bold uh contrarian",
+    "start": 82.4,
+    "duration": 4.32
+  },
+  {
+    "text": "and maybe even seemingly impossible when",
+    "start": 84.799,
+    "duration": 5.281
+  },
+  {
+    "text": "they begin. Uh and there are an infinite",
+    "start": 86.72,
+    "duration": 6.56
+  },
+  {
+    "text": "number of really incredible uh like",
+    "start": 90.08,
+    "duration": 5.2
+  },
+  {
+    "text": "worldshifting things that you could",
+    "start": 93.28,
+    "duration": 4.32
+  },
+  {
+    "text": "realize in your life. And uh the goal of",
+    "start": 95.28,
+    "duration": 4.08
+  },
+  {
+    "text": "this program is to find the one that is",
+    "start": 97.6,
+    "duration": 3.839
+  },
+  {
+    "text": "uniquely suited to you that turns into a",
+    "start": 99.36,
+    "duration": 4.079
+  },
+  {
+    "text": "massive business very quickly.",
+    "start": 101.439,
+    "duration": 4.72
+  },
+  {
+    "text": "um society is against you in this",
+    "start": 103.439,
+    "duration": 4.241
+  },
+  {
+    "text": "pursuit. So there's a bunch of things",
+    "start": 106.159,
+    "duration": 3.92
+  },
+  {
+    "text": "that you have unintentionally acquired",
+    "start": 107.68,
+    "duration": 4.24
+  },
+  {
+    "text": "from society by virtue of growing up in",
+    "start": 110.079,
+    "duration": 4.961
+  },
+  {
+    "text": "it uh that has shrunk the scope of ideas",
+    "start": 111.92,
+    "duration": 5.68
+  },
+  {
+    "text": "you would consider working on. Uh and so",
+    "start": 115.04,
+    "duration": 4.48
+  },
+  {
+    "text": "if you think about it from like one",
+    "start": 117.6,
+    "duration": 4.0
+  },
+  {
+    "text": "example, popular culture, uh if you ever",
+    "start": 119.52,
+    "duration": 4.0
+  },
+  {
+    "text": "see a movie with heroes and villains in",
+    "start": 121.6,
+    "duration": 4.559
+  },
+  {
+    "text": "it, almost always there's a character in",
+    "start": 123.52,
+    "duration": 5.359
+  },
+  {
+    "text": "that movie who is a super genius who has",
+    "start": 126.159,
+    "duration": 6.001
+  },
+  {
+    "text": "spent, you know, 20 years uh setting in",
+    "start": 128.879,
+    "duration": 6.321
+  },
+  {
+    "text": "motion a very complex detailed plan to",
+    "start": 132.16,
+    "duration": 5.12
+  },
+  {
+    "text": "change the world in a fundamental way.",
+    "start": 135.2,
+    "duration": 4.64
+  },
+  {
+    "text": "And every time that guy is the villain",
+    "start": 137.28,
+    "duration": 4.24
+  },
+  {
+    "text": "and",
+    "start": 139.84,
+    "duration": 4.96
+  },
+  {
+    "text": "the hero is the person who is a normal",
+    "start": 141.52,
+    "duration": 5.439
+  },
+  {
+    "text": "normal plumber, average guy who just",
+    "start": 144.8,
+    "duration": 4.64
+  },
+  {
+    "text": "rises temporarily to stop that bad",
+    "start": 146.959,
+    "duration": 4.881
+  },
+  {
+    "text": "change from happening. Okay? And this",
+    "start": 149.44,
+    "duration": 4.079
+  },
+  {
+    "text": "framing is one that you see then",
+    "start": 151.84,
+    "duration": 4.24
+  },
+  {
+    "text": "repeated in the people who change the",
+    "start": 153.519,
+    "duration": 5.681
+  },
+  {
+    "text": "world now. They're cast as the villains.",
+    "start": 156.08,
+    "duration": 6.64
+  },
+  {
+    "text": "And on a very fundamental level, this",
+    "start": 159.2,
+    "duration": 6.96
+  },
+  {
+    "text": "creates a frame that all of us grew up",
+    "start": 162.72,
+    "duration": 6.32
+  },
+  {
+    "text": "living in around what kind of change is",
+    "start": 166.16,
+    "duration": 4.88
+  },
+  {
+    "text": "acceptable, what level of ambition is",
+    "start": 169.04,
+    "duration": 4.72
+  },
+  {
+    "text": "okay, and what quests should we choose",
+    "start": 171.04,
+    "duration": 6.16
+  },
+  {
+    "text": "to go on in our lives. Um, this",
+    "start": 173.76,
+    "duration": 5.92
+  },
+  {
+    "text": "manifests itself also in the Overton",
+    "start": 177.2,
+    "duration": 3.92
+  },
+  {
+    "text": "window, the range of views it's",
+    "start": 179.68,
+    "duration": 3.52
+  },
+  {
+    "text": "acceptable to have. And so if you take a",
+    "start": 181.12,
+    "duration": 4.32
+  },
+  {
+    "text": "topic like climate change, the Overton",
+    "start": 183.2,
+    "duration": 5.36
+  },
+  {
+    "text": "window contains a consensus view like",
+    "start": 185.44,
+    "duration": 5.6
+  },
+  {
+    "text": "the climate is changing and that's bad.",
+    "start": 188.56,
+    "duration": 5.12
+  },
+  {
+    "text": "It also contains a non- consensus view",
+    "start": 191.04,
+    "duration": 4.72
+  },
+  {
+    "text": "like the climate change climate isn't",
+    "start": 193.68,
+    "duration": 5.44
+  },
+  {
+    "text": "changing or isn't bad. And outside this",
+    "start": 195.76,
+    "duration": 6.16
+  },
+  {
+    "text": "window is all the interesting stuff like",
+    "start": 199.12,
+    "duration": 5.44
+  },
+  {
+    "text": "maybe we can make the weather whatever",
+    "start": 201.92,
+    "duration": 5.52
+  },
+  {
+    "text": "we want it to be. Or to take it a step",
+    "start": 204.56,
+    "duration": 5.92
+  },
+  {
+    "text": "further, maybe the planet wants us to",
+    "start": 207.44,
+    "duration": 5.359
+  },
+  {
+    "text": "consume it so that we can colonize the",
+    "start": 210.48,
+    "duration": 5.28
+  },
+  {
+    "text": "stars. Now, somewhere in there is a a",
+    "start": 212.799,
+    "duration": 5.121
+  },
+  {
+    "text": "story of a of a movie that contains a",
+    "start": 215.76,
+    "duration": 4.32
+  },
+  {
+    "text": "villain that says this thing. Uh but",
+    "start": 217.92,
+    "duration": 4.0
+  },
+  {
+    "text": "also somewhere in there may be a really",
+    "start": 220.08,
+    "duration": 4.0
+  },
+  {
+    "text": "interesting company that creates a huge",
+    "start": 221.92,
+    "duration": 5.28
+  },
+  {
+    "text": "amount of good for civilization. Uh and",
+    "start": 224.08,
+    "duration": 5.04
+  },
+  {
+    "text": "so it's on you to try and break free of",
+    "start": 227.2,
+    "duration": 4.08
+  },
+  {
+    "text": "the chains that society has set for you.",
+    "start": 229.12,
+    "duration": 4.479
+  },
+  {
+    "text": "Um this also manifests itself in a",
+    "start": 231.28,
+    "duration": 4.64
+  },
+  {
+    "text": "different way uh in terms of how borders",
+    "start": 233.599,
+    "duration": 5.121
+  },
+  {
+    "text": "of possibility manufactured uh made",
+    "start": 235.92,
+    "duration": 5.28
+  },
+  {
+    "text": "famous by so many proclamations about",
+    "start": 238.72,
+    "duration": 4.0
+  },
+  {
+    "text": "how things were impossible right before",
+    "start": 241.2,
+    "duration": 3.599
+  },
+  {
+    "text": "they happened. So two weeks before the",
+    "start": 242.72,
+    "duration": 3.599
+  },
+  {
+    "text": "Wright brothers famous first flight",
+    "start": 244.799,
+    "duration": 3.841
+  },
+  {
+    "text": "Kittyhawk a flight expert published an",
+    "start": 246.319,
+    "duration": 4.241
+  },
+  {
+    "text": "op-ed in the New York Times that said",
+    "start": 248.64,
+    "duration": 3.84
+  },
+  {
+    "text": "that it would take between 1 and 10",
+    "start": 250.56,
+    "duration": 4.0
+  },
+  {
+    "text": "million years before we would have the",
+    "start": 252.48,
+    "duration": 4.64
+  },
+  {
+    "text": "first heavier than air flying machine.",
+    "start": 254.56,
+    "duration": 5.76
+  },
+  {
+    "text": "Uh similarly uh they said that it was",
+    "start": 257.12,
+    "duration": 6.16
+  },
+  {
+    "text": "impossible to run a sub4minute mile and",
+    "start": 260.32,
+    "duration": 5.92
+  },
+  {
+    "text": "nobody really bothered to try until",
+    "start": 263.28,
+    "duration": 5.44
+  },
+  {
+    "text": "Banister uh managed to break that record",
+    "start": 266.24,
+    "duration": 6.48
+  },
+  {
+    "text": "and then uh uh within 3 years 16 other",
+    "start": 268.72,
+    "duration": 6.24
+  },
+  {
+    "text": "runners had done it. So from nobody",
+    "start": 272.72,
+    "duration": 4.56
+  },
+  {
+    "text": "forever to 16 people in three years",
+    "start": 274.96,
+    "duration": 4.08
+  },
+  {
+    "text": "doing the same feat. And this is just",
+    "start": 277.28,
+    "duration": 4.88
+  },
+  {
+    "text": "like a great visual for how the idea",
+    "start": 279.04,
+    "duration": 5.599
+  },
+  {
+    "text": "that something is impossible makes it",
+    "start": 282.16,
+    "duration": 6.24
+  },
+  {
+    "text": "impossible. Um, same thing was true for",
+    "start": 284.639,
+    "duration": 6.161
+  },
+  {
+    "text": "rocketry. Uh, and the whole concept here",
+    "start": 288.4,
+    "duration": 4.56
+  },
+  {
+    "text": "is that you are constrained in ways you",
+    "start": 290.8,
+    "duration": 3.839
+  },
+  {
+    "text": "don't realize it. And unlocking those",
+    "start": 292.96,
+    "duration": 4.08
+  },
+  {
+    "text": "constraints will help you to find ideas",
+    "start": 294.639,
+    "duration": 3.84
+  },
+  {
+    "text": "that are possible that no one realized",
+    "start": 297.04,
+    "duration": 2.8
+  },
+  {
+    "text": "were possible. And that's where progress",
+    "start": 298.479,
+    "duration": 5.121
+  },
+  {
+    "text": "is created. Um, uh, part of this also",
+    "start": 299.84,
+    "duration": 5.52
+  },
+  {
+    "text": "involves looking for fundamental and",
+    "start": 303.6,
+    "duration": 4.8
+  },
+  {
+    "text": "non-incremental changes. So, uh, you",
+    "start": 305.36,
+    "duration": 4.8
+  },
+  {
+    "text": "know, just like Nvidia is not a faster",
+    "start": 308.4,
+    "duration": 3.84
+  },
+  {
+    "text": "CPU, Tesla is not an ice car with a",
+    "start": 310.16,
+    "duration": 3.84
+  },
+  {
+    "text": "battery, Bitcoin was not electronic",
+    "start": 312.24,
+    "duration": 2.959
+  },
+  {
+    "text": "banking. You're looking for the sort of",
+    "start": 314.0,
+    "duration": 5.44
+  },
+  {
+    "text": "Z-axis on current systems. Um, now let's",
+    "start": 315.199,
+    "duration": 6.241
+  },
+  {
+    "text": "say you have your amazing, you know,",
+    "start": 319.44,
+    "duration": 3.44
+  },
+  {
+    "text": "vision of redeemed future that's very",
+    "start": 321.44,
+    "duration": 2.96
+  },
+  {
+    "text": "contrarian that would radically",
+    "start": 322.88,
+    "duration": 3.52
+  },
+  {
+    "text": "transform us if it were made real. You",
+    "start": 324.4,
+    "duration": 4.72
+  },
+  {
+    "text": "need to break this into VCsized",
+    "start": 326.4,
+    "duration": 6.48
+  },
+  {
+    "text": "fundable milestones. And uh those of you",
+    "start": 329.12,
+    "duration": 5.76
+  },
+  {
+    "text": "who've seen this presentation before,",
+    "start": 332.88,
+    "duration": 3.92
+  },
+  {
+    "text": "like I want to keep repeating this to",
+    "start": 334.88,
+    "duration": 3.599
+  },
+  {
+    "text": "you over and over again is that your",
+    "start": 336.8,
+    "duration": 3.6
+  },
+  {
+    "text": "ideal will die if you can't find the",
+    "start": 338.479,
+    "duration": 3.44
+  },
+  {
+    "text": "right way for it to bind to the",
+    "start": 340.4,
+    "duration": 5.519
+  },
+  {
+    "text": "receptors of the existing capital rails",
+    "start": 341.919,
+    "duration": 5.761
+  },
+  {
+    "text": "because those rails are hyperoptimized",
+    "start": 345.919,
+    "duration": 3.84
+  },
+  {
+    "text": "and you will be competing at every step",
+    "start": 347.68,
+    "duration": 4.72
+  },
+  {
+    "text": "for people who do meet the binding",
+    "start": 349.759,
+    "duration": 4.481
+  },
+  {
+    "text": "receptors of the existing capital",
+    "start": 352.4,
+    "duration": 4.72
+  },
+  {
+    "text": "markets. And so what this means is that",
+    "start": 354.24,
+    "duration": 4.799
+  },
+  {
+    "text": "you're going to get a good idea which",
+    "start": 357.12,
+    "duration": 4.24
+  },
+  {
+    "text": "will unlock a seed round of 500k to $3",
+    "start": 359.039,
+    "duration": 4.321
+  },
+  {
+    "text": "million. That starts a clock. You have",
+    "start": 361.36,
+    "duration": 4.08
+  },
+  {
+    "text": "18 months to get to something that works",
+    "start": 363.36,
+    "duration": 5.6
+  },
+  {
+    "text": "and that makes $2 million. Uh that will",
+    "start": 365.44,
+    "duration": 5.36
+  },
+  {
+    "text": "give you a series A which is5 to $20",
+    "start": 368.96,
+    "duration": 3.92
+  },
+  {
+    "text": "million which also starts a clock where",
+    "start": 370.8,
+    "duration": 4.64
+  },
+  {
+    "text": "24 months later you need to be at a 10",
+    "start": 372.88,
+    "duration": 5.039
+  },
+  {
+    "text": "a5 to$10 million annual current run",
+    "start": 375.44,
+    "duration": 4.24
+  },
+  {
+    "text": "rate. And then finally, if you can get",
+    "start": 377.919,
+    "duration": 3.601
+  },
+  {
+    "text": "that far, that might unlock series B,",
+    "start": 379.68,
+    "duration": 3.84
+  },
+  {
+    "text": "which is $30 to $50 million, which",
+    "start": 381.52,
+    "duration": 5.44
+  },
+  {
+    "text": "unlocks a $20 million or more run rate.",
+    "start": 383.52,
+    "duration": 5.92
+  },
+  {
+    "text": "Um, so all of this, you are roundtpping",
+    "start": 386.96,
+    "duration": 4.239
+  },
+  {
+    "text": "this in six years from the day you",
+    "start": 389.44,
+    "duration": 3.92
+  },
+  {
+    "text": "start. And so you need to work backwards",
+    "start": 391.199,
+    "duration": 4.161
+  },
+  {
+    "text": "from the end to get to the beginning if",
+    "start": 393.36,
+    "duration": 3.92
+  },
+  {
+    "text": "you want to be successful in uh",
+    "start": 395.36,
+    "duration": 5.119
+  },
+  {
+    "text": "achieving this outcome. Um, so the way",
+    "start": 397.28,
+    "duration": 5.6
+  },
+  {
+    "text": "you hit these goals is by being really",
+    "start": 400.479,
+    "duration": 4.241
+  },
+  {
+    "text": "thoughtful about the market, the",
+    "start": 402.88,
+    "duration": 2.96
+  },
+  {
+    "text": "technology, the product, and the",
+    "start": 404.72,
+    "duration": 2.4
+  },
+  {
+    "text": "business that you build. and I'll give",
+    "start": 405.84,
+    "duration": 3.12
+  },
+  {
+    "text": "you a bunch of curistics and models for",
+    "start": 407.12,
+    "duration": 3.519
+  },
+  {
+    "text": "thinking about it. Everything is case",
+    "start": 408.96,
+    "duration": 3.28
+  },
+  {
+    "text": "specific. So there's lots of stuff in",
+    "start": 410.639,
+    "duration": 3.041
+  },
+  {
+    "text": "here that doesn't apply and lots of",
+    "start": 412.24,
+    "duration": 2.799
+  },
+  {
+    "text": "stuff that does and it's on you to",
+    "start": 413.68,
+    "duration": 3.28
+  },
+  {
+    "text": "figure out the mapping between your idea",
+    "start": 415.039,
+    "duration": 4.321
+  },
+  {
+    "text": "space and the models I share with you.",
+    "start": 416.96,
+    "duration": 5.6
+  },
+  {
+    "text": "Um so we start with a market. Uh so",
+    "start": 419.36,
+    "duration": 4.8
+  },
+  {
+    "text": "markets uh you're looking for something",
+    "start": 422.56,
+    "duration": 3.919
+  },
+  {
+    "text": "that's 20 to$100 billion. So anything",
+    "start": 424.16,
+    "duration": 4.319
+  },
+  {
+    "text": "smaller than that and people start to",
+    "start": 426.479,
+    "duration": 3.681
+  },
+  {
+    "text": "say oh well you know even if you capture",
+    "start": 428.479,
+    "duration": 3.601
+  },
+  {
+    "text": "a substantial portion of this $5 billion",
+    "start": 430.16,
+    "duration": 3.84
+  },
+  {
+    "text": "market then maybe you are making a",
+    "start": 432.08,
+    "duration": 3.36
+  },
+  {
+    "text": "billion dollars which isn't exciting",
+    "start": 434.0,
+    "duration": 3.52
+  },
+  {
+    "text": "enough to fund.",
+    "start": 435.44,
+    "duration": 3.28
+  },
+  {
+    "text": "The second thing is it should grow",
+    "start": 437.52,
+    "duration": 2.88
+  },
+  {
+    "text": "really fast because fast free markets",
+    "start": 438.72,
+    "duration": 3.199
+  },
+  {
+    "text": "create space for new companies to emerge",
+    "start": 440.4,
+    "duration": 4.0
+  },
+  {
+    "text": "in. Um second thing you need is a tech",
+    "start": 441.919,
+    "duration": 4.56
+  },
+  {
+    "text": "that kind of already works. So VCs do",
+    "start": 444.4,
+    "duration": 3.519
+  },
+  {
+    "text": "not fund science risk. The ideal",
+    "start": 446.479,
+    "duration": 3.601
+  },
+  {
+    "text": "business is you went to Home Depot, you",
+    "start": 447.919,
+    "duration": 3.441
+  },
+  {
+    "text": "bought a bunch of stuff and you put it",
+    "start": 450.08,
+    "duration": 3.44
+  },
+  {
+    "text": "together and you got a fusion reactor.",
+    "start": 451.36,
+    "duration": 5.44
+  },
+  {
+    "text": "Okay, that's the ideal business. And if",
+    "start": 453.52,
+    "duration": 5.2
+  },
+  {
+    "text": "you come with the idea that like, okay,",
+    "start": 456.8,
+    "duration": 3.76
+  },
+  {
+    "text": "maybe with additional research I can",
+    "start": 458.72,
+    "duration": 3.599
+  },
+  {
+    "text": "figure this problem out, no one will",
+    "start": 460.56,
+    "duration": 4.96
+  },
+  {
+    "text": "vacuum because so many companies die in",
+    "start": 462.319,
+    "duration": 5.28
+  },
+  {
+    "text": "the space between 90% working and 100%",
+    "start": 465.52,
+    "duration": 4.48
+  },
+  {
+    "text": "working. And so, uh, you know, be really",
+    "start": 467.599,
+    "duration": 4.961
+  },
+  {
+    "text": "cautious about that. Second, uh,",
+    "start": 470.0,
+    "duration": 4.16
+  },
+  {
+    "text": "thirdly, the product needs to be way",
+    "start": 472.56,
+    "duration": 3.359
+  },
+  {
+    "text": "better than the alternatives. Uh, I",
+    "start": 474.16,
+    "duration": 2.719
+  },
+  {
+    "text": "think there's a really interesting",
+    "start": 475.919,
+    "duration": 2.96
+  },
+  {
+    "text": "market space around stuff where there",
+    "start": 476.879,
+    "duration": 3.521
+  },
+  {
+    "text": "isn't even a product yet because people",
+    "start": 478.879,
+    "duration": 3.44
+  },
+  {
+    "text": "use spreadsheets or they roll their own",
+    "start": 480.4,
+    "duration": 3.6
+  },
+  {
+    "text": "solution. I think those of you who are",
+    "start": 482.319,
+    "duration": 3.361
+  },
+  {
+    "text": "working in the AI safety space, this is",
+    "start": 484.0,
+    "duration": 3.28
+  },
+  {
+    "text": "especially true for because a lot of",
+    "start": 485.68,
+    "duration": 3.359
+  },
+  {
+    "text": "what's built is now kind of hacked",
+    "start": 487.28,
+    "duration": 4.479
+  },
+  {
+    "text": "together internal tooling. Uh, and so",
+    "start": 489.039,
+    "duration": 4.16
+  },
+  {
+    "text": "you need to be massively better than the",
+    "start": 491.759,
+    "duration": 3.761
+  },
+  {
+    "text": "alternatives. Um, this could be because",
+    "start": 493.199,
+    "duration": 4.161
+  },
+  {
+    "text": "your tech is like super new and",
+    "start": 495.52,
+    "duration": 3.28
+  },
+  {
+    "text": "different and has entirely different",
+    "start": 497.36,
+    "duration": 2.88
+  },
+  {
+    "text": "trade-offs in the same way the",
+    "start": 498.8,
+    "duration": 2.56
+  },
+  {
+    "text": "transistors were a different set of",
+    "start": 500.24,
+    "duration": 2.88
+  },
+  {
+    "text": "trade-offs in vacuum tubes and became",
+    "start": 501.36,
+    "duration": 3.519
+  },
+  {
+    "text": "massively better as a result. Uh it",
+    "start": 503.12,
+    "duration": 3.12
+  },
+  {
+    "text": "could be because the incumbents are",
+    "start": 504.879,
+    "duration": 2.961
+  },
+  {
+    "text": "actually terrible companies that have",
+    "start": 506.24,
+    "duration": 3.28
+  },
+  {
+    "text": "been around forever and are committed to",
+    "start": 507.84,
+    "duration": 3.359
+  },
+  {
+    "text": "doing things in a way that's not very",
+    "start": 509.52,
+    "duration": 3.36
+  },
+  {
+    "text": "efficient. Uh or it could be because the",
+    "start": 511.199,
+    "duration": 3.361
+  },
+  {
+    "text": "market's fundamentally new. Maybe that's",
+    "start": 512.88,
+    "duration": 4.88
+  },
+  {
+    "text": "crypto or maybe that's AI safety. Um and",
+    "start": 514.56,
+    "duration": 4.32
+  },
+  {
+    "text": "then finally, you want to make sure your",
+    "start": 517.76,
+    "duration": 3.44
+  },
+  {
+    "text": "business is hard to copy uh and is",
+    "start": 518.88,
+    "duration": 4.399
+  },
+  {
+    "text": "defensible. A increasingly tricky",
+    "start": 521.2,
+    "duration": 3.6
+  },
+  {
+    "text": "proposition in a world where you can",
+    "start": 523.279,
+    "duration": 2.961
+  },
+  {
+    "text": "just type some words and software comes",
+    "start": 524.8,
+    "duration": 4.4
+  },
+  {
+    "text": "out the other side. Um so uh some",
+    "start": 526.24,
+    "duration": 4.56
+  },
+  {
+    "text": "heristics to help you know the search.",
+    "start": 529.2,
+    "duration": 3.36
+  },
+  {
+    "text": "Um we're going to go through five",
+    "start": 530.8,
+    "duration": 4.719
+  },
+  {
+    "text": "timing. uh having a fundamental idea uh",
+    "start": 532.56,
+    "duration": 4.719
+  },
+  {
+    "text": "looking for one weird tricks a large",
+    "start": 535.519,
+    "duration": 3.281
+  },
+  {
+    "text": "positive of externalities and a deep",
+    "start": 537.279,
+    "duration": 4.161
+  },
+  {
+    "text": "personal calling. Um so the most",
+    "start": 538.8,
+    "duration": 4.4
+  },
+  {
+    "text": "important of these I would say is is",
+    "start": 541.44,
+    "duration": 3.36
+  },
+  {
+    "text": "around timing. So looking for",
+    "start": 543.2,
+    "duration": 4.319
+  },
+  {
+    "text": "exponentials. Exponentials create a",
+    "start": 544.8,
+    "duration": 6.479
+  },
+  {
+    "text": "massive upward thrust on demand. Um and",
+    "start": 547.519,
+    "duration": 5.681
+  },
+  {
+    "text": "so this is my favorite exponential. This",
+    "start": 551.279,
+    "duration": 5.601
+  },
+  {
+    "text": "is world GDP. uh and uh everything on",
+    "start": 553.2,
+    "duration": 6.72
+  },
+  {
+    "text": "the other side of this vertical line uh",
+    "start": 556.88,
+    "duration": 5.28
+  },
+  {
+    "text": "is radically different from you know",
+    "start": 559.92,
+    "duration": 4.479
+  },
+  {
+    "text": "what came before. And the fun thing",
+    "start": 562.16,
+    "duration": 3.44
+  },
+  {
+    "text": "about these exponentials is actually",
+    "start": 564.399,
+    "duration": 2.241
+  },
+  {
+    "text": "they're made up of lots of little",
+    "start": 565.6,
+    "duration": 3.28
+  },
+  {
+    "text": "exponentials. And so you know if we zoom",
+    "start": 566.64,
+    "duration": 4.639
+  },
+  {
+    "text": "in on just this part of the line uh in",
+    "start": 568.88,
+    "duration": 4.639
+  },
+  {
+    "text": "here you have the adoptions of all",
+    "start": 571.279,
+    "duration": 3.521
+  },
+  {
+    "text": "different technologies from the",
+    "start": 573.519,
+    "duration": 4.241
+  },
+  {
+    "text": "telephone and electricity to uh to",
+    "start": 574.8,
+    "duration": 5.12
+  },
+  {
+    "text": "social media. Um and what you notice",
+    "start": 577.76,
+    "duration": 3.92
+  },
+  {
+    "text": "here is like every line gets steeper and",
+    "start": 579.92,
+    "duration": 5.12
+  },
+  {
+    "text": "steeper and steeper. Um, and they create",
+    "start": 581.68,
+    "duration": 4.88
+  },
+  {
+    "text": "this before and after effect that I",
+    "start": 585.04,
+    "duration": 2.96
+  },
+  {
+    "text": "mentioned earlier where if you look at",
+    "start": 586.56,
+    "duration": 3.2
+  },
+  {
+    "text": "this is a the inauguration of one pope",
+    "start": 588.0,
+    "duration": 3.839
+  },
+  {
+    "text": "in 2005 and this is the inauguration of",
+    "start": 589.76,
+    "duration": 4.16
+  },
+  {
+    "text": "another pope in 2013. And so you could",
+    "start": 591.839,
+    "duration": 4.081
+  },
+  {
+    "text": "experience a very specific before and",
+    "start": 593.92,
+    "duration": 4.0
+  },
+  {
+    "text": "after that happens as a result of these.",
+    "start": 595.92,
+    "duration": 4.72
+  },
+  {
+    "text": "Um, if you zoom in even more, these are",
+    "start": 597.92,
+    "duration": 4.88
+  },
+  {
+    "text": "the days to 100 one million and 100",
+    "start": 600.64,
+    "duration": 3.6
+  },
+  {
+    "text": "million users by technology. And this is",
+    "start": 602.8,
+    "duration": 5.039
+  },
+  {
+    "text": "Chachra Burke wine.",
+    "start": 604.24,
+    "duration": 5.599
+  },
+  {
+    "text": "So uh, so what causes these",
+    "start": 607.839,
+    "duration": 3.841
+  },
+  {
+    "text": "exponentials? How do you understand and",
+    "start": 609.839,
+    "duration": 4.641
+  },
+  {
+    "text": "model change? Um the framework I really",
+    "start": 611.68,
+    "duration": 4.48
+  },
+  {
+    "text": "like is going uh through these four",
+    "start": 614.48,
+    "duration": 4.479
+  },
+  {
+    "text": "rungs of possible valuable uh possible",
+    "start": 616.16,
+    "duration": 5.679
+  },
+  {
+    "text": "viable valuable and available. Uh and",
+    "start": 618.959,
+    "duration": 4.56
+  },
+  {
+    "text": "we'll apply that to a couple of",
+    "start": 621.839,
+    "duration": 3.041
+  },
+  {
+    "text": "technologies in sequence and then you're",
+    "start": 623.519,
+    "duration": 2.961
+  },
+  {
+    "text": "going to apply it to your own your own",
+    "start": 624.88,
+    "duration": 3.68
+  },
+  {
+    "text": "company. So a possible means you've",
+    "start": 626.48,
+    "duration": 3.76
+  },
+  {
+    "text": "discovered the foundational theory or",
+    "start": 628.56,
+    "duration": 4.0
+  },
+  {
+    "text": "key invention that makes something that",
+    "start": 630.24,
+    "duration": 4.4
+  },
+  {
+    "text": "wasn't possible suddenly possible. Uh",
+    "start": 632.56,
+    "duration": 4.08
+  },
+  {
+    "text": "viable means that you've improved the",
+    "start": 634.64,
+    "duration": 3.6
+  },
+  {
+    "text": "technology enough that you can actually",
+    "start": 636.64,
+    "duration": 3.52
+  },
+  {
+    "text": "use it for something. Uh and then",
+    "start": 638.24,
+    "duration": 3.839
+  },
+  {
+    "text": "valuable means that there's demand for",
+    "start": 640.16,
+    "duration": 2.96
+  },
+  {
+    "text": "whatever is you're buying and there's a",
+    "start": 642.079,
+    "duration": 2.481
+  },
+  {
+    "text": "complimentary innovation that makes",
+    "start": 643.12,
+    "duration": 2.88
+  },
+  {
+    "text": "demand for it. And then finally",
+    "start": 644.56,
+    "duration": 2.719
+  },
+  {
+    "text": "available is there's distribution",
+    "start": 646.0,
+    "duration": 3.2
+  },
+  {
+    "text": "everywhere and all four need to be",
+    "start": 647.279,
+    "duration": 3.441
+  },
+  {
+    "text": "present for you to make a very large",
+    "start": 649.2,
+    "duration": 3.52
+  },
+  {
+    "text": "company. If you're missing one then it's",
+    "start": 650.72,
+    "duration": 4.32
+  },
+  {
+    "text": "going to scale as slowly as that one",
+    "start": 652.72,
+    "duration": 4.96
+  },
+  {
+    "text": "allows it to. Um an example of this is",
+    "start": 655.04,
+    "duration": 4.56
+  },
+  {
+    "text": "electricity. It took about 100 years",
+    "start": 657.68,
+    "duration": 4.64
+  },
+  {
+    "text": "from it being possible for you know an",
+    "start": 659.6,
+    "duration": 4.56
+  },
+  {
+    "text": "electric grid to actually it being",
+    "start": 662.32,
+    "duration": 3.199
+  },
+  {
+    "text": "widely available and there being a real",
+    "start": 664.16,
+    "duration": 4.0
+  },
+  {
+    "text": "market. So electromagnetism in 1820, the",
+    "start": 665.519,
+    "duration": 4.721
+  },
+  {
+    "text": "generator in the 30s, uh made it",
+    "start": 668.16,
+    "duration": 3.359
+  },
+  {
+    "text": "possible, but it wasn't really viable",
+    "start": 670.24,
+    "duration": 3.599
+  },
+  {
+    "text": "until AC transmission transformers in",
+    "start": 671.519,
+    "duration": 5.121
+  },
+  {
+    "text": "the late 1800s. Uh and it also wasn't",
+    "start": 673.839,
+    "duration": 5.281
+  },
+  {
+    "text": "valuable until you had a complimentary",
+    "start": 676.64,
+    "duration": 4.4
+  },
+  {
+    "text": "uh invention of the light of electric",
+    "start": 679.12,
+    "duration": 3.36
+  },
+  {
+    "text": "light bulb because otherwise what are",
+    "start": 681.04,
+    "duration": 2.72
+  },
+  {
+    "text": "you going to do with all that power? And",
+    "start": 682.48,
+    "duration": 2.72
+  },
+  {
+    "text": "then finally, it wasn't available until",
+    "start": 683.76,
+    "duration": 3.519
+  },
+  {
+    "text": "you built the grid. And so this 100redy",
+    "start": 685.2,
+    "duration": 4.24
+  },
+  {
+    "text": "year end to end was the the rate limiter",
+    "start": 687.279,
+    "duration": 4.24
+  },
+  {
+    "text": "on how fast did this technology reach",
+    "start": 689.44,
+    "duration": 4.72
+  },
+  {
+    "text": "scale. If you apply this to AI, it's",
+    "start": 691.519,
+    "duration": 4.081
+  },
+  {
+    "text": "clear why everything's a vertical line",
+    "start": 694.16,
+    "duration": 3.359
+  },
+  {
+    "text": "because it was possible in the 80s with,",
+    "start": 695.6,
+    "duration": 3.44
+  },
+  {
+    "text": "you know, the multi-layer perceptronic",
+    "start": 697.519,
+    "duration": 3.76
+  },
+  {
+    "text": "backdrop. It was viable in the 2000s",
+    "start": 699.04,
+    "duration": 4.4
+  },
+  {
+    "text": "with the internet and GPUs. It was",
+    "start": 701.279,
+    "duration": 3.68
+  },
+  {
+    "text": "valuable in the 70s because of the",
+    "start": 703.44,
+    "duration": 3.2
+  },
+  {
+    "text": "knowledge economy and it was available",
+    "start": 704.959,
+    "duration": 2.961
+  },
+  {
+    "text": "because all the distribution pipes were",
+    "start": 706.64,
+    "duration": 2.639
+  },
+  {
+    "text": "built for the internet. And so that's",
+    "start": 707.92,
+    "duration": 3.52
+  },
+  {
+    "text": "how you can go from zero to hundreds of",
+    "start": 709.279,
+    "duration": 4.0
+  },
+  {
+    "text": "millions of users in like a couple",
+    "start": 711.44,
+    "duration": 4.24
+  },
+  {
+    "text": "months with chat.",
+    "start": 713.279,
+    "duration": 4.0
+  },
+  {
+    "text": "um real world examples, if you look at",
+    "start": 715.68,
+    "duration": 4.719
+  },
+  {
+    "text": "the charts, uh for OpenAI, uh there was",
+    "start": 717.279,
+    "duration": 5.201
+  },
+  {
+    "text": "this sweet spot when it was just",
+    "start": 720.399,
+    "duration": 4.241
+  },
+  {
+    "text": "possible financially to train a really",
+    "start": 722.48,
+    "duration": 5.919
+  },
+  {
+    "text": "large transformer, uh right in here. And",
+    "start": 724.64,
+    "duration": 5.84
+  },
+  {
+    "text": "so if you tried to do it too much",
+    "start": 728.399,
+    "duration": 3.761
+  },
+  {
+    "text": "sooner, no one wanted to spend $20",
+    "start": 730.48,
+    "duration": 4.56
+  },
+  {
+    "text": "million to yolo on some crazy new idea.",
+    "start": 732.16,
+    "duration": 4.479
+  },
+  {
+    "text": "And if you waited until here, everybody",
+    "start": 735.04,
+    "duration": 3.2
+  },
+  {
+    "text": "could do it. And so that was the sweet",
+    "start": 736.639,
+    "duration": 3.361
+  },
+  {
+    "text": "spot when you could create this uh this",
+    "start": 738.24,
+    "duration": 4.399
+  },
+  {
+    "text": "new opportunity. Nvidia, similarly, 3D",
+    "start": 740.0,
+    "duration": 4.639
+  },
+  {
+    "text": "games were coming out. computers weren't",
+    "start": 742.639,
+    "duration": 3.361
+  },
+  {
+    "text": "quite powering up full enough to run",
+    "start": 744.639,
+    "duration": 3.281
+  },
+  {
+    "text": "them and so they had this really great",
+    "start": 746.0,
+    "duration": 4.0
+  },
+  {
+    "text": "sweet spot of when there was demand for",
+    "start": 747.92,
+    "duration": 4.24
+  },
+  {
+    "text": "a new type of computing architecture uh",
+    "start": 750.0,
+    "duration": 5.279
+  },
+  {
+    "text": "and their supply. Uh Tesla similarly",
+    "start": 752.16,
+    "duration": 5.52
+  },
+  {
+    "text": "they really very carefully intercepted",
+    "start": 755.279,
+    "duration": 4.401
+  },
+  {
+    "text": "the point at which laptop batteries were",
+    "start": 757.68,
+    "duration": 4.159
+  },
+  {
+    "text": "cheap enough to buy in volume to make a",
+    "start": 759.68,
+    "duration": 5.2
+  },
+  {
+    "text": "car. Um and then uh this is another one",
+    "start": 761.839,
+    "duration": 5.44
+  },
+  {
+    "text": "of our companies and that uh that is",
+    "start": 764.88,
+    "duration": 5.519
+  },
+  {
+    "text": "about the intercept between solar uh and",
+    "start": 767.279,
+    "duration": 5.36
+  },
+  {
+    "text": "natural gas.",
+    "start": 770.399,
+    "duration": 4.161
+  },
+  {
+    "text": "So sometimes these exponentials are like",
+    "start": 772.639,
+    "duration": 3.681
+  },
+  {
+    "text": "based on technology like the graas show.",
+    "start": 774.56,
+    "duration": 3.279
+  },
+  {
+    "text": "Sometimes they're like a regulatory",
+    "start": 776.32,
+    "duration": 2.8
+  },
+  {
+    "text": "change. Suddenly the government wants",
+    "start": 777.839,
+    "duration": 2.721
+  },
+  {
+    "text": "everybody to do something or suddenly",
+    "start": 779.12,
+    "duration": 3.04
+  },
+  {
+    "text": "there's a war or suddenly there's a",
+    "start": 780.56,
+    "duration": 3.2
+  },
+  {
+    "text": "massive supply chain decoupling between",
+    "start": 782.16,
+    "duration": 4.64
+  },
+  {
+    "text": "us and China. Um so these all create",
+    "start": 783.76,
+    "duration": 4.48
+  },
+  {
+    "text": "exponentials. So be mindful of the",
+    "start": 786.8,
+    "duration": 3.12
+  },
+  {
+    "text": "exponentials you're building on top of.",
+    "start": 788.24,
+    "duration": 4.32
+  },
+  {
+    "text": "Um so when you think about the thing",
+    "start": 789.92,
+    "duration": 4.479
+  },
+  {
+    "text": "that you're building, what are the",
+    "start": 792.56,
+    "duration": 3.92
+  },
+  {
+    "text": "possible viable valuable and availables",
+    "start": 794.399,
+    "duration": 4.481
+  },
+  {
+    "text": "for what that is? Um, and you can think",
+    "start": 796.48,
+    "duration": 4.64
+  },
+  {
+    "text": "of this as like a ladder of proof where",
+    "start": 798.88,
+    "duration": 4.399
+  },
+  {
+    "text": "possible as your company walks through",
+    "start": 801.12,
+    "duration": 3.92
+  },
+  {
+    "text": "the different phases of its of its",
+    "start": 803.279,
+    "duration": 4.0
+  },
+  {
+    "text": "construction. A possible is some demo or",
+    "start": 805.04,
+    "duration": 4.479
+  },
+  {
+    "text": "simulation that falsifies the main",
+    "start": 807.279,
+    "duration": 5.201
+  },
+  {
+    "text": "doubt. Viable is a crude system that",
+    "start": 809.519,
+    "duration": 5.041
+  },
+  {
+    "text": "meets a target spec of a customer who",
+    "start": 812.48,
+    "duration": 3.52
+  },
+  {
+    "text": "needs to buy whatever it is that you're",
+    "start": 814.56,
+    "duration": 3.44
+  },
+  {
+    "text": "producing. Valuable is when you start to",
+    "start": 816.0,
+    "duration": 3.44
+  },
+  {
+    "text": "get to that level where you have a paid",
+    "start": 818.0,
+    "duration": 4.399
+  },
+  {
+    "text": "pilot or, you know, active users or a",
+    "start": 819.44,
+    "duration": 6.24
+  },
+  {
+    "text": "couple LOIs. And available is a repeated",
+    "start": 822.399,
+    "duration": 5.201
+  },
+  {
+    "text": "process by which your company produces",
+    "start": 825.68,
+    "duration": 3.36
+  },
+  {
+    "text": "value over and over again. It could be a",
+    "start": 827.6,
+    "duration": 3.28
+  },
+  {
+    "text": "channel partnership, it could be a a",
+    "start": 829.04,
+    "duration": 5.039
+  },
+  {
+    "text": "sales team, a repeatable playbook. Um,",
+    "start": 830.88,
+    "duration": 5.68
+  },
+  {
+    "text": "okay. Uh, finally you or next we want to",
+    "start": 834.079,
+    "duration": 4.401
+  },
+  {
+    "text": "talk about fundamental versus available.",
+    "start": 836.56,
+    "duration": 4.639
+  },
+  {
+    "text": "Um, everything is uh that becomes super",
+    "start": 838.48,
+    "duration": 3.919
+  },
+  {
+    "text": "valuable generally has this",
+    "start": 841.199,
+    "duration": 2.64
+  },
+  {
+    "text": "characteristic of it being radically",
+    "start": 842.399,
+    "duration": 3.12
+  },
+  {
+    "text": "different. Um, and I like to think of",
+    "start": 843.839,
+    "duration": 3.44
+  },
+  {
+    "text": "that as being manifest through one weird",
+    "start": 845.519,
+    "duration": 5.281
+  },
+  {
+    "text": "trick ideas. So, um these are like these",
+    "start": 847.279,
+    "duration": 7.281
+  },
+  {
+    "text": "simple uh like uh counterintuitive ideas",
+    "start": 850.8,
+    "duration": 5.44
+  },
+  {
+    "text": "that like if you buy enough laptop",
+    "start": 854.56,
+    "duration": 2.88
+  },
+  {
+    "text": "batteries, you add wheels, you get a",
+    "start": 856.24,
+    "duration": 3.599
+  },
+  {
+    "text": "car. Uh or if you replace urine with",
+    "start": 857.44,
+    "duration": 4.639
+  },
+  {
+    "text": "pseudo urodine, you get an MRA vaccine.",
+    "start": 859.839,
+    "duration": 4.56
+  },
+  {
+    "text": "Uh and so one common failure mode of",
+    "start": 862.079,
+    "duration": 3.921
+  },
+  {
+    "text": "people like us is we're like, I'm going",
+    "start": 864.399,
+    "duration": 3.361
+  },
+  {
+    "text": "to take these seven different galaxy",
+    "start": 866.0,
+    "duration": 3.76
+  },
+  {
+    "text": "brain PhD thesis and merge them together",
+    "start": 867.76,
+    "duration": 4.48
+  },
+  {
+    "text": "into one company. Don't do that, okay?",
+    "start": 869.76,
+    "duration": 3.92
+  },
+  {
+    "text": "Because you'll end up in a like 15 year",
+    "start": 872.24,
+    "duration": 3.44
+  },
+  {
+    "text": "J curve. And so you want to find stuff",
+    "start": 873.68,
+    "duration": 4.64
+  },
+  {
+    "text": "that already works. Um",
+    "start": 875.68,
+    "duration": 4.8
+  },
+  {
+    "text": "and then uh uh you can also look for one",
+    "start": 878.32,
+    "duration": 4.079
+  },
+  {
+    "text": "weird trick ideas in a regulatory sense.",
+    "start": 880.48,
+    "duration": 3.28
+  },
+  {
+    "text": "So Uber was a great example of this",
+    "start": 882.399,
+    "duration": 3.521
+  },
+  {
+    "text": "where it's illegal to start a company",
+    "start": 883.76,
+    "duration": 4.319
+  },
+  {
+    "text": "where you know a person does this on the",
+    "start": 885.92,
+    "duration": 3.84
+  },
+  {
+    "text": "street corner and you pull your car up",
+    "start": 888.079,
+    "duration": 3.841
+  },
+  {
+    "text": "but it's not illegal to have a person do",
+    "start": 889.76,
+    "duration": 3.84
+  },
+  {
+    "text": "this on the street corner and you pull",
+    "start": 891.92,
+    "duration": 3.52
+  },
+  {
+    "text": "the car up. And so that was an",
+    "start": 893.6,
+    "duration": 3.12
+  },
+  {
+    "text": "interesting regulatory hack that they",
+    "start": 895.44,
+    "duration": 2.639
+  },
+  {
+    "text": "figured out. So sometimes there are",
+    "start": 896.72,
+    "duration": 2.559
+  },
+  {
+    "text": "interesting regulatory hacks you can",
+    "start": 898.079,
+    "duration": 4.88
+  },
+  {
+    "text": "take advantage of. Um and um I guess one",
+    "start": 899.279,
+    "duration": 6.081
+  },
+  {
+    "text": "story I'll give about uh this common",
+    "start": 902.959,
+    "duration": 5.12
+  },
+  {
+    "text": "failure mode. Uh my friend did series A",
+    "start": 905.36,
+    "duration": 4.8
+  },
+  {
+    "text": "diligence on Tesla for like a very",
+    "start": 908.079,
+    "duration": 4.32
+  },
+  {
+    "text": "famous Silicon Valley PC and he met with",
+    "start": 910.16,
+    "duration": 3.6
+  },
+  {
+    "text": "Elon and the team. He took the whole car",
+    "start": 912.399,
+    "duration": 2.8
+  },
+  {
+    "text": "apart and he called them back the next",
+    "start": 913.76,
+    "duration": 2.639
+  },
+  {
+    "text": "day and he's like you should absolutely",
+    "start": 915.199,
+    "duration": 3.601
+  },
+  {
+    "text": "not invest in this company. U they buy",
+    "start": 916.399,
+    "duration": 4.321
+  },
+  {
+    "text": "their batteries from Panasonic, their",
+    "start": 918.8,
+    "duration": 3.039
+  },
+  {
+    "text": "motors from Bosch, they put it in the",
+    "start": 920.72,
+    "duration": 4.799
+  },
+  {
+    "text": "body of a load of of a of a Lotus.",
+    "start": 921.839,
+    "duration": 5.44
+  },
+  {
+    "text": "There's no technology here at all.",
+    "start": 925.519,
+    "duration": 3.12
+  },
+  {
+    "text": "There's no technology. It's just a bunch",
+    "start": 927.279,
+    "duration": 2.8
+  },
+  {
+    "text": "of stuff you buy and put together. And",
+    "start": 928.639,
+    "duration": 3.841
+  },
+  {
+    "text": "that is exactly why you should invest in",
+    "start": 930.079,
+    "duration": 3.921
+  },
+  {
+    "text": "the company. And so that's what you're",
+    "start": 932.48,
+    "duration": 4.32
+  },
+  {
+    "text": "looking for too. Um",
+    "start": 934.0,
+    "duration": 5.199
+  },
+  {
+    "text": "so and then finally or I would say",
+    "start": 936.8,
+    "duration": 4.0
+  },
+  {
+    "text": "second from finally uh you're looking",
+    "start": 939.199,
+    "duration": 3.681
+  },
+  {
+    "text": "for massive positive externalities. The",
+    "start": 940.8,
+    "duration": 4.32
+  },
+  {
+    "text": "most valuable things are even more",
+    "start": 942.88,
+    "duration": 4.399
+  },
+  {
+    "text": "valuable than they uh than the value",
+    "start": 945.12,
+    "duration": 3.839
+  },
+  {
+    "text": "they capture. And so like you think of",
+    "start": 947.279,
+    "duration": 5.281
+  },
+  {
+    "text": "the the total value of open AI uh in",
+    "start": 948.959,
+    "duration": 5.361
+  },
+  {
+    "text": "terms of or chat GPT in terms of value",
+    "start": 952.56,
+    "duration": 3.279
+  },
+  {
+    "text": "created for the world or the total value",
+    "start": 954.32,
+    "duration": 2.8
+  },
+  {
+    "text": "of Google in terms of value created for",
+    "start": 955.839,
+    "duration": 4.0
+  },
+  {
+    "text": "the world. it so exceeds the amount of",
+    "start": 957.12,
+    "duration": 3.92
+  },
+  {
+    "text": "revenue that they're making on that",
+    "start": 959.839,
+    "duration": 3.201
+  },
+  {
+    "text": "model. Uh it's it's hard to even compare",
+    "start": 961.04,
+    "duration": 3.2
+  },
+  {
+    "text": "the two. And so you're looking with",
+    "start": 963.04,
+    "duration": 2.479
+  },
+  {
+    "text": "something that has massive positive",
+    "start": 964.24,
+    "duration": 2.64
+  },
+  {
+    "text": "externalities because that's what really",
+    "start": 965.519,
+    "duration": 2.88
+  },
+  {
+    "text": "changes the world. If you only build",
+    "start": 966.88,
+    "duration": 2.8
+  },
+  {
+    "text": "something where you capture 100% of the",
+    "start": 968.399,
+    "duration": 2.321
+  },
+  {
+    "text": "value, you're not really changing the",
+    "start": 969.68,
+    "duration": 4.159
+  },
+  {
+    "text": "world very much. Um and then finally,",
+    "start": 970.72,
+    "duration": 4.96
+  },
+  {
+    "text": "every startup, regardless of what you",
+    "start": 973.839,
+    "duration": 3.841
+  },
+  {
+    "text": "do, has exactly one difficulty level,",
+    "start": 975.68,
+    "duration": 5.04
+  },
+  {
+    "text": "which is impossible. And so pick",
+    "start": 977.68,
+    "duration": 5.519
+  },
+  {
+    "text": "something that you have such a strong",
+    "start": 980.72,
+    "duration": 4.559
+  },
+  {
+    "text": "animating purpose behind. It is your",
+    "start": 983.199,
+    "duration": 4.481
+  },
+  {
+    "text": "life's mission. you were put on earth to",
+    "start": 985.279,
+    "duration": 5.201
+  },
+  {
+    "text": "do this one thing. Uh because if you",
+    "start": 987.68,
+    "duration": 3.839
+  },
+  {
+    "text": "don't have that for what you're",
+    "start": 990.48,
+    "duration": 2.88
+  },
+  {
+    "text": "building, you will not succeed. Uh and",
+    "start": 991.519,
+    "duration": 4.481
+  },
+  {
+    "text": "you also won't enjoy the process that is",
+    "start": 993.36,
+    "duration": 3.919
+  },
+  {
+    "text": "absolutely miserable going through",
+    "start": 996.0,
+    "duration": 4.0
+  },
+  {
+    "text": "trying to make it real. Um and then",
+    "start": 997.279,
+    "duration": 5.281
+  },
+  {
+    "text": "finally, when you think about uh the",
+    "start": 1000.0,
+    "duration": 5.839
+  },
+  {
+    "text": "narrative market fit of your story,",
+    "start": 1002.56,
+    "duration": 5.68
+  },
+  {
+    "text": "you're you're violating a narrative",
+    "start": 1005.839,
+    "duration": 4.56
+  },
+  {
+    "text": "constraint reality previously had. And",
+    "start": 1008.24,
+    "duration": 4.64
+  },
+  {
+    "text": "so the three stories every company needs",
+    "start": 1010.399,
+    "duration": 3.841
+  },
+  {
+    "text": "and something you should reflect about",
+    "start": 1012.88,
+    "duration": 4.24
+  },
+  {
+    "text": "your own story is why now which is the",
+    "start": 1014.24,
+    "duration": 4.88
+  },
+  {
+    "text": "underlying exponentials and then the",
+    "start": 1017.12,
+    "duration": 4.8
+  },
+  {
+    "text": "secret the one weird trick that you have",
+    "start": 1019.12,
+    "duration": 4.48
+  },
+  {
+    "text": "the idea that other people haven't",
+    "start": 1021.92,
+    "duration": 3.119
+  },
+  {
+    "text": "stumbled upon or the approach that",
+    "start": 1023.6,
+    "duration": 3.599
+  },
+  {
+    "text": "everyone rejected is stupid and wrong",
+    "start": 1025.039,
+    "duration": 4.961
+  },
+  {
+    "text": "and for example uh you know that was",
+    "start": 1027.199,
+    "duration": 4.24
+  },
+  {
+    "text": "deep learning for a while like when my",
+    "start": 1030.0,
+    "duration": 3.28
+  },
+  {
+    "text": "co-founder delete took Bernard Woodro's",
+    "start": 1031.439,
+    "duration": 4.321
+  },
+  {
+    "text": "class on deep learning uh in uh at",
+    "start": 1033.28,
+    "duration": 5.519
+  },
+  {
+    "text": "Stanford there was like 20 people in the",
+    "start": 1035.76,
+    "duration": 4.88
+  },
+  {
+    "text": "class like 10 of them were auditing it.",
+    "start": 1038.799,
+    "duration": 3.52
+  },
+  {
+    "text": "Like no one thought this was a",
+    "start": 1040.64,
+    "duration": 4.319
+  },
+  {
+    "text": "technique. Like when I did AI, it was a",
+    "start": 1042.319,
+    "duration": 4.321
+  },
+  {
+    "text": "couple pages in the Norvig Russell book",
+    "start": 1044.959,
+    "duration": 3.281
+  },
+  {
+    "text": "and everything else was on all kinds of",
+    "start": 1046.64,
+    "duration": 3.039
+  },
+  {
+    "text": "other techniques that were called AI",
+    "start": 1048.24,
+    "duration": 3.36
+  },
+  {
+    "text": "back then. And so there's some",
+    "start": 1049.679,
+    "duration": 3.761
+  },
+  {
+    "text": "underlying secret, some one weird trick",
+    "start": 1051.6,
+    "duration": 3.28
+  },
+  {
+    "text": "behind what you're doing. Figure what",
+    "start": 1053.44,
+    "duration": 3.44
+  },
+  {
+    "text": "that figure out what that is. The why",
+    "start": 1054.88,
+    "duration": 3.919
+  },
+  {
+    "text": "us, this goes back to your destiny. Max",
+    "start": 1056.88,
+    "duration": 3.44
+  },
+  {
+    "text": "Hodak who's one of our founders, founder",
+    "start": 1058.799,
+    "duration": 4.24
+  },
+  {
+    "text": "of Neuralink, um he has a picture he",
+    "start": 1060.32,
+    "duration": 5.28
+  },
+  {
+    "text": "uses in his slides of himself when he",
+    "start": 1063.039,
+    "duration": 4.401
+  },
+  {
+    "text": "was like 19 years old giving a science",
+    "start": 1065.6,
+    "duration": 4.4
+  },
+  {
+    "text": "fair presentation on measuring neural",
+    "start": 1067.44,
+    "duration": 4.0
+  },
+  {
+    "text": "activations in the brain. Like he has",
+    "start": 1070.0,
+    "duration": 3.52
+  },
+  {
+    "text": "wanted when he saw the movie The Matrix,",
+    "start": 1071.44,
+    "duration": 4.8
+  },
+  {
+    "text": "he was like, I want to build that. You",
+    "start": 1073.52,
+    "duration": 3.92
+  },
+  {
+    "text": "know what I mean? Like not the common",
+    "start": 1076.24,
+    "duration": 2.799
+  },
+  {
+    "text": "reaction, but that was him. He's like,",
+    "start": 1077.44,
+    "duration": 4.0
+  },
+  {
+    "text": "this is it. I want to make this plug the",
+    "start": 1079.039,
+    "duration": 5.801
+  },
+  {
+    "text": "thing in the back.",
+    "start": 1081.44,
+    "duration": 3.4
+  },
+  {
+    "text": "So there should be some animating thing",
+    "start": 1085.28,
+    "duration": 3.12
+  },
+  {
+    "text": "for you about what you're building. And",
+    "start": 1086.72,
+    "duration": 3.44
+  },
+  {
+    "text": "then finally, why it matters is like",
+    "start": 1088.4,
+    "duration": 3.519
+  },
+  {
+    "text": "there must be some reason why if we",
+    "start": 1090.16,
+    "duration": 4.08
+  },
+  {
+    "text": "don't build this for humanity, we are",
+    "start": 1091.919,
+    "duration": 5.12
+  },
+  {
+    "text": "vastly worse off as a civilization. Uh",
+    "start": 1094.24,
+    "duration": 4.96
+  },
+  {
+    "text": "and that needs to be the animating flame",
+    "start": 1097.039,
+    "duration": 4.0
+  },
+  {
+    "text": "company. So these are the the narrative",
+    "start": 1099.2,
+    "duration": 3.52
+  },
+  {
+    "text": "market fit you should be thinking about.",
+    "start": 1101.039,
+    "duration": 4.241
+  },
+  {
+    "text": "Uh and then finally, don't die. There's",
+    "start": 1102.72,
+    "duration": 4.0
+  },
+  {
+    "text": "all these mistakes you have to think of.",
+    "start": 1105.28,
+    "duration": 3.04
+  },
+  {
+    "text": "you're entering a a predator-filled",
+    "start": 1106.72,
+    "duration": 4.56
+  },
+  {
+    "text": "landscape where at every turn uh there's",
+    "start": 1108.32,
+    "duration": 5.2
+  },
+  {
+    "text": "uh catastrophe awaits to try and to try",
+    "start": 1111.28,
+    "duration": 4.96
+  },
+  {
+    "text": "and murder your company. Uh and so don't",
+    "start": 1113.52,
+    "duration": 4.88
+  },
+  {
+    "text": "think too small. Academia has installed",
+    "start": 1116.24,
+    "duration": 3.679
+  },
+  {
+    "text": "the wrong OS in your brain. I have bad",
+    "start": 1118.4,
+    "duration": 3.76
+  },
+  {
+    "text": "news. Your uh your supervisor has been",
+    "start": 1119.919,
+    "duration": 3.681
+  },
+  {
+    "text": "telling you to pick a smaller problem.",
+    "start": 1122.16,
+    "duration": 2.72
+  },
+  {
+    "text": "Pick a smaller problem. Pick a smaller",
+    "start": 1123.6,
+    "duration": 2.88
+  },
+  {
+    "text": "problem. And that was great for when",
+    "start": 1124.88,
+    "duration": 2.72
+  },
+  {
+    "text": "you're trying to publish a paper in a",
+    "start": 1126.48,
+    "duration": 3.04
+  },
+  {
+    "text": "couple months. Uh and it's death when",
+    "start": 1127.6,
+    "duration": 3.04
+  },
+  {
+    "text": "you're trying to start a startup that",
+    "start": 1129.52,
+    "duration": 2.399
+  },
+  {
+    "text": "meaningfully changes the world. you",
+    "start": 1130.64,
+    "duration": 3.36
+  },
+  {
+    "text": "should pick a big vision and then pick a",
+    "start": 1131.919,
+    "duration": 4.0
+  },
+  {
+    "text": "small bite and a path towards realizing",
+    "start": 1134.0,
+    "duration": 4.799
+  },
+  {
+    "text": "the whole thing. Um the second thing is",
+    "start": 1135.919,
+    "duration": 5.12
+  },
+  {
+    "text": "picking a bad market. Uh I would say",
+    "start": 1138.799,
+    "duration": 3.441
+  },
+  {
+    "text": "sometimes people pick a small or",
+    "start": 1141.039,
+    "duration": 2.561
+  },
+  {
+    "text": "slivering market but the more common",
+    "start": 1142.24,
+    "duration": 2.72
+  },
+  {
+    "text": "failure mode is they don't understand",
+    "start": 1143.6,
+    "duration": 3.68
+  },
+  {
+    "text": "the market they've picked. Um I remember",
+    "start": 1144.96,
+    "duration": 4.4
+  },
+  {
+    "text": "when one of my first companies uh we",
+    "start": 1147.28,
+    "duration": 4.72
+  },
+  {
+    "text": "sold uh uh you know touchscreens to high",
+    "start": 1149.36,
+    "duration": 4.24
+  },
+  {
+    "text": "volume retail stores and I didn't",
+    "start": 1152.0,
+    "duration": 2.72
+  },
+  {
+    "text": "understand the market at all because I",
+    "start": 1153.6,
+    "duration": 2.8
+  },
+  {
+    "text": "was like a technologist and I would have",
+    "start": 1154.72,
+    "duration": 3.44
+  },
+  {
+    "text": "these meetings with people at the",
+    "start": 1156.4,
+    "duration": 3.84
+  },
+  {
+    "text": "companies like you know Foot Locker and",
+    "start": 1158.16,
+    "duration": 3.28
+  },
+  {
+    "text": "I'd be like hey here's what we're doing",
+    "start": 1160.24,
+    "duration": 3.2
+  },
+  {
+    "text": "and they would go wow this is amazing we",
+    "start": 1161.44,
+    "duration": 3.44
+  },
+  {
+    "text": "should totally we should totally use",
+    "start": 1163.44,
+    "duration": 2.479
+  },
+  {
+    "text": "this. This is incredible. I would feel",
+    "start": 1164.88,
+    "duration": 3.76
+  },
+  {
+    "text": "like a hero every time. And then after",
+    "start": 1165.919,
+    "duration": 4.241
+  },
+  {
+    "text": "five or six of these meetings I'd be",
+    "start": 1168.64,
+    "duration": 3.52
+  },
+  {
+    "text": "like okay pull out your wallet let's you",
+    "start": 1170.16,
+    "duration": 3.519
+  },
+  {
+    "text": "know do it. And immediately they'd be",
+    "start": 1172.16,
+    "duration": 3.2
+  },
+  {
+    "text": "like, well, you know, we really need to",
+    "start": 1173.679,
+    "duration": 3.281
+  },
+  {
+    "text": "talk to, you know, Susan over in",
+    "start": 1175.36,
+    "duration": 3.12
+  },
+  {
+    "text": "procurement and suddenly everything",
+    "start": 1176.96,
+    "duration": 3.28
+  },
+  {
+    "text": "would get ice cold. And so not",
+    "start": 1178.48,
+    "duration": 4.319
+  },
+  {
+    "text": "understanding how the customer buys is a",
+    "start": 1180.24,
+    "duration": 4.24
+  },
+  {
+    "text": "big failure mode that people like us",
+    "start": 1182.799,
+    "duration": 3.041
+  },
+  {
+    "text": "fall into because we love thinking about",
+    "start": 1184.48,
+    "duration": 2.88
+  },
+  {
+    "text": "technology. We don't love talking to",
+    "start": 1185.84,
+    "duration": 2.959
+  },
+  {
+    "text": "people often times or like deeply",
+    "start": 1187.36,
+    "duration": 2.88
+  },
+  {
+    "text": "understanding stuff arcane business",
+    "start": 1188.799,
+    "duration": 3.841
+  },
+  {
+    "text": "buying cycle. And so you need to lean",
+    "start": 1190.24,
+    "duration": 3.84
+  },
+  {
+    "text": "into the areas that actually represent",
+    "start": 1192.64,
+    "duration": 4.399
+  },
+  {
+    "text": "real risk for your company. Um, bad",
+    "start": 1194.08,
+    "duration": 5.44
+  },
+  {
+    "text": "technoconomics. Um, you should have a",
+    "start": 1197.039,
+    "duration": 3.76
+  },
+  {
+    "text": "Newtonian mechanics. you have a",
+    "start": 1199.52,
+    "duration": 3.039
+  },
+  {
+    "text": "spreadsheet of what your company does in",
+    "start": 1200.799,
+    "duration": 4.401
+  },
+  {
+    "text": "theory that you can run MCMC on. Uh, and",
+    "start": 1202.559,
+    "duration": 4.721
+  },
+  {
+    "text": "that will help you identify what are the",
+    "start": 1205.2,
+    "duration": 4.08
+  },
+  {
+    "text": "the critical weak points or what are the",
+    "start": 1207.28,
+    "duration": 3.36
+  },
+  {
+    "text": "vulnerabilities you have or what are the",
+    "start": 1209.28,
+    "duration": 3.12
+  },
+  {
+    "text": "untested assumptions that may kill you",
+    "start": 1210.64,
+    "duration": 3.12
+  },
+  {
+    "text": "because you can find ways to test those",
+    "start": 1212.4,
+    "duration": 3.04
+  },
+  {
+    "text": "assumptions really cheaply and really",
+    "start": 1213.76,
+    "duration": 3.279
+  },
+  {
+    "text": "fast before you spend a lot of time",
+    "start": 1215.44,
+    "duration": 3.359
+  },
+  {
+    "text": "building something that will never work.",
+    "start": 1217.039,
+    "duration": 4.241
+  },
+  {
+    "text": "Um,",
+    "start": 1218.799,
+    "duration": 4.24
+  },
+  {
+    "text": "and then big one here guys, we have to",
+    "start": 1221.28,
+    "duration": 3.12
+  },
+  {
+    "text": "break them into milestones that are VC",
+    "start": 1223.039,
+    "duration": 5.281
+  },
+  {
+    "text": "fundable. you will pay uh a lot more for",
+    "start": 1224.4,
+    "duration": 5.519
+  },
+  {
+    "text": "achieving your vision of the world and",
+    "start": 1228.32,
+    "duration": 3.359
+  },
+  {
+    "text": "you may fail to do it entirely if you",
+    "start": 1229.919,
+    "duration": 3.921
+  },
+  {
+    "text": "don't make it bind correctly to the",
+    "start": 1231.679,
+    "duration": 5.201
+  },
+  {
+    "text": "receptor sites capital markets. Um too",
+    "start": 1233.84,
+    "duration": 5.12
+  },
+  {
+    "text": "slow is another one and I have some",
+    "start": 1236.88,
+    "duration": 4.159
+  },
+  {
+    "text": "wisdom on this like uh there's a certain",
+    "start": 1238.96,
+    "duration": 3.599
+  },
+  {
+    "text": "cadence to startups. Elon sets the",
+    "start": 1241.039,
+    "duration": 3.921
+  },
+  {
+    "text": "cadence really well. Um you you diverge",
+    "start": 1242.559,
+    "duration": 4.401
+  },
+  {
+    "text": "too far from that and it won't succeed.",
+    "start": 1244.96,
+    "duration": 3.36
+  },
+  {
+    "text": "The other thing I would say is the too",
+    "start": 1246.96,
+    "duration": 3.04
+  },
+  {
+    "text": "slow is a very specific thing when I",
+    "start": 1248.32,
+    "duration": 3.04
+  },
+  {
+    "text": "look longitudinally across the most",
+    "start": 1250.0,
+    "duration": 2.96
+  },
+  {
+    "text": "successful companies that we've backed.",
+    "start": 1251.36,
+    "duration": 5.36
+  },
+  {
+    "text": "the fast the is a speed of getting to",
+    "start": 1252.96,
+    "duration": 5.68
+  },
+  {
+    "text": "revenue. So finding a customer will",
+    "start": 1256.72,
+    "duration": 3.28
+  },
+  {
+    "text": "actually pay is one of the strongest",
+    "start": 1258.64,
+    "duration": 2.64
+  },
+  {
+    "text": "predictors that a company is going to be",
+    "start": 1260.0,
+    "duration": 4.96
+  },
+  {
+    "text": "very very successful. Um and then uh bad",
+    "start": 1261.28,
+    "duration": 5.36
+  },
+  {
+    "text": "co-founders is another one. Uh you",
+    "start": 1264.96,
+    "duration": 3.12
+  },
+  {
+    "text": "already know your co-founder. It's the",
+    "start": 1266.64,
+    "duration": 3.2
+  },
+  {
+    "text": "it's the smartest person the most",
+    "start": 1268.08,
+    "duration": 2.959
+  },
+  {
+    "text": "amazing person you've ever worked with",
+    "start": 1269.84,
+    "duration": 2.4
+  },
+  {
+    "text": "your entire life. That's your",
+    "start": 1271.039,
+    "duration": 4.0
+  },
+  {
+    "text": "co-founder. Uh and uh oftenimes people",
+    "start": 1272.24,
+    "duration": 4.64
+  },
+  {
+    "text": "try and find a co-founder and do",
+    "start": 1275.039,
+    "duration": 3.601
+  },
+  {
+    "text": "co-founder dating. Uh, and this",
+    "start": 1276.88,
+    "duration": 4.24
+  },
+  {
+    "text": "generally leads to a bad relationship",
+    "start": 1278.64,
+    "duration": 4.72
+  },
+  {
+    "text": "because you need something that is so",
+    "start": 1281.12,
+    "duration": 5.28
+  },
+  {
+    "text": "deep and so um uh strong that will",
+    "start": 1283.36,
+    "duration": 4.88
+  },
+  {
+    "text": "survive the the challenges that the",
+    "start": 1286.4,
+    "duration": 3.04
+  },
+  {
+    "text": "universe throws at you. You have to",
+    "start": 1288.24,
+    "duration": 2.4
+  },
+  {
+    "text": "imagine if you're getting into a",
+    "start": 1289.44,
+    "duration": 2.56
+  },
+  {
+    "text": "romantic relationship with someone, you",
+    "start": 1290.64,
+    "duration": 3.039
+  },
+  {
+    "text": "imagine, okay, we're getting romantic",
+    "start": 1292.0,
+    "duration": 2.48
+  },
+  {
+    "text": "relationship or we're going to",
+    "start": 1293.679,
+    "duration": 3.201
+  },
+  {
+    "text": "experience great financial uncertainty",
+    "start": 1294.48,
+    "duration": 4.319
+  },
+  {
+    "text": "together and like things are going to go",
+    "start": 1296.88,
+    "duration": 4.08
+  },
+  {
+    "text": "wrong all the time and we're going to be",
+    "start": 1298.799,
+    "duration": 4.24
+  },
+  {
+    "text": "in a tiny room where we rely on each",
+    "start": 1300.96,
+    "duration": 3.839
+  },
+  {
+    "text": "other to do, you know, essential work",
+    "start": 1303.039,
+    "duration": 3.281
+  },
+  {
+    "text": "and deadlines are missed. It's like a",
+    "start": 1304.799,
+    "duration": 3.521
+  },
+  {
+    "text": "recipe for divorce. And so you don't",
+    "start": 1306.32,
+    "duration": 3.76
+  },
+  {
+    "text": "want to get coer divorce. And you that",
+    "start": 1308.32,
+    "duration": 3.28
+  },
+  {
+    "text": "can only happen if you pick someone with",
+    "start": 1310.08,
+    "duration": 2.959
+  },
+  {
+    "text": "whom you have a really deep enduring",
+    "start": 1311.6,
+    "duration": 4.64
+  },
+  {
+    "text": "connection. Um real examples of bad",
+    "start": 1313.039,
+    "duration": 5.601
+  },
+  {
+    "text": "ideas, uh robots that clean the",
+    "start": 1316.24,
+    "duration": 4.64
+  },
+  {
+    "text": "underside of boat holes. Okay, so this",
+    "start": 1318.64,
+    "duration": 4.88
+  },
+  {
+    "text": "is a a too small a market and too easy",
+    "start": 1320.88,
+    "duration": 5.44
+  },
+  {
+    "text": "to duplicate. Uh hybrid fision fusion",
+    "start": 1323.52,
+    "duration": 6.08
+  },
+  {
+    "text": "naval reactors. Interesting concept, but",
+    "start": 1326.32,
+    "duration": 5.599
+  },
+  {
+    "text": "uh way too long to get to something that",
+    "start": 1329.6,
+    "duration": 3.68
+  },
+  {
+    "text": "actually works that you can sell.",
+    "start": 1331.919,
+    "duration": 2.961
+  },
+  {
+    "text": "regulatory question marks, science",
+    "start": 1333.28,
+    "duration": 3.68
+  },
+  {
+    "text": "question marks, automated sheet metal",
+    "start": 1334.88,
+    "duration": 3.84
+  },
+  {
+    "text": "manufacturing. You could sell it really",
+    "start": 1336.96,
+    "duration": 4.88
+  },
+  {
+    "text": "fast, but it's unclear how you can be",
+    "start": 1338.72,
+    "duration": 4.88
+  },
+  {
+    "text": "meaningfully better than a bunch of",
+    "start": 1341.84,
+    "duration": 3.92
+  },
+  {
+    "text": "companies in China who already use, you",
+    "start": 1343.6,
+    "duration": 3.92
+  },
+  {
+    "text": "know, software and robots as much as",
+    "start": 1345.76,
+    "duration": 3.2
+  },
+  {
+    "text": "they can to automate cheap metal",
+    "start": 1347.52,
+    "duration": 4.08
+  },
+  {
+    "text": "manufacturing. Um, lasers for automated",
+    "start": 1348.96,
+    "duration": 4.959
+  },
+  {
+    "text": "weeding of crops. This is a one where",
+    "start": 1351.6,
+    "duration": 3.92
+  },
+  {
+    "text": "lots of people basically buy some",
+    "start": 1353.919,
+    "duration": 3.76
+  },
+  {
+    "text": "four-wheel drive vehicle, steer it, and",
+    "start": 1355.52,
+    "duration": 3.84
+  },
+  {
+    "text": "shoot lasers out. And so, it's like very",
+    "start": 1357.679,
+    "duration": 3.521
+  },
+  {
+    "text": "hard for you to not have someone else do",
+    "start": 1359.36,
+    "duration": 3.439
+  },
+  {
+    "text": "the same thing you're doing. small",
+    "start": 1361.2,
+    "duration": 4.0
+  },
+  {
+    "text": "molecular therapy for X indication. This",
+    "start": 1362.799,
+    "duration": 4.161
+  },
+  {
+    "text": "is also a death trap. There's lots of",
+    "start": 1365.2,
+    "duration": 3.92
+  },
+  {
+    "text": "companies that try and do this and you",
+    "start": 1366.96,
+    "duration": 3.76
+  },
+  {
+    "text": "know 90 something percent of the time it",
+    "start": 1369.12,
+    "duration": 3.52
+  },
+  {
+    "text": "just fails and so at the end of that 10",
+    "start": 1370.72,
+    "duration": 4.079
+  },
+  {
+    "text": "year journey you have nothing. Um robots",
+    "start": 1372.64,
+    "duration": 3.6
+  },
+  {
+    "text": "for building solar farms very similar to",
+    "start": 1374.799,
+    "duration": 4.0
+  },
+  {
+    "text": "the robots for weeding crops same idea.",
+    "start": 1376.24,
+    "duration": 5.12
+  },
+  {
+    "text": "Um good ideas. So you saw the autonomous",
+    "start": 1378.799,
+    "duration": 4.721
+  },
+  {
+    "text": "cargo boat plus microport fabric",
+    "start": 1381.36,
+    "duration": 3.679
+  },
+  {
+    "text": "overnight plasma sequencing these are",
+    "start": 1383.52,
+    "duration": 3.44
+  },
+  {
+    "text": "examples and lithium from Brian's. Uh",
+    "start": 1385.039,
+    "duration": 3.841
+  },
+  {
+    "text": "another one from one of our companies is",
+    "start": 1386.96,
+    "duration": 3.28
+  },
+  {
+    "text": "Tesla for housing. houses are really",
+    "start": 1388.88,
+    "duration": 2.56
+  },
+  {
+    "text": "expensive and if you can mass",
+    "start": 1390.24,
+    "duration": 2.88
+  },
+  {
+    "text": "manufacture them in a way that lets you",
+    "start": 1391.44,
+    "duration": 3.44
+  },
+  {
+    "text": "build them very very quickly uh you can",
+    "start": 1393.12,
+    "duration": 3.6
+  },
+  {
+    "text": "meet market need. AI for automating",
+    "start": 1394.88,
+    "duration": 3.6
+  },
+  {
+    "text": "scientific research that's another area",
+    "start": 1396.72,
+    "duration": 3.439
+  },
+  {
+    "text": "that I think is super interesting. Uh",
+    "start": 1398.48,
+    "duration": 3.84
+  },
+  {
+    "text": "and laser milling. This is one from our",
+    "start": 1400.159,
+    "duration": 4.481
+  },
+  {
+    "text": "our previous 50-50 match uh of this",
+    "start": 1402.32,
+    "duration": 4.32
+  },
+  {
+    "text": "company that that started to use lasers",
+    "start": 1404.64,
+    "duration": 5.36
+  },
+  {
+    "text": "to replace traditional CNC machines. Um",
+    "start": 1406.64,
+    "duration": 5.279
+  },
+  {
+    "text": "the strongest predictor you should be",
+    "start": 1410.0,
+    "duration": 3.76
+  },
+  {
+    "text": "thinking about is speed of proofs is",
+    "start": 1411.919,
+    "duration": 3.361
+  },
+  {
+    "text": "better than speed of code. There's a lot",
+    "start": 1413.76,
+    "duration": 2.88
+  },
+  {
+    "text": "of people who are like oh yeah I'm going",
+    "start": 1415.28,
+    "duration": 2.96
+  },
+  {
+    "text": "to go so fast. I would, you know, work",
+    "start": 1416.64,
+    "duration": 3.6
+  },
+  {
+    "text": "seven days a week and push really hard",
+    "start": 1418.24,
+    "duration": 4.64
+  },
+  {
+    "text": "and build all this stuff. Uh, and that's",
+    "start": 1420.24,
+    "duration": 4.24
+  },
+  {
+    "text": "the wrong metaphor for thinking about",
+    "start": 1422.88,
+    "duration": 4.24
+  },
+  {
+    "text": "speed. The speed is about speed of risk",
+    "start": 1424.48,
+    "duration": 5.28
+  },
+  {
+    "text": "collapse. And one type of risk collapse",
+    "start": 1427.12,
+    "duration": 5.2
+  },
+  {
+    "text": "is getting, you know, an order from a",
+    "start": 1429.76,
+    "duration": 4.32
+  },
+  {
+    "text": "customer. I say that's the the best and",
+    "start": 1432.32,
+    "duration": 3.28
+  },
+  {
+    "text": "most important risk collapse is once you",
+    "start": 1434.08,
+    "duration": 3.2
+  },
+  {
+    "text": "start money that's coming in in a",
+    "start": 1435.6,
+    "duration": 3.199
+  },
+  {
+    "text": "repeatable way, you actually have a",
+    "start": 1437.28,
+    "duration": 3.68
+  },
+  {
+    "text": "business. But there are lots of subs",
+    "start": 1438.799,
+    "duration": 4.161
+  },
+  {
+    "text": "signals that are predictors of that",
+    "start": 1440.96,
+    "duration": 4.4
+  },
+  {
+    "text": "future that you can look at your speed",
+    "start": 1442.96,
+    "duration": 5.36
+  },
+  {
+    "text": "of collapsing those risks. And so the",
+    "start": 1445.36,
+    "duration": 4.799
+  },
+  {
+    "text": "speed of proof here is the is the core",
+    "start": 1448.32,
+    "duration": 3.2
+  },
+  {
+    "text": "metric that you should be thinking about",
+    "start": 1450.159,
+    "duration": 3.361
+  },
+  {
+    "text": "as your company cadence.",
+    "start": 1451.52,
+    "duration": 5.2
+  },
+  {
+    "text": ">> Okay, I'll pause here for questions.",
+    "start": 1453.52,
+    "duration": 3.6
+  },
+  {
+    "text": ">> Yeah.",
+    "start": 1456.72,
+    "duration": 3.199
+  },
+  {
+    "text": ">> Okay. So I understand how the laptop",
+    "start": 1457.12,
+    "duration": 5.12
+  },
+  {
+    "text": "with real story encapsulates the idea",
+    "start": 1459.919,
+    "duration": 4.24
+  },
+  {
+    "text": "that it's like feasible now.",
+    "start": 1462.24,
+    "duration": 2.48
+  },
+  {
+    "text": ">> Yeah.",
+    "start": 1464.159,
+    "duration": 2.801
+  },
+  {
+    "text": ">> And that makes it a good company. But",
+    "start": 1464.72,
+    "duration": 4.079
+  },
+  {
+    "text": "could you explain like how does that",
+    "start": 1466.96,
+    "duration": 3.04
+  },
+  {
+    "text": "encapsulate the idea of it being",
+    "start": 1468.799,
+    "duration": 2.88
+  },
+  {
+    "text": "defensible? Like those seeming",
+    "start": 1470.0,
+    "duration": 2.88
+  },
+  {
+    "text": "contradictions.",
+    "start": 1471.679,
+    "duration": 2.161
+  },
+  {
+    "text": ">> Well, I would say the first thing that",
+    "start": 1472.88,
+    "duration": 2.159
+  },
+  {
+    "text": "made it defensible is that everybody",
+    "start": 1473.84,
+    "duration": 3.839
+  },
+  {
+    "text": "thought it was a bad idea. So like the",
+    "start": 1475.039,
+    "duration": 4.24
+  },
+  {
+    "text": "the the space of people who thought",
+    "start": 1477.679,
+    "duration": 3.12
+  },
+  {
+    "text": "buying laptop batteries and having",
+    "start": 1479.279,
+    "duration": 3.041
+  },
+  {
+    "text": "wheels would be the future of the",
+    "start": 1480.799,
+    "duration": 3.12
+  },
+  {
+    "text": "automotive industry was relatively",
+    "start": 1482.32,
+    "duration": 4.239
+  },
+  {
+    "text": "small. And so you're you're dealing with",
+    "start": 1483.919,
+    "duration": 5.36
+  },
+  {
+    "text": "already a counterfactual idea. Um and",
+    "start": 1486.559,
+    "duration": 4.321
+  },
+  {
+    "text": "then I think the thing that made it",
+    "start": 1489.279,
+    "duration": 3.921
+  },
+  {
+    "text": "defensible uh was most people didn't",
+    "start": 1490.88,
+    "duration": 3.76
+  },
+  {
+    "text": "realize just how hard it was to get that",
+    "start": 1493.2,
+    "duration": 3.839
+  },
+  {
+    "text": "to work. And so like the first version",
+    "start": 1494.64,
+    "duration": 4.72
+  },
+  {
+    "text": "of the Tesla Roadster, uh because",
+    "start": 1497.039,
+    "duration": 4.321
+  },
+  {
+    "text": "everything was designed for ICE cars,",
+    "start": 1499.36,
+    "duration": 3.199
+  },
+  {
+    "text": "like air conditioner, the air",
+    "start": 1501.36,
+    "duration": 3.04
+  },
+  {
+    "text": "conditioner would turn off when the car",
+    "start": 1502.559,
+    "duration": 4.081
+  },
+  {
+    "text": "stopped at a stop sign because it was",
+    "start": 1504.4,
+    "duration": 3.6
+  },
+  {
+    "text": "used to having a continuously running",
+    "start": 1506.64,
+    "duration": 2.32
+  },
+  {
+    "text": "engine and that's not the way it works",
+    "start": 1508.0,
+    "duration": 2.48
+  },
+  {
+    "text": "in electric car. So there were all these",
+    "start": 1508.96,
+    "duration": 2.8
+  },
+  {
+    "text": "systems that you had to rebuild from the",
+    "start": 1510.48,
+    "duration": 2.4
+  },
+  {
+    "text": "ground up and really fundamentally",
+    "start": 1511.76,
+    "duration": 2.96
+  },
+  {
+    "text": "rethink the car in order to get it to",
+    "start": 1512.88,
+    "duration": 4.32
+  },
+  {
+    "text": "work. And um that then became a",
+    "start": 1514.72,
+    "duration": 4.48
+  },
+  {
+    "text": "competitive advantage for for Elon and",
+    "start": 1517.2,
+    "duration": 3.52
+  },
+  {
+    "text": "for Tesla.",
+    "start": 1519.2,
+    "duration": 3.599
+  },
+  {
+    "text": ">> Okay. I would also just add to that",
+    "start": 1520.72,
+    "duration": 5.12
+  },
+  {
+    "text": "there's a great by seven hours where you",
+    "start": 1522.799,
+    "duration": 4.801
+  },
+  {
+    "text": "build defensibility over time. So the",
+    "start": 1525.84,
+    "duration": 3.439
+  },
+  {
+    "text": "question perhaps the beginning is not",
+    "start": 1527.6,
+    "duration": 4.319
+  },
+  {
+    "text": "can we have now we build it can we build",
+    "start": 1529.279,
+    "duration": 7.361
+  },
+  {
+    "text": "it over time clear clear",
+    "start": 1531.919,
+    "duration": 6.481
+  },
+  {
+    "text": ">> yeah and there are certain things that",
+    "start": 1536.64,
+    "duration": 5.2
+  },
+  {
+    "text": "give you a starting point but in the end",
+    "start": 1538.4,
+    "duration": 5.68
+  },
+  {
+    "text": "slope always beats y intercept and so",
+    "start": 1541.84,
+    "duration": 5.28
+  },
+  {
+    "text": "you need to be optimizing for slope.",
+    "start": 1544.08,
+    "duration": 5.76
+  },
+  {
+    "text": ">> Yeah.",
+    "start": 1547.12,
+    "duration": 6.24
+  },
+  {
+    "text": "You were faster. You first.",
+    "start": 1549.84,
+    "duration": 5.36
+  },
+  {
+    "text": ">> So sometimes like you see stories of",
+    "start": 1553.36,
+    "duration": 3.919
+  },
+  {
+    "text": "these start",
+    "start": 1555.2,
+    "duration": 4.719
+  },
+  {
+    "text": "these times that typical",
+    "start": 1557.279,
+    "duration": 6.481
+  },
+  {
+    "text": "18 months 18 months after C",
+    "start": 1559.919,
+    "duration": 6.721
+  },
+  {
+    "text": "for open right what I know about it is",
+    "start": 1563.76,
+    "duration": 4.72
+  },
+  {
+    "text": "like they start",
+    "start": 1566.64,
+    "duration": 3.84
+  },
+  {
+    "text": "2016",
+    "start": 1568.48,
+    "duration": 3.76
+  },
+  {
+    "text": "when you work with like something that",
+    "start": 1570.48,
+    "duration": 4.48
+  },
+  {
+    "text": "generally for them. So how do you how do",
+    "start": 1572.24,
+    "duration": 6.08
+  },
+  {
+    "text": "you like support or ide?",
+    "start": 1574.96,
+    "duration": 6.56
+  },
+  {
+    "text": "Well, I think most uh",
+    "start": 1578.32,
+    "duration": 4.8
+  },
+  {
+    "text": "so if you're Sam Alman,",
+    "start": 1581.52,
+    "duration": 3.44
+  },
+  {
+    "text": ">> you can raise like an unlimited amount",
+    "start": 1583.12,
+    "duration": 3.919
+  },
+  {
+    "text": "of money and go do some random thing.",
+    "start": 1584.96,
+    "duration": 4.48
+  },
+  {
+    "text": "And so that and often times you'll see",
+    "start": 1587.039,
+    "duration": 4.24
+  },
+  {
+    "text": "stories, news stories written about",
+    "start": 1589.44,
+    "duration": 3.599
+  },
+  {
+    "text": "these particular kinds of startups",
+    "start": 1591.279,
+    "duration": 3.76
+  },
+  {
+    "text": "because they are so newsworthy when",
+    "start": 1593.039,
+    "duration": 4.0
+  },
+  {
+    "text": "they're so rare, right? When you have,",
+    "start": 1595.039,
+    "duration": 3.601
+  },
+  {
+    "text": "you know, someone who's made a ton of",
+    "start": 1597.039,
+    "duration": 4.081
+  },
+  {
+    "text": "money start a new thing with a ton more",
+    "start": 1598.64,
+    "duration": 4.8
+  },
+  {
+    "text": "money to do some crazy moonshot idea,",
+    "start": 1601.12,
+    "duration": 4.0
+  },
+  {
+    "text": "it's a news story. And so that's why you",
+    "start": 1603.44,
+    "duration": 3.92
+  },
+  {
+    "text": "read about it in the news, but it's not",
+    "start": 1605.12,
+    "duration": 5.12
+  },
+  {
+    "text": "the like the path that is recommended.",
+    "start": 1607.36,
+    "duration": 4.319
+  },
+  {
+    "text": "And there are also many failures in the",
+    "start": 1610.24,
+    "duration": 2.799
+  },
+  {
+    "text": "space like Andy Rubin who created",
+    "start": 1611.679,
+    "duration": 3.36
+  },
+  {
+    "text": "Android tried to create a cell phone",
+    "start": 1613.039,
+    "duration": 3.921
+  },
+  {
+    "text": "company to be with Apple raised tons of",
+    "start": 1615.039,
+    "duration": 3.921
+  },
+  {
+    "text": "money for it and the whole thing and it",
+    "start": 1616.96,
+    "duration": 4.319
+  },
+  {
+    "text": "completely failed. And so that there are",
+    "start": 1618.96,
+    "duration": 3.839
+  },
+  {
+    "text": "also the negative stories about this",
+    "start": 1621.279,
+    "duration": 3.601
+  },
+  {
+    "text": "archetype. And I I would just say",
+    "start": 1622.799,
+    "duration": 3.601
+  },
+  {
+    "text": "broadly speaking for everyone in this",
+    "start": 1624.88,
+    "duration": 2.96
+  },
+  {
+    "text": "room except maybe I don't know one or",
+    "start": 1626.4,
+    "duration": 3.68
+  },
+  {
+    "text": "two of you who who could conceivably do",
+    "start": 1627.84,
+    "duration": 5.92
+  },
+  {
+    "text": "this, it's not recommended. Um, let's",
+    "start": 1630.08,
+    "duration": 5.199
+  },
+  {
+    "text": "say even if you can do it, I would",
+    "start": 1633.76,
+    "duration": 3.519
+  },
+  {
+    "text": "recommend against it just because you",
+    "start": 1635.279,
+    "duration": 4.0
+  },
+  {
+    "text": "have to keep in mind that that",
+    "start": 1637.279,
+    "duration": 3.76
+  },
+  {
+    "text": "trajectory you're looking at is where",
+    "start": 1639.279,
+    "duration": 3.121
+  },
+  {
+    "text": "you'll be benchmarked. And so if you",
+    "start": 1641.039,
+    "duration": 3.041
+  },
+  {
+    "text": "want to skip all the way over here and",
+    "start": 1642.4,
+    "duration": 4.48
+  },
+  {
+    "text": "raise $50 million, your next funding",
+    "start": 1644.08,
+    "duration": 4.8
+  },
+  {
+    "text": "round, you'll be compared to people who",
+    "start": 1646.88,
+    "duration": 3.52
+  },
+  {
+    "text": "started there and built it up slowly",
+    "start": 1648.88,
+    "duration": 3.279
+  },
+  {
+    "text": "over time. So your growth needs to be",
+    "start": 1650.4,
+    "duration": 4.639
+  },
+  {
+    "text": "ridiculously explosive for you to win",
+    "start": 1652.159,
+    "duration": 4.64
+  },
+  {
+    "text": "against other companies who are, you",
+    "start": 1655.039,
+    "duration": 3.76
+  },
+  {
+    "text": "know, like, oh, you raised $50 million",
+    "start": 1656.799,
+    "duration": 3.76
+  },
+  {
+    "text": "and so we're going to compare you to",
+    "start": 1658.799,
+    "duration": 2.88
+  },
+  {
+    "text": "other companies with similar, you know,",
+    "start": 1660.559,
+    "duration": 3.681
+  },
+  {
+    "text": "amounts of capital and so on.",
+    "start": 1661.679,
+    "duration": 4.0
+  },
+  {
+    "text": ">> So you say that timing is really",
+    "start": 1664.24,
+    "duration": 3.039
+  },
+  {
+    "text": "important, but I would also argue that",
+    "start": 1665.679,
+    "duration": 3.12
+  },
+  {
+    "text": "most of the examples that you showed,",
+    "start": 1667.279,
+    "duration": 2.961
+  },
+  {
+    "text": "there were previous people that tried",
+    "start": 1668.799,
+    "duration": 3.281
+  },
+  {
+    "text": "couldn't work and then you see the",
+    "start": 1670.24,
+    "duration": 3.2
+  },
+  {
+    "text": "winners, right? And you go back and look",
+    "start": 1672.08,
+    "duration": 2.8
+  },
+  {
+    "text": "and obviously it was the right time to",
+    "start": 1673.44,
+    "duration": 3.2
+  },
+  {
+    "text": "make the technologies. So what's like a",
+    "start": 1674.88,
+    "duration": 4.08
+  },
+  {
+    "text": "generalizable thing from all these",
+    "start": 1676.64,
+    "duration": 4.639
+  },
+  {
+    "text": "companies you could give to us as advice",
+    "start": 1678.96,
+    "duration": 3.839
+  },
+  {
+    "text": "for like to know it's the right time?",
+    "start": 1681.279,
+    "duration": 3.441
+  },
+  {
+    "text": ">> Yeah. So I I think you can look at the",
+    "start": 1682.799,
+    "duration": 4.561
+  },
+  {
+    "text": "underlying driver. So for example in",
+    "start": 1684.72,
+    "duration": 5.439
+  },
+  {
+    "text": "case or in Tesla's case like Elon was",
+    "start": 1687.36,
+    "duration": 4.559
+  },
+  {
+    "text": "very specific about plotting out the",
+    "start": 1690.159,
+    "duration": 4.481
+  },
+  {
+    "text": "cost for lithium lithium ion batteries",
+    "start": 1691.919,
+    "duration": 4.0
+  },
+  {
+    "text": "and there was a price point at which",
+    "start": 1694.64,
+    "duration": 2.72
+  },
+  {
+    "text": "you're like I think I can make a car now",
+    "start": 1695.919,
+    "duration": 3.681
+  },
+  {
+    "text": "that people buy and before which it's",
+    "start": 1697.36,
+    "duration": 5.84
+  },
+  {
+    "text": "not a good idea. Now, uh, there are also",
+    "start": 1699.6,
+    "duration": 5.84
+  },
+  {
+    "text": "cases where people got lucky and you",
+    "start": 1703.2,
+    "duration": 3.839
+  },
+  {
+    "text": "could sort of backward explain it, like",
+    "start": 1705.44,
+    "duration": 3.359
+  },
+  {
+    "text": "maybe Jensen wasn't doing this math. I",
+    "start": 1707.039,
+    "duration": 3.76
+  },
+  {
+    "text": "don't know. I haven't asked him. Um, but",
+    "start": 1708.799,
+    "duration": 3.76
+  },
+  {
+    "text": "I do know that if you do do the math and",
+    "start": 1710.799,
+    "duration": 3.201
+  },
+  {
+    "text": "you're very clear with yourself about,",
+    "start": 1712.559,
+    "duration": 3.761
+  },
+  {
+    "text": "okay, this is the dollar per token or",
+    "start": 1714.0,
+    "duration": 3.919
+  },
+  {
+    "text": "something price point at which my new",
+    "start": 1716.32,
+    "duration": 3.44
+  },
+  {
+    "text": "technology is becomes really compelling",
+    "start": 1717.919,
+    "duration": 3.601
+  },
+  {
+    "text": "and we're on a trend to hit that, maybe",
+    "start": 1719.76,
+    "duration": 3.68
+  },
+  {
+    "text": "we'll hit it, you know, delta six",
+    "start": 1721.52,
+    "duration": 3.84
+  },
+  {
+    "text": "months, but somewhere in here where that",
+    "start": 1723.44,
+    "duration": 3.44
+  },
+  {
+    "text": "actually becomes possible. That's a",
+    "start": 1725.36,
+    "duration": 3.199
+  },
+  {
+    "text": "really powerful way of thinking about",
+    "start": 1726.88,
+    "duration": 4.88
+  },
+  {
+    "text": "when's the right time to start a thing.",
+    "start": 1728.559,
+    "duration": 4.801
+  },
+  {
+    "text": ">> So I kind of relate to that. Say you",
+    "start": 1731.76,
+    "duration": 4.88
+  },
+  {
+    "text": "could like see that like in like the",
+    "start": 1733.36,
+    "duration": 4.559
+  },
+  {
+    "text": "variables are moving in that direction",
+    "start": 1736.64,
+    "duration": 2.56
+  },
+  {
+    "text": "and you will reach that point where like",
+    "start": 1737.919,
+    "duration": 3.281
+  },
+  {
+    "text": "this idea will become possible. Like",
+    "start": 1739.2,
+    "duration": 3.359
+  },
+  {
+    "text": "does it make sense to try to have your",
+    "start": 1741.2,
+    "duration": 4.24
+  },
+  {
+    "text": "like startup like good to go and all the",
+    "start": 1742.559,
+    "duration": 4.881
+  },
+  {
+    "text": "technology done and so like when that",
+    "start": 1745.44,
+    "duration": 3.52
+  },
+  {
+    "text": "variable hits you're like off to the",
+    "start": 1747.44,
+    "duration": 3.52
+  },
+  {
+    "text": "races or should you like wait until that",
+    "start": 1748.96,
+    "duration": 3.36
+  },
+  {
+    "text": "variable like crosses the threshold",
+    "start": 1750.96,
+    "duration": 2.719
+  },
+  {
+    "text": "before you like actually get in your",
+    "start": 1752.32,
+    "duration": 3.2
+  },
+  {
+    "text": "startup?",
+    "start": 1753.679,
+    "duration": 4.641
+  },
+  {
+    "text": "I think if the if for any reasonable",
+    "start": 1755.52,
+    "duration": 4.8
+  },
+  {
+    "text": "version of this uh the answer is always",
+    "start": 1758.32,
+    "duration": 4.64
+  },
+  {
+    "text": "start now. Um like if you're like I'm",
+    "start": 1760.32,
+    "duration": 5.2
+  },
+  {
+    "text": "tracking this trend that in seven years",
+    "start": 1762.96,
+    "duration": 4.319
+  },
+  {
+    "text": "we will have blah blah blah blah blah.",
+    "start": 1765.52,
+    "duration": 4.639
+  },
+  {
+    "text": "So you know like that is like some 60",
+    "start": 1767.279,
+    "duration": 4.481
+  },
+  {
+    "text": "chess like maybe you're right. I don't",
+    "start": 1770.159,
+    "duration": 3.921
+  },
+  {
+    "text": "know in seven years you know like a",
+    "start": 1771.76,
+    "duration": 3.519
+  },
+  {
+    "text": "bunch of people up there think that",
+    "start": 1774.08,
+    "duration": 2.959
+  },
+  {
+    "text": "we're going to be all dead or all you",
+    "start": 1775.279,
+    "duration": 4.081
+  },
+  {
+    "text": "know what I mean? Like I don't know. So",
+    "start": 1777.039,
+    "duration": 4.401
+  },
+  {
+    "text": "like I wouldn't do that. Uh but so",
+    "start": 1779.36,
+    "duration": 3.12
+  },
+  {
+    "text": "generally speaking, you're you're",
+    "start": 1781.44,
+    "duration": 2.64
+  },
+  {
+    "text": "probably seeing something that's 18 24",
+    "start": 1782.48,
+    "duration": 3.919
+  },
+  {
+    "text": "months out. And you can then take that",
+    "start": 1784.08,
+    "duration": 4.719
+  },
+  {
+    "text": "extrapolation in your pitch and be like,",
+    "start": 1786.399,
+    "duration": 4.801
+  },
+  {
+    "text": "\"Hey, here's the trend and here's where",
+    "start": 1788.799,
+    "duration": 3.841
+  },
+  {
+    "text": "it intersects this and here's why this",
+    "start": 1791.2,
+    "duration": 2.719
+  },
+  {
+    "text": "then becomes incredibly valuable,",
+    "start": 1792.64,
+    "duration": 2.56
+  },
+  {
+    "text": "becomes the bottleneck or whatever it",
+    "start": 1793.919,
+    "duration": 1.921
+  },
+  {
+    "text": "is.\"",
+    "start": 1795.2,
+    "duration": 2.24
+  },
+  {
+    "text": ">> Uh and that's a really compelling, you",
+    "start": 1795.84,
+    "duration": 3.52
+  },
+  {
+    "text": "know, macro storytell.",
+    "start": 1797.44,
+    "duration": 2.64
+  },
+  {
+    "text": ">> Yeah.",
+    "start": 1799.36,
+    "duration": 2.559
+  },
+  {
+    "text": ">> Um Okay. I wanted to go back to like",
+    "start": 1800.08,
+    "duration": 5.36
+  },
+  {
+    "text": "some of these like AI for crops.",
+    "start": 1801.919,
+    "duration": 3.841
+  },
+  {
+    "text": ">> Yeah.",
+    "start": 1805.44,
+    "duration": 2.719
+  },
+  {
+    "text": ">> And like I'm thinking of like the you",
+    "start": 1805.76,
+    "duration": 4.56
+  },
+  {
+    "text": "know do some AI",
+    "start": 1808.159,
+    "duration": 5.441
+  },
+  {
+    "text": "like by and what and like",
+    "start": 1810.32,
+    "duration": 4.959
+  },
+  {
+    "text": ">> sounds like do that",
+    "start": 1813.6,
+    "duration": 3.04
+  },
+  {
+    "text": ">> but then like some of them are",
+    "start": 1815.279,
+    "duration": 4.801
+  },
+  {
+    "text": "successful so like what's the deal like",
+    "start": 1816.64,
+    "duration": 5.039
+  },
+  {
+    "text": ">> what's what's an example of a successful",
+    "start": 1820.08,
+    "duration": 3.44
+  },
+  {
+    "text": "vibe kind of a thing",
+    "start": 1821.679,
+    "duration": 5.681
+  },
+  {
+    "text": ">> um like a like a I' I've seen like a",
+    "start": 1823.52,
+    "duration": 7.36
+  },
+  {
+    "text": "like a AI social media thing or like a",
+    "start": 1827.36,
+    "duration": 3.76
+  },
+  {
+    "text": "um",
+    "start": 1830.88,
+    "duration": 2.159
+  },
+  {
+    "text": ">> consumer consumer say the big the big",
+    "start": 1831.12,
+    "duration": 3.439
+  },
+  {
+    "text": "case for this is that what you're",
+    "start": 1833.039,
+    "duration": 3.601
+  },
+  {
+    "text": "talking about consumer okay consumers is",
+    "start": 1834.559,
+    "duration": 4.0
+  },
+  {
+    "text": "a unique uh area of the market that I",
+    "start": 1836.64,
+    "duration": 3.759
+  },
+  {
+    "text": "wouldn't recommend you guys get into",
+    "start": 1838.559,
+    "duration": 4.0
+  },
+  {
+    "text": "generally. So the problem with consumer",
+    "start": 1840.399,
+    "duration": 4.241
+  },
+  {
+    "text": "is that people are very confusing. Like",
+    "start": 1842.559,
+    "duration": 4.321
+  },
+  {
+    "text": "it's very hard to know a priority. What",
+    "start": 1844.64,
+    "duration": 3.919
+  },
+  {
+    "text": "is the thing that's going to become a",
+    "start": 1846.88,
+    "duration": 3.84
+  },
+  {
+    "text": "thing for people and like is it a flash",
+    "start": 1848.559,
+    "duration": 4.0
+  },
+  {
+    "text": "in the pan like that? There's a startup",
+    "start": 1850.72,
+    "duration": 3.199
+  },
+  {
+    "text": "raise much money that was like everyone",
+    "start": 1852.559,
+    "duration": 5.12
+  },
+  {
+    "text": "on a on a like a live audio clubhouse.",
+    "start": 1853.919,
+    "duration": 6.081
+  },
+  {
+    "text": "It's clubhouse like and then all the way",
+    "start": 1857.679,
+    "duration": 4.161
+  },
+  {
+    "text": "down again and then but something's",
+    "start": 1860.0,
+    "duration": 3.2
+  },
+  {
+    "text": "become Twitter or whatever. You know",
+    "start": 1861.84,
+    "duration": 2.64
+  },
+  {
+    "text": "what I mean? It's all it's very hard to",
+    "start": 1863.2,
+    "duration": 3.839
+  },
+  {
+    "text": "predict what consumer trends become",
+    "start": 1864.48,
+    "duration": 5.28
+  },
+  {
+    "text": "stable, you know, points in the in the",
+    "start": 1867.039,
+    "duration": 4.88
+  },
+  {
+    "text": "space, especially for people who are",
+    "start": 1869.76,
+    "duration": 4.24
+  },
+  {
+    "text": "like borderline autistic in this room. I",
+    "start": 1871.919,
+    "duration": 3.921
+  },
+  {
+    "text": "see a lot of people, you know what I",
+    "start": 1874.0,
+    "duration": 6.76
+  },
+  {
+    "text": "mean? Like we're not good at that, guys.",
+    "start": 1875.84,
+    "duration": 4.92
+  },
+  {
+    "text": "So, I wouldn't recommend this as a",
+    "start": 1881.12,
+    "duration": 5.84
+  },
+  {
+    "text": "strategy. Uh and what VCs even do in the",
+    "start": 1882.799,
+    "duration": 6.641
+  },
+  {
+    "text": "space who are like have good taste for",
+    "start": 1886.96,
+    "duration": 6.0
+  },
+  {
+    "text": "consumer even they don't use that taste",
+    "start": 1889.44,
+    "duration": 4.88
+  },
+  {
+    "text": "so much as they're like okay how many",
+    "start": 1892.96,
+    "duration": 3.199
+  },
+  {
+    "text": "users how fast is it growing like it's",
+    "start": 1894.32,
+    "duration": 4.32
+  },
+  {
+    "text": "it's all traction and signal based and",
+    "start": 1896.159,
+    "duration": 4.88
+  },
+  {
+    "text": "so yeah for every one vioded thing that",
+    "start": 1898.64,
+    "duration": 4.24
+  },
+  {
+    "text": "ends up going you know viral and people",
+    "start": 1901.039,
+    "duration": 3.681
+  },
+  {
+    "text": "start using it there's like 10,000",
+    "start": 1902.88,
+    "duration": 5.12
+  },
+  {
+    "text": "attempts that didn't work uh and it's",
+    "start": 1904.72,
+    "duration": 4.88
+  },
+  {
+    "text": "just the speed of iterating on finding",
+    "start": 1908.0,
+    "duration": 3.279
+  },
+  {
+    "text": "that one vcoded thing that you then",
+    "start": 1909.6,
+    "duration": 3.6
+  },
+  {
+    "text": "harden and turn into a real business.",
+    "start": 1911.279,
+    "duration": 3.921
+  },
+  {
+    "text": "Um, I don't think that's how we move the",
+    "start": 1913.2,
+    "duration": 3.839
+  },
+  {
+    "text": "future forward. Like I think the the",
+    "start": 1915.2,
+    "duration": 4.56
+  },
+  {
+    "text": "most likely case when I see historically",
+    "start": 1917.039,
+    "duration": 4.561
+  },
+  {
+    "text": "anyway of what's like transformed",
+    "start": 1919.76,
+    "duration": 4.24
+  },
+  {
+    "text": "society, it's someone who is on a",
+    "start": 1921.6,
+    "duration": 3.84
+  },
+  {
+    "text": "revenge mission to make humanity",
+    "start": 1924.0,
+    "duration": 3.279
+  },
+  {
+    "text": "multilanetary or who like really",
+    "start": 1925.44,
+    "duration": 3.52
+  },
+  {
+    "text": "believes that the computer is the",
+    "start": 1927.279,
+    "duration": 3.681
+  },
+  {
+    "text": "bicycle of the mind and like we can we",
+    "start": 1928.96,
+    "duration": 3.839
+  },
+  {
+    "text": "can make that one in every home. It's",
+    "start": 1930.96,
+    "duration": 3.76
+  },
+  {
+    "text": "like these radical ideas that a person",
+    "start": 1932.799,
+    "duration": 5.681
+  },
+  {
+    "text": "is devoted to from birth basically.",
+    "start": 1934.72,
+    "duration": 4.4
+  },
+  {
+    "text": ">> Yeah.",
+    "start": 1938.48,
+    "duration": 4.199
+  },
+  {
+    "text": ">> How do you think through",
+    "start": 1939.12,
+    "duration": 3.559
+  },
+  {
+    "text": "like small modules",
+    "start": 1944.08,
+    "duration": 5.68
+  },
+  {
+    "text": ">> not discovery small module therapy so",
+    "start": 1947.279,
+    "duration": 5.441
+  },
+  {
+    "text": "assetbased I'm I'm like very bearish on",
+    "start": 1949.76,
+    "duration": 5.84
+  },
+  {
+    "text": "assetbased uh drug companies as a as a",
+    "start": 1952.72,
+    "duration": 4.799
+  },
+  {
+    "text": "template I think we need to find a new",
+    "start": 1955.6,
+    "duration": 3.679
+  },
+  {
+    "text": "way to make drugs faster and cheaper and",
+    "start": 1957.519,
+    "duration": 4.561
+  },
+  {
+    "text": "this goes to the Z-axis question so I'm",
+    "start": 1959.279,
+    "duration": 4.081
+  },
+  {
+    "text": "very interested in companies that are",
+    "start": 1962.08,
+    "duration": 3.839
+  },
+  {
+    "text": "platform biotechnology companies",
+    "start": 1963.36,
+    "duration": 4.08
+  },
+  {
+    "text": "especially ones that make everything",
+    "start": 1965.919,
+    "duration": 3.921
+  },
+  {
+    "text": "faster for everybody else so source is a",
+    "start": 1967.44,
+    "duration": 3.92
+  },
+  {
+    "text": "great example of this but there are",
+    "start": 1969.84,
+    "duration": 3.92
+  },
+  {
+    "text": "others and And so if you can take some",
+    "start": 1971.36,
+    "duration": 3.919
+  },
+  {
+    "text": "you know very slow thing and turn it",
+    "start": 1973.76,
+    "duration": 3.6
+  },
+  {
+    "text": "into a very fast cheap thing that is",
+    "start": 1975.279,
+    "duration": 3.681
+  },
+  {
+    "text": "like awesome. And so the more of those",
+    "start": 1977.36,
+    "duration": 3.12
+  },
+  {
+    "text": "we get the faster the whole industry can",
+    "start": 1978.96,
+    "duration": 3.28
+  },
+  {
+    "text": "move.",
+    "start": 1980.48,
+    "duration": 2.079
+  },
+  {
+    "text": ">> Yeah.",
+    "start": 1982.24,
+    "duration": 0.72
+  },
+  {
+    "text": ">> Yeah.",
+    "start": 1982.559,
+    "duration": 4.72
+  },
+  {
+    "text": ">> I like to believe in AI for automated",
+    "start": 1982.96,
+    "duration": 6.16
+  },
+  {
+    "text": "science",
+    "start": 1987.279,
+    "duration": 3.441
+  },
+  {
+    "text": "that kind of thing but at the same time",
+    "start": 1989.12,
+    "duration": 3.84
+  },
+  {
+    "text": "like as tools are making coding just",
+    "start": 1990.72,
+    "duration": 3.439
+  },
+  {
+    "text": "faster and faster and faster. Do you",
+    "start": 1992.96,
+    "duration": 3.68
+  },
+  {
+    "text": "have any insights for stuff like that",
+    "start": 1994.159,
+    "duration": 7.12
+  },
+  {
+    "text": "like really basic? Well, I think um one",
+    "start": 1996.64,
+    "duration": 6.399
+  },
+  {
+    "text": "of the things that I'm very curious",
+    "start": 2001.279,
+    "duration": 5.041
+  },
+  {
+    "text": "about is like I think LMS are great when",
+    "start": 2003.039,
+    "duration": 6.0
+  },
+  {
+    "text": "you don't mind if it's wrong kind of",
+    "start": 2006.32,
+    "duration": 4.719
+  },
+  {
+    "text": ">> and in science you do and you you're",
+    "start": 2009.039,
+    "duration": 3.601
+  },
+  {
+    "text": "also trying to sort out disperate",
+    "start": 2011.039,
+    "duration": 3.52
+  },
+  {
+    "text": "visions, disperate potentially true",
+    "start": 2012.64,
+    "duration": 4.96
+  },
+  {
+    "text": "theories and that's not a strength for",
+    "start": 2014.559,
+    "duration": 6.48
+  },
+  {
+    "text": "LMS and so I kind of wonder is there",
+    "start": 2017.6,
+    "duration": 6.0
+  },
+  {
+    "text": "something that sits on top that or some",
+    "start": 2021.039,
+    "duration": 4.64
+  },
+  {
+    "text": "ontology or some you know we try to do",
+    "start": 2023.6,
+    "duration": 3.28
+  },
+  {
+    "text": "this this is one of the areas we looked",
+    "start": 2025.679,
+    "duration": 2.88
+  },
+  {
+    "text": "to do vicarious like using probabic",
+    "start": 2026.88,
+    "duration": 4.72
+  },
+  {
+    "text": "graphs to do more uh like causal",
+    "start": 2028.559,
+    "duration": 5.761
+  },
+  {
+    "text": "reasoning and and so we we would create",
+    "start": 2031.6,
+    "duration": 4.64
+  },
+  {
+    "text": "graphs where we would do inference. We'd",
+    "start": 2034.32,
+    "duration": 3.12
+  },
+  {
+    "text": "do belief propagation of the graph and",
+    "start": 2036.24,
+    "duration": 3.039
+  },
+  {
+    "text": "it would be multi-stable and that would",
+    "start": 2037.44,
+    "duration": 3.2
+  },
+  {
+    "text": "mean that there were two competing",
+    "start": 2039.279,
+    "duration": 3.041
+  },
+  {
+    "text": "explanations for the same underlying",
+    "start": 2040.64,
+    "duration": 3.519
+  },
+  {
+    "text": "phenomenon and we could clamp the node",
+    "start": 2042.32,
+    "duration": 4.16
+  },
+  {
+    "text": "on one side of the network and then run",
+    "start": 2044.159,
+    "duration": 3.601
+  },
+  {
+    "text": "inference and then it would say okay",
+    "start": 2046.48,
+    "duration": 2.8
+  },
+  {
+    "text": "here are all the implications and then",
+    "start": 2047.76,
+    "duration": 2.8
+  },
+  {
+    "text": "you could clamp this node and run",
+    "start": 2049.28,
+    "duration": 2.72
+  },
+  {
+    "text": "inference and this is the alternate",
+    "start": 2050.56,
+    "duration": 2.88
+  },
+  {
+    "text": "explanation of the same data and then",
+    "start": 2052.0,
+    "duration": 4.399
+  },
+  {
+    "text": "you can also identify what what new data",
+    "start": 2053.44,
+    "duration": 5.199
+  },
+  {
+    "text": "would then firmly disambiguate between",
+    "start": 2056.399,
+    "duration": 5.68
+  },
+  {
+    "text": "this multi-stable perception and so such",
+    "start": 2058.639,
+    "duration": 5.361
+  },
+  {
+    "text": "a thing does not exist but it would be",
+    "start": 2062.079,
+    "duration": 3.921
+  },
+  {
+    "text": "really interesting if it could And also",
+    "start": 2064.0,
+    "duration": 3.44
+  },
+  {
+    "text": "you could turn this into an automated",
+    "start": 2066.0,
+    "duration": 3.52
+  },
+  {
+    "text": "truth machine for like uh for like",
+    "start": 2067.44,
+    "duration": 4.239
+  },
+  {
+    "text": "community notes on Twitter because a lot",
+    "start": 2069.52,
+    "duration": 4.24
+  },
+  {
+    "text": "of misinformation is like I'm telling",
+    "start": 2071.679,
+    "duration": 3.521
+  },
+  {
+    "text": "you a true thing and I'm miss I'm",
+    "start": 2073.76,
+    "duration": 3.599
+  },
+  {
+    "text": "leaving out a part of the story that",
+    "start": 2075.2,
+    "duration": 4.159
+  },
+  {
+    "text": "invalidates the the perception I want to",
+    "start": 2077.359,
+    "duration": 4.8
+  },
+  {
+    "text": "give you and so anyway there's some",
+    "start": 2079.359,
+    "duration": 4.56
+  },
+  {
+    "text": "interesting stuff to be done here that",
+    "start": 2082.159,
+    "duration": 3.601
+  },
+  {
+    "text": "is defensible because no one's figured",
+    "start": 2083.919,
+    "duration": 4.321
+  },
+  {
+    "text": "out how to do it. Yeah, I have a",
+    "start": 2085.76,
+    "duration": 4.639
+  },
+  {
+    "text": "question about the meta ideas if you",
+    "start": 2088.24,
+    "duration": 6.159
+  },
+  {
+    "text": "look at for example second hybrid fusion",
+    "start": 2090.399,
+    "duration": 8.561
+  },
+  {
+    "text": "naval reactors right uh like if the the",
+    "start": 2094.399,
+    "duration": 6.321
+  },
+  {
+    "text": "vision if the big picture you're",
+    "start": 2098.96,
+    "duration": 4.0
+  },
+  {
+    "text": "actually building the reactor not just",
+    "start": 2100.72,
+    "duration": 5.2
+  },
+  {
+    "text": "for n but for all different applications",
+    "start": 2102.96,
+    "duration": 4.8
+  },
+  {
+    "text": "is that making",
+    "start": 2105.92,
+    "duration": 3.199
+  },
+  {
+    "text": ">> sure so if you can figure out how to do",
+    "start": 2107.76,
+    "duration": 3.52
+  },
+  {
+    "text": "that again with like the VC funel",
+    "start": 2109.119,
+    "duration": 4.24
+  },
+  {
+    "text": "milestones and timelines",
+    "start": 2111.28,
+    "duration": 4.079
+  },
+  {
+    "text": ">> that sounds amazing I think the the",
+    "start": 2113.359,
+    "duration": 4.641
+  },
+  {
+    "text": "challenge I had was a the naval reactors",
+    "start": 2115.359,
+    "duration": 4.801
+  },
+  {
+    "text": "part that was part of what makes the",
+    "start": 2118.0,
+    "duration": 4.88
+  },
+  {
+    "text": "energy go down. Uh but b hybrid fusion",
+    "start": 2120.16,
+    "duration": 5.28
+  },
+  {
+    "text": "fusion reactors generally are like no",
+    "start": 2122.88,
+    "duration": 4.239
+  },
+  {
+    "text": "one's figured out how to do that. Well,",
+    "start": 2125.44,
+    "duration": 2.159
+  },
+  {
+    "text": ">> okay.",
+    "start": 2127.119,
+    "duration": 2.48
+  },
+  {
+    "text": ">> So, it's like two you're combining two",
+    "start": 2127.599,
+    "duration": 3.921
+  },
+  {
+    "text": "things together that make it extra hard",
+    "start": 2129.599,
+    "duration": 4.24
+  },
+  {
+    "text": "and but if you have if you can do it",
+    "start": 2131.52,
+    "duration": 5.04
+  },
+  {
+    "text": "then you should do that.",
+    "start": 2133.839,
+    "duration": 5.361
+  },
+  {
+    "text": ">> Yeah. Uh kind of on that with the",
+    "start": 2136.56,
+    "duration": 7.279
+  },
+  {
+    "text": "milestone is kind of rule of thumb.",
+    "start": 2139.2,
+    "duration": 6.56
+  },
+  {
+    "text": "Does that hold true for like if you did",
+    "start": 2143.839,
+    "duration": 3.601
+  },
+  {
+    "text": "figure out how to make a fishision",
+    "start": 2145.76,
+    "duration": 4.72
+  },
+  {
+    "text": "reactor like that's very expensive",
+    "start": 2147.44,
+    "duration": 4.88
+  },
+  {
+    "text": "does that scale like kind of problem",
+    "start": 2150.48,
+    "duration": 3.44
+  },
+  {
+    "text": "you're doing generally looking at",
+    "start": 2152.32,
+    "duration": 4.0
+  },
+  {
+    "text": "investment or is that still",
+    "start": 2153.92,
+    "duration": 4.88
+  },
+  {
+    "text": ">> yeah I think it scales if you if so if",
+    "start": 2156.32,
+    "duration": 4.72
+  },
+  {
+    "text": "you build the prototype of the fusion",
+    "start": 2158.8,
+    "duration": 3.44
+  },
+  {
+    "text": "vision reactor",
+    "start": 2161.04,
+    "duration": 3.52
+  },
+  {
+    "text": ">> and it actually works and then you sign",
+    "start": 2162.24,
+    "duration": 3.599
+  },
+  {
+    "text": "purchase orders with data center",
+    "start": 2164.56,
+    "duration": 4.32
+  },
+  {
+    "text": "customers who want to buy $800 million",
+    "start": 2165.839,
+    "duration": 5.52
+  },
+  {
+    "text": "worth of reactors from you next year",
+    "start": 2168.88,
+    "duration": 4.479
+  },
+  {
+    "text": "then you could absolutely raise a a",
+    "start": 2171.359,
+    "duration": 3.601
+  },
+  {
+    "text": "whole lot of money, you know, billions",
+    "start": 2173.359,
+    "duration": 3.841
+  },
+  {
+    "text": "of dollars basically on that level of",
+    "start": 2174.96,
+    "duration": 5.36
+  },
+  {
+    "text": "traction proof, but the stakes are very",
+    "start": 2177.2,
+    "duration": 5.68
+  },
+  {
+    "text": "high for, you know, for the level of",
+    "start": 2180.32,
+    "duration": 3.92
+  },
+  {
+    "text": "proof you have to provide for that to be",
+    "start": 2182.88,
+    "duration": 2.32
+  },
+  {
+    "text": "true. Yeah.",
+    "start": 2184.24,
+    "duration": 2.64
+  },
+  {
+    "text": ">> Do you think that the expectations have",
+    "start": 2185.2,
+    "duration": 3.919
+  },
+  {
+    "text": "changed for each of those stages with",
+    "start": 2186.88,
+    "duration": 5.68
+  },
+  {
+    "text": "like the the normalization of pre rounds",
+    "start": 2189.119,
+    "duration": 5.841
+  },
+  {
+    "text": "for example?",
+    "start": 2192.56,
+    "duration": 4.24
+  },
+  {
+    "text": ">> Well, the pre rounds fits into the frame",
+    "start": 2194.96,
+    "duration": 4.8
+  },
+  {
+    "text": "of the C round bucket. So the preced",
+    "start": 2196.8,
+    "duration": 5.039
+  },
+  {
+    "text": "version of this or something.",
+    "start": 2199.76,
+    "duration": 5.28
+  },
+  {
+    "text": ">> So that you just those milestones.",
+    "start": 2201.839,
+    "duration": 4.641
+  },
+  {
+    "text": ">> Yeah. So, you basically break that first",
+    "start": 2205.04,
+    "duration": 4.0
+  },
+  {
+    "text": "C round into a pre 5K and a C for 3",
+    "start": 2206.48,
+    "duration": 4.4
+  },
+  {
+    "text": "million or 2 million or something. And",
+    "start": 2209.04,
+    "duration": 3.44
+  },
+  {
+    "text": "so, you maybe know that 18 month cycle",
+    "start": 2210.88,
+    "duration": 3.44
+  },
+  {
+    "text": "in the beginning of the preede if it was",
+    "start": 2212.48,
+    "duration": 4.84
+  },
+  {
+    "text": "something.",
+    "start": 2214.32,
+    "duration": 3.0
+  },
+  {
+    "text": ">> Yeah.",
+    "start": 2218.0,
+    "duration": 1.76
+  },
+  {
+    "text": ">> A hard time figuring out the right way",
+    "start": 2218.64,
+    "duration": 6.479
+  },
+  {
+    "text": "to ask question. you might be around",
+    "start": 2219.76,
+    "duration": 8.88
+  },
+  {
+    "text": "but then additionally like like",
+    "start": 2225.119,
+    "duration": 4.72
+  },
+  {
+    "text": "does it make sense to be government",
+    "start": 2228.64,
+    "duration": 5.04
+  },
+  {
+    "text": "funded like like can you ever is it",
+    "start": 2229.839,
+    "duration": 5.52
+  },
+  {
+    "text": "historically common to see like like",
+    "start": 2233.68,
+    "duration": 6.28
+  },
+  {
+    "text": "government as an inc",
+    "start": 2235.359,
+    "duration": 4.601
+  },
+  {
+    "text": ">> I think we're in a very unique time so I",
+    "start": 2240.8,
+    "duration": 5.84
+  },
+  {
+    "text": "think uh in this in the in the present",
+    "start": 2243.52,
+    "duration": 5.44
+  },
+  {
+    "text": "moment there's a rapid decoupling",
+    "start": 2246.64,
+    "duration": 4.959
+  },
+  {
+    "text": "happening with China around critical",
+    "start": 2248.96,
+    "duration": 5.28
+  },
+  {
+    "text": "minerals and you know some other things",
+    "start": 2251.599,
+    "duration": 5.201
+  },
+  {
+    "text": "and so there is more of an opportunity",
+    "start": 2254.24,
+    "duration": 4.32
+  },
+  {
+    "text": "than there has been historically for",
+    "start": 2256.8,
+    "duration": 3.84
+  },
+  {
+    "text": "this kind of thing to occur and if there",
+    "start": 2258.56,
+    "duration": 4.72
+  },
+  {
+    "text": "is a hot conflict then there will be a",
+    "start": 2260.64,
+    "duration": 4.88
+  },
+  {
+    "text": "really big exponential around certain",
+    "start": 2263.28,
+    "duration": 4.079
+  },
+  {
+    "text": "subsectors of the economy",
+    "start": 2265.52,
+    "duration": 3.76
+  },
+  {
+    "text": ">> that's driven by government demand",
+    "start": 2267.359,
+    "duration": 3.201
+  },
+  {
+    "text": ">> globalization",
+    "start": 2269.28,
+    "duration": 3.92
+  },
+  {
+    "text": ">> yeah and so I don't",
+    "start": 2270.56,
+    "duration": 5.44
+  },
+  {
+    "text": "you know it's it's a hard thing to bet",
+    "start": 2273.2,
+    "duration": 4.56
+  },
+  {
+    "text": "on and I think VCs are generally",
+    "start": 2276.0,
+    "duration": 4.16
+  },
+  {
+    "text": "hesitant to take regulatory risk",
+    "start": 2277.76,
+    "duration": 4.48
+  },
+  {
+    "text": "And so I wouldn't lean into that as your",
+    "start": 2280.16,
+    "duration": 4.24
+  },
+  {
+    "text": "area. And generally we look for things",
+    "start": 2282.24,
+    "duration": 4.72
+  },
+  {
+    "text": "that are good ideas regardless of who's",
+    "start": 2284.4,
+    "duration": 4.959
+  },
+  {
+    "text": "the president and regardless of what",
+    "start": 2286.96,
+    "duration": 4.0
+  },
+  {
+    "text": "external circumstances are around it's",
+    "start": 2289.359,
+    "duration": 4.24
+  },
+  {
+    "text": "just better. And so that's what I would",
+    "start": 2290.96,
+    "duration": 5.6
+  },
+  {
+    "text": "encourage you to look at.",
+    "start": 2293.599,
+    "duration": 4.321
+  },
+  {
+    "text": "And the best business is one that's",
+    "start": 2296.56,
+    "duration": 4.0
+  },
+  {
+    "text": "already in business and then if China",
+    "start": 2297.92,
+    "duration": 3.84
+  },
+  {
+    "text": "does something or if there's a big",
+    "start": 2300.56,
+    "duration": 2.88
+  },
+  {
+    "text": "decoupling then boy does it ever get",
+    "start": 2301.76,
+    "duration": 4.16
+  },
+  {
+    "text": "supercharged. Yeah. A follow on that. I",
+    "start": 2303.44,
+    "duration": 4.399
+  },
+  {
+    "text": "think Huawei",
+    "start": 2305.92,
+    "duration": 6.48
+  },
+  {
+    "text": "is an example like that where",
+    "start": 2307.839,
+    "duration": 6.561
+  },
+  {
+    "text": "you know those people came in and made",
+    "start": 2312.4,
+    "duration": 6.04
+  },
+  {
+    "text": "one of the biggest companies around",
+    "start": 2314.4,
+    "duration": 4.04
+  },
+  {
+    "text": ">> never uh no one has a shorter lifespan",
+    "start": 2321.28,
+    "duration": 3.12
+  },
+  {
+    "text": "than a Chinese billionaire. All right.",
+    "start": 2323.119,
+    "duration": 4.641
+  },
+  {
+    "text": "So any other questions?",
+    "start": 2324.4,
+    "duration": 5.6
+  },
+  {
+    "text": ">> Yeah.",
+    "start": 2327.76,
+    "duration": 4.48
+  },
+  {
+    "text": "Um I've received a lot of guidance which",
+    "start": 2330.0,
+    "duration": 6.96
+  },
+  {
+    "text": "might just be guidance for bio venture",
+    "start": 2332.24,
+    "duration": 7.119
+  },
+  {
+    "text": "that platforms are kind of dead in terms",
+    "start": 2336.96,
+    "duration": 6.8
+  },
+  {
+    "text": "of funding and then go for single",
+    "start": 2339.359,
+    "duration": 8.561
+  },
+  {
+    "text": ">> and I know I'm a platform person that",
+    "start": 2343.76,
+    "duration": 6.64
+  },
+  {
+    "text": ">> I hear that from you guys but is that",
+    "start": 2347.92,
+    "duration": 6.24
+  },
+  {
+    "text": "like a bunch of randomly consistent",
+    "start": 2350.4,
+    "duration": 5.52
+  },
+  {
+    "text": ">> professional",
+    "start": 2354.16,
+    "duration": 3.76
+  },
+  {
+    "text": ">> I mean there is an assets ecosystem of",
+    "start": 2355.92,
+    "duration": 5.439
+  },
+  {
+    "text": "people who like go to the professor are",
+    "start": 2357.92,
+    "duration": 5.76
+  },
+  {
+    "text": "like great finding that t great job",
+    "start": 2361.359,
+    "duration": 4.0
+  },
+  {
+    "text": "finding that target you know let's make",
+    "start": 2363.68,
+    "duration": 4.24
+  },
+  {
+    "text": "our data packet and then like we'll go",
+    "start": 2365.359,
+    "duration": 3.601
+  },
+  {
+    "text": "through the you know we'll hire a",
+    "start": 2367.92,
+    "duration": 3.28
+  },
+  {
+    "text": "professional CEO that runs the playbook",
+    "start": 2368.96,
+    "duration": 5.28
+  },
+  {
+    "text": "here's half a percent of the company",
+    "start": 2371.2,
+    "duration": 4.72
+  },
+  {
+    "text": "we'll call you back in 10 years if it",
+    "start": 2374.24,
+    "duration": 4.879
+  },
+  {
+    "text": "works you know which is fine I just",
+    "start": 2375.92,
+    "duration": 5.76
+  },
+  {
+    "text": "think like the scope of change you would",
+    "start": 2379.119,
+    "duration": 6.24
+  },
+  {
+    "text": "make in the world if you successfully",
+    "start": 2381.68,
+    "duration": 6.56
+  },
+  {
+    "text": "developed the you know treatment for",
+    "start": 2385.359,
+    "duration": 4.641
+  },
+  {
+    "text": "encphyl",
+    "start": 2388.24,
+    "duration": 4.4
+  },
+  {
+    "text": "or like infant cardiac heart anomalies",
+    "start": 2390.0,
+    "duration": 4.16
+  },
+  {
+    "text": "of this particular subtype caused by",
+    "start": 2392.64,
+    "duration": 4.64
+  },
+  {
+    "text": "this genetic whatever it's fine you know",
+    "start": 2394.16,
+    "duration": 5.439
+  },
+  {
+    "text": "what I mean like but it's not what you",
+    "start": 2397.28,
+    "duration": 4.96
+  },
+  {
+    "text": "could do if you really set aside the",
+    "start": 2399.599,
+    "duration": 4.24
+  },
+  {
+    "text": "existing systems and thought from a",
+    "start": 2402.24,
+    "duration": 3.839
+  },
+  {
+    "text": "first principles perspective of like how",
+    "start": 2403.839,
+    "duration": 4.721
+  },
+  {
+    "text": "could we make a world free of disease",
+    "start": 2406.079,
+    "duration": 3.601
+  },
+  {
+    "text": "you know what I mean like those are the",
+    "start": 2408.56,
+    "duration": 3.76
+  },
+  {
+    "text": "kinds of companies that fundamentally",
+    "start": 2409.68,
+    "duration": 5.2
+  },
+  {
+    "text": "transform the world we all have to share",
+    "start": 2412.32,
+    "duration": 4.08
+  },
+  {
+    "text": "and it's great to have one more medicine",
+    "start": 2414.88,
+    "duration": 3.52
+  },
+  {
+    "text": "of course and like I'm glad people work",
+    "start": 2416.4,
+    "duration": 4.24
+  },
+  {
+    "text": "on that but the people in this room have",
+    "start": 2418.4,
+    "duration": 3.679
+  },
+  {
+    "text": "the potential I think to do much more",
+    "start": 2420.64,
+    "duration": 3.28
+  },
+  {
+    "text": "than that and so this is the invitation",
+    "start": 2422.079,
+    "duration": 3.441
+  },
+  {
+    "text": "to like step into that",
+    "start": 2423.92,
+    "duration": 3.12
+  },
+  {
+    "text": ">> also",
+    "start": 2425.52,
+    "duration": 4.319
+  },
+  {
+    "text": "move in like a two-year kind of fashion",
+    "start": 2427.04,
+    "duration": 4.559
+  },
+  {
+    "text": "between assets and platforms like two",
+    "start": 2429.839,
+    "duration": 3.681
+  },
+  {
+    "text": "years ago platforms were really popular",
+    "start": 2431.599,
+    "duration": 4.081
+  },
+  {
+    "text": "now assets a lot of them",
+    "start": 2433.52,
+    "duration": 6.36
+  },
+  {
+    "text": ">> just don't talk to VCs they're awful",
+    "start": 2435.68,
+    "duration": 4.2
+  },
+  {
+    "text": ">> research.",
+    "start": 2447.359,
+    "duration": 3.0
+  },
+  {
+    "text": ">> It's a great question. I think um",
+    "start": 2451.68,
+    "duration": 3.6
+  },
+  {
+    "text": "unfortunately for that particular",
+    "start": 2453.76,
+    "duration": 3.52
+  },
+  {
+    "text": "subtype, philanthropy dollars are like a",
+    "start": 2455.28,
+    "duration": 4.4
+  },
+  {
+    "text": "really good fit. Um ideally what I want",
+    "start": 2457.28,
+    "duration": 4.559
+  },
+  {
+    "text": "to do is find a way for the generalized",
+    "start": 2459.68,
+    "duration": 3.84
+  },
+  {
+    "text": "version of whatever it is you have in",
+    "start": 2461.839,
+    "duration": 3.681
+  },
+  {
+    "text": "mind to be applied to many problems. Not",
+    "start": 2463.52,
+    "duration": 4.4
+  },
+  {
+    "text": "so like it it like has a huge market.",
+    "start": 2465.52,
+    "duration": 3.28
+  },
+  {
+    "text": "Oh, and it happens to solve",
+    "start": 2467.92,
+    "duration": 3.04
+  },
+  {
+    "text": "tuberculosis. Uh so like that would be",
+    "start": 2468.8,
+    "duration": 4.0
+  },
+  {
+    "text": "the ideal version of it. If it only",
+    "start": 2470.96,
+    "duration": 3.76
+  },
+  {
+    "text": "solves this thing that only affects poor",
+    "start": 2472.8,
+    "duration": 4.24
+  },
+  {
+    "text": "people, then you're going to have to run",
+    "start": 2474.72,
+    "duration": 4.48
+  },
+  {
+    "text": "on the philanthropy rails because it",
+    "start": 2477.04,
+    "duration": 4.079
+  },
+  {
+    "text": "doesn't connect to the existing",
+    "start": 2479.2,
+    "duration": 6.2
+  },
+  {
+    "text": "financial ecosystem otherwise.",
+    "start": 2481.119,
+    "duration": 4.281
+  },
+  {
+    "text": ">> Great.",
+    "start": 2489.119,
+    "duration": 4.0
+  },
+  {
+    "text": ">> Cool. Next up, uh we got lunch upstairs.",
+    "start": 2490.079,
+    "duration": 5.441
+  },
+  {
+    "text": "So, uh that's what's up next. vlog. Feel",
+    "start": 2493.119,
+    "duration": 5.121
+  },
+  {
+    "text": "free to take a B",
+    "start": 2495.52,
+    "duration": 2.72
+  }
+]
