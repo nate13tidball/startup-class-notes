@@ -1,6 +1,6 @@
-# C9 topics
+# Startup class topics
 
-Each topic folder brings its C9 recording transcript and slide deck together.
+This collection comes from the Fifty Years 50/50 C9 course. Each topic folder brings its recording transcript and slide deck together.
 Links point to the original archived files; the files are not duplicated.
 Older cohort reference transcripts are included where the Content page links them, even when the video topic differs.
 

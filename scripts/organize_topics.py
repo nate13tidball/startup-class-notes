@@ -48,7 +48,7 @@ def main():
             by_session.setdefault(session, {})[video["type"]] = video
 
     TOPICS.mkdir(exist_ok=True)
-    lines = ["# C9 topics", "", "Each topic folder brings its C9 recording transcript and slide deck together.",
+    lines = ["# Startup class topics", "", "This collection comes from the Fifty Years 50/50 C9 course. Each topic folder brings its recording transcript and slide deck together.",
              "Links point to the original archived files; the files are not duplicated.",
              "Older cohort reference transcripts are included where the Content page links them, even when the video topic differs.",
              "", "| Topic | C9 recording transcript | Slides | Older reference transcript |",
